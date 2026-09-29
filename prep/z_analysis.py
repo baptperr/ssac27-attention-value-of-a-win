@@ -7,14 +7,23 @@
   Inference: bootstrap over bouts (10,000 draws, seed 27) for CIs; two-way cluster-robust
   SEs on both fighters as a robustness check; Holm across the three confirmatory tests.
 
-alpha is reported twice, per DECISIONS.md 09-29: with the primary strikes-only p, and with
-the control-weighted p (PAP §11 promoted into the main result), because measurement error
-in p pushes performance effects into the intercept.
+alpha is reported twice, per DECISIONS.md 09-29: from the primary strikes-only model, and
+from a model that ALSO carries the control-time share, because measurement error in p
+pushes performance effects into the intercept -- which is H1.
 
-Weighted p is the mean of three within-bout shares -- significant strikes, takedowns,
-control time -- each share computed only when the pair sums above zero. Equal weights on
-shares, rather than invented exchange rates between a takedown and a strike; recorded in
-STATUS.md as a methods choice.
+Deviation from PAP §11, reportable under §15. The plan said "p recomputed including
+takedowns and control time as a weighted alternative". A single averaged index fails on
+these data: the strike share has SD 0.094 while the takedown share (SD 0.433) and control
+share (SD 0.359) are nearly all-or-nothing, so averaging lets the lumpy components dominate;
+the components are also negatively correlated (strikers out-strike, grapplers out-control),
+leaving the composite correlated -0.18 with the strike share and disagreeing with it about
+who led in 174 of 309 bouts. Instead the components enter as SEPARATE regressors:
+
+    D = alpha + b1 * (strike share - 0.5) + b2 * (control share - 0.5)
+
+No exchange rate is asserted, and alpha remains the quantity H1 is about. Takedowns are not
+added as a third regressor: the takedown share is defined in only 244 of 309 bouts and is
+collinear with control time.
 """
 import csv
 import math
@@ -94,14 +103,13 @@ def load():
 
 
 def shares(r):
+    """(winner's significant-strike share, winner's control-time share). Either is None
+    when neither fighter recorded any of it."""
     def sh(a, b):
         a, b = float(a or 0), float(b or 0)
         return None if a + b <= 0 else a / (a + b)
-    out = [sh(r["winner_sig_landed"], r["loser_sig_landed"]),
-           sh(r["winner_td"], r["loser_td"]),
-           sh(r["winner_ctrl_sec"], r["loser_ctrl_sec"])]
-    got = [x for x in out if x is not None]
-    return (out[0], sum(got) / len(got) if got else None)
+    return sh(r["winner_sig_landed"], r["loser_sig_landed"]), \
+        sh(r["winner_ctrl_sec"], r["loser_ctrl_sec"])
 
 
 def main():
@@ -113,30 +121,34 @@ def main():
     for bid, b in bouts.items():
         if b["in_sample_b"] != "True" or bid not in strikes:
             continue
-        p_strike, p_w = shares(strikes[bid])
+        p_strike, p_ctrl = shares(strikes[bid])
         ids = {f["result"]: f["fighter_id"] for f in fb[bid]}
         rows.append((bid, float(b["D"]), p_strike - 0.5,
-                     None if p_w is None else p_w - 0.5,
+                     None if p_ctrl is None else p_ctrl - 0.5,
                      ids.get("win"), ids.get("loss")))
     D = np.array([r[1] for r in rows])
     res = {}
-    for name, k in (("primary (strikes-only p)", 2), ("weighted p (strikes+TD+control)", 3)):
-        keep = [r for r in rows if r[k] is not None]
+    for name, cols in (("primary (strikes-only p)", (2,)),
+                       ("plus control-time share", (2, 3))):
+        keep = [r for r in rows if all(r[c] is not None for c in cols)]
         y = np.array([r[1] for r in keep])
-        p = np.array([r[k] for r in keep])
-        X = np.column_stack([np.ones(len(y)), p])
+        X = np.column_stack([np.ones(len(y))] + [np.array([r[c] for r in keep]) for c in cols])
         beta = ols(X, y)
         se = twoway_cluster_se(X, y, beta, [r[4] for r in keep], [r[5] for r in keep])
         a_ci, b_ci = boot_ci(X, y, k=0), boot_ci(X, y, k=1)
         res[name] = dict(n=len(y), alpha=beta[0], beta=beta[1], se=se,
-                         a_ci=a_ci, b_ci=b_ci,
+                         a_ci=a_ci, b_ci=b_ci, betas=beta,
                          pa=two_sided_p(beta[0], se[0]), pb=two_sided_p(beta[1], se[1]))
         r = res[name]
         print(f"\n{name}  n={r['n']}")
-        print(f"  alpha {r['alpha']:+.4f}  SE {se[0]:.4f}  95% CI [{a_ci[0]:+.4f}, {a_ci[1]:+.4f}]"
-              f"  p={r['pa']:.4g}   -> {100*(math.exp(r['alpha'])-1):+.1f}% attention gap at even output")
-        print(f"  beta  {r['beta']:+.4f}  SE {se[1]:.4f}  95% CI [{b_ci[0]:+.4f}, {b_ci[1]:+.4f}]"
-              f"  p={r['pb']:.4g}")
+        print(f"  alpha  {r['alpha']:+.4f}  SE {se[0]:.4f}  95% CI [{a_ci[0]:+.4f}, {a_ci[1]:+.4f}]"
+              f"  p={r['pa']:.4g}   -> {100*(math.exp(r['alpha'])-1):+.1f}% at even output")
+        print(f"  b1 strike share {r['beta']:+.4f}  SE {se[1]:.4f}  "
+              f"95% CI [{b_ci[0]:+.4f}, {b_ci[1]:+.4f}]  p={r['pb']:.4g}")
+        if len(cols) > 1:
+            c2 = boot_ci(X, y, k=2)
+            print(f"  b2 control share {beta[2]:+.4f}  SE {se[2]:.4f}  "
+                  f"95% CI [{c2[0]:+.4f}, {c2[1]:+.4f}]  p={two_sided_p(beta[2], se[2]):.4g}")
     print(f"\n  mean D over all sample-B bouts with Y: {D.mean():+.4f} "
           f"({100*(math.exp(D.mean())-1):+.1f}%), n={len(D)}")
 
@@ -173,6 +185,52 @@ def main():
     adj = holm([prim["pa"], prim["pb"], p3], ["H1 alpha", "H2 beta", "H3 gamma"])
     print("\nHolm-adjusted p-values:", {k: f"{v:.4g}" for k, v in adj.items()})
 
+    # ---- placebo: D on two pre-fight windows (-60..-31 vs -30..-8) -------------------
+    from datetime import date as _date, timedelta as _td
+    series = defaultdict(dict)
+    for r in csv.DictReader(open(DATA / "y_daily.csv")):
+        if r["day"]:
+            series[r["title"]][_date.fromisoformat(r["day"])] = int(r["views"])
+    reds = defaultdict(list)
+    for f in ("y_redirects.csv", "g_redirects.csv"):
+        fp = DATA / f
+        if fp.exists():
+            for r in csv.DictReader(open(fp)):
+                if r.get("redirect"):
+                    reds[r["article"]].append(r["redirect"])
+
+    def mean_views(title, lo, hi):
+        titles = [title] + reds.get(title, [])
+        return sum(v for t in titles for d, v in series.get(t, {}).items()
+                   if lo <= d <= hi) / ((hi - lo).days + 1)
+
+    pl_rows = []
+    for bid, b in bouts.items():
+        if b["in_sample_b"] != "True" or bid not in strikes:
+            continue
+        d = _date.fromisoformat(b["fight_date"])
+        ys = {}
+        for f in fb[bid]:
+            t = f["en_title"]
+            w1 = mean_views(t, d + _td(days=-60), d + _td(days=-31))
+            w2 = mean_views(t, d + _td(days=-30), d + _td(days=-8))
+            ys[f["result"]] = math.log1p(w2) - math.log1p(w1)
+        if set(ys) >= {"win", "loss"}:
+            p_s, _ = shares(strikes[bid])
+            ids = {f["result"]: f["fighter_id"] for f in fb[bid]}
+            pl_rows.append((ys["win"] - ys["loss"], p_s - 0.5, ids["win"], ids["loss"]))
+    ypl = np.array([r[0] for r in pl_rows])
+    Xpl = np.column_stack([np.ones(len(ypl)), np.array([r[1] for r in pl_rows])])
+    bpl = ols(Xpl, ypl)
+    sepl = twoway_cluster_se(Xpl, ypl, bpl, [r[2] for r in pl_rows], [r[3] for r in pl_rows])
+    cipl = boot_ci(Xpl, ypl, k=0)
+    cipl_b = boot_ci(Xpl, ypl, k=1)
+    print(f"\nPLACEBO (both windows pre-fight)  n={len(ypl)}")
+    print(f"  alpha {bpl[0]:+.4f}  SE {sepl[0]:.4f}  95% CI [{cipl[0]:+.4f}, {cipl[1]:+.4f}]"
+          f"  p={two_sided_p(bpl[0], sepl[0]):.4g}   (expected ~0)")
+    print(f"  beta  {bpl[1]:+.4f}  SE {sepl[1]:.4f}  95% CI [{cipl_b[0]:+.4f}, {cipl_b[1]:+.4f}]"
+          f"  p={two_sided_p(bpl[1], sepl[1]):.4g}")
+
     # ---- pre-specified descriptive --------------------------------------------------
     grp, ys = [], []
     for bid, fs in fb.items():
@@ -185,9 +243,36 @@ def main():
             elif f_["fotn"] != "True" and f["result"] == "win":
                 grp.append(0); ys.append(float(f["Y"]))
     grp, ys = np.array(grp, float), np.array(ys)
+    raw = ys[grp == 1].mean() - ys[grp == 0].mean()
+    # ...and the same comparison carrying the H3 controls, as the plan specifies.
+    Xd, yd, d1, d2 = [], [], [], []
+    for bid, fs in fb.items():
+        b = bouts.get(bid)
+        if not b:
+            continue
+        for f in fs:
+            is_fotn_loser = b["fotn"] == "True" and f["result"] == "loss"
+            is_plain_winner = b["fotn"] != "True" and f["result"] == "win"
+            if not (is_fotn_loser or is_plain_winner):
+                continue
+            Xd.append([1.0, 1.0 if is_fotn_loser else 0.0,
+                       1.0 if b["decision"] == "split" else 0.0,
+                       math.log1p(float(f["baseline_mean"])),
+                       1.0 if b["is_title"] == "True" else 0.0]
+                      + [1.0 if (b["card_position"] or "unknown") == c else 0.0 for c in pos]
+                      + [1.0 if b["fight_date"][:4] == y else 0.0 for y in years])
+            yd.append(float(f["Y"]))
+            d1.append(fs[0]["fighter_id"]); d2.append(fs[1]["fighter_id"])
+    Xd, yd = np.array(Xd), np.array(yd)
+    bd = ols(Xd, yd)
+    sed = twoway_cluster_se(Xd, yd, bd, d1, d2)
+    cid = boot_ci(Xd, yd, k=1)
     print(f"\nDescriptive: FOTN losers mean Y {ys[grp==1].mean():+.4f} (n={int(grp.sum())}) vs "
           f"non-FOTN winners {ys[grp==0].mean():+.4f} (n={int((1-grp).sum())}); "
-          f"difference {ys[grp==1].mean()-ys[grp==0].mean():+.4f}")
+          f"raw difference {raw:+.4f}")
+    print(f"  with the H3 controls: {bd[1]:+.4f}  SE {sed[1]:.4f}  "
+          f"95% CI [{cid[0]:+.4f}, {cid[1]:+.4f}]  p={two_sided_p(bd[1], sed[1]):.4g}"
+          f"  -> {100*(math.exp(bd[1])-1):+.1f}%")
 
     with open(DATA / "results.csv", "w", newline="") as f:
         w = csv.writer(f)

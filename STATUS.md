@@ -10,7 +10,33 @@
 
 ---
 
-## Current — 09-29
+## Current — 09-29 (results)
+- **Task:** post-fight pull and the confirmatory analysis, after the OSF registration
+  (10.17605/OSF.IO/DXUPH) lifted the embargo.
+- **Done:** `prep/y_pageviews.py` (redirect lists, daily series per article over each fighter's
+  whole span, Y/D/S sliced locally), `prep/z_analysis.py` (H1-H3, placebo, descriptive,
+  bootstrap 10k seed 27, two-way clustered SEs, Holm). Repo initialised and committed with the
+  MMADecisions files excluded via .gitignore, matching the PAP.
+- **Numbers:**
+  - **H1 alpha +0.283** (+32.7%), 95% CI [+0.169, +0.396], Holm p 2.4e-06, n = 309.
+    With the control-time share added: +0.284 — the bias check does not move it; control share
+    itself −0.09 (p 0.53).
+  - **H2 beta +0.789**, CI [−0.224, +1.811], p 0.11 — inconclusive, as the power note predicted.
+  - **H3 gamma +0.232** (+26.1%), CI [+0.146, +0.322], Holm p 1.4e-06, n = 1,508.
+  - Mean D over sample B = +0.302 (+35.2%).
+  - **Placebo is NOT clean: alpha +0.058** (p 0.082, CI [−0.008, +0.125]) on two pre-fight
+    windows — positive, ~20% of the headline. PAP §10 requires reporting it as a threat to
+    identification.
+  - **Descriptive, against expectation:** FOTN losers +0.208 vs non-FOTN winners +0.379;
+    **−0.142 with the H3 controls (−13.3%), p 0.0026**. Losing an entertaining fight is worth
+    LESS than winning an unremarkable one.
+- **Deviations:** PAP §11's single weighted p replaced by separate regressors (DECISIONS.md
+  09-29, with the variance reasoning); n = 309 not 314; H3 n = 1,508 not 2,662.
+- **Decisions needed:** none blocking. Worth Baptiste's judgement: how prominently the
+  non-clean placebo is framed in a 500-word abstract.
+- **Next:** notebook (`notebooks/abstract.ipynb`) with the two figures and the 500-word draft.
+
+## Previous — 09-29
 - **Task:** add the 09-29 β line to DECISIONS.md; review the pre-analysis plan; recover the
   missing strike bouts (plan item 4); resolve articles for the H3 sample (plan item 6).
 - **Done:**

@@ -143,27 +143,26 @@ plt.show()"""),
 
 **Introduction.** Attention concentrates on winners, but why is unclear. Rosen's superstar
 account says attention tracks talent, amplified; Adler's says it can attach to an
-arbitrary early advantage and compound. The two are hard to separate, because winners
-usually did perform better. Split decisions break the tie: the judges disagreed, so
-performance was near-equal, while the label is close to arbitrary.
+arbitrary early advantage and compound. Separating them is hard, because winners usually
+did perform better. Split decisions break the tie: the judges disagreed, so performance
+was near-equal, while the label is close to arbitrary.
 
 **Methods.** 562 UFC split decisions, 2015-08-30 to 2026-08-20; 309 where both fighters
 held an English Wikipedia article at least 60 days old and fight statistics exist. For
 each fighter, attention is the change in log mean daily Wikipedia pageviews from days
-−60..−8 before the fight to +2..+30 after, excluding fight week. D is the winner's change minus the loser's; p is the winner's share of
-significant strikes landed, minus 0.5. Fitting D = α + β·p, α is the gap when output
+−60..−8 before the fight to +2..+30 after, excluding fight week. D is the winner's change minus the loser's; p the winner's share of significant
+strikes, minus 0.5. Fitting D = α + β·p, α is the gap when output
 was even and β the return to out-striking. A third asks whether Fight of the Night bouts draw
-more attention (1,508 decision bouts, 147 awarded). Pre-registered
-at OSF 10.17605/OSF.IO/DXUPH before any post-fight data was collected; intervals
-bootstrap over bouts, standard errors cluster on both fighters, Holm across the
-three tests.
+more attention (1,508 decision bouts, 147 awarded). Pre-registered (OSF
+10.17605/OSF.IO/DXUPH) before any post-fight data existed; intervals bootstrap over
+bouts, errors cluster on both fighters, Holm across the three tests.
 
 **Results.** The win label is worth **+0.28 log points, a 33% attention gap**
 (95% CI 0.17–0.40, p < 0.001) between two fighters who landed equally. The return to
-out-striking is **not distinguishable from zero** (β = 0.79, CI −0.22–1.81); the design
+out-striking is **indistinguishable from zero** (β = 0.79, CI −0.22–1.81); the design
 detects slopes above roughly 1.1, so this is inconclusive rather than null. α is unchanged when the
-control-time share is added to the model (+0.284; control share itself −0.09, p = 0.53),
-so it is not simply unmeasured grappling. Fight of the Night is worth **+0.23 log points,
+control-time share enters the model (+0.284; control share itself −0.09, p = 0.53), so
+control time does not account for it. Fight of the Night is worth **+0.23 log points,
 26%** (CI 0.15–0.32, p < 0.001). Two pre-specified
 cautions: a placebo on two pre-fight windows returns +0.06 (CI −0.01–0.13), not
 distinguishable from zero but positive; read conservatively, α net of the placebo is
@@ -178,9 +177,10 @@ moves public attention about as much as being in the night's best fight — the 
 not distinguishable here (α − γ = +0.05, CI −0.10 to +0.20) —  while the
 performance edge we can measure moves it undetectably. That is consistent with Adler's
 account for close fights, though Rosen cannot be rejected: the upper bound on β would
-imply a performance return exceeding the label effect. Two limits bound the claim. α is
-an **upper bound** on the pure label effect — performance the strike measure cannot see,
-grappling and control above all, loads onto the intercept. And p is a fight-total
+imply a performance return exceeding the label effect. Three limits bound the claim. α is an
+**upper bound** on the pure label effect: performance the strike measure cannot see loads
+onto the intercept. γ is not causally identified — bonus bouts differ from others in ways
+the controls only partly capture. And p is a fight-total
 striking proxy, not round-by-round judging, so β bounds what strikes can explain rather
 than what performance can."""),
     code("""# Word count of the abstract markdown cell above (SSAC limit: 500).

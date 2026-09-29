@@ -164,13 +164,11 @@ detects slopes above roughly 1.1, so this is inconclusive rather than null. α i
 control-time share enters the model (+0.284; control share itself −0.09, p = 0.53), so
 control time does not account for it. Fight of the Night is worth **+0.23 log points,
 26%** (CI 0.15–0.32, p < 0.001). Two pre-specified
-cautions: a placebo on two pre-fight windows returns +0.06 (CI −0.01–0.13), not
-distinguishable from zero but positive; read conservatively, α net of the placebo is
-**+0.22, a 25% gap**. And losing an entertaining fight is **not** as good as winning a
+cautions: a placebo on two pre-fight windows returns +0.06 (CI −0.01–0.13), positive
+though indistinguishable from zero; net of it α is **+0.22, a 25% gap**. And losing an entertaining fight is **not** as good as winning a
 dull one: FOTN losers gain 15% less than ordinary winners
-(p < 0.001), and 19% less than split-decision winners. α is stable across the pre-specified
-checks: 0.25–0.32 dropping each year, 0.29 excluding main events, 0.30 with an odds
-control.
+(p < 0.001). α is stable across the pre-specified checks — 0.25–0.32 dropping each year,
+0.29 excluding main events, 0.30 with an odds control — and **+0.30 on days +31..+90**: the gap does not decay.
 
 **Conclusion.** In fights the judges could not separate, the official result alone
 moves public attention about as much as being in the night's best fight — the two are

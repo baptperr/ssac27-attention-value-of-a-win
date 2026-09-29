@@ -39,6 +39,11 @@ UA = "FirstLightObservatory/1.0 (baptperr18@gmail.com) SSAC27 research query"
 API = "https://en.wikipedia.org/w/api.php"
 RED = DATA / "y_redirects.csv"
 DAILY = DATA / "y_daily.csv"
+# `--to90` extends the fetched span to day +90 for PAP §11's secondary outcome window
+# (+31..+90), into its own file so the primary series stays untouched.
+if "--to90" in sys.argv:
+    OUT_HI = 90
+    DAILY = DATA / "y_daily_to90.csv"
 
 
 def articles():

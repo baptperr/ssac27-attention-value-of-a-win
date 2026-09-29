@@ -257,7 +257,7 @@ def main():
                 continue
             Xd.append([1.0, 1.0 if is_fotn_loser else 0.0,
                        1.0 if b["decision"] == "split" else 0.0,
-                       math.log1p(float(f["baseline_mean"])),
+                       basemean[bid],   # bout mean, as the PAP specifies
                        1.0 if b["is_title"] == "True" else 0.0]
                       + [1.0 if (b["card_position"] or "unknown") == c else 0.0 for c in pos]
                       + [1.0 if b["fight_date"][:4] == y else 0.0 for y in years])

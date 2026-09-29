@@ -71,9 +71,10 @@ alpha, beta = np.linalg.lstsq(X, D, rcond=None)[0]
 print(f"n = {len(p)}   alpha = {alpha:+.3f}   beta = {beta:+.3f}")"""),
     md("""## Figure 1 — the attention gap at equal output
 
-Each point is one split decision: how much the winner's strike share exceeded the
-loser's (x) against the difference in their attention change (y). The fitted line's
-height **at x = 0** — where both fighters landed equally — is the label effect."""),
+Each point is one split decision. **x is the winner's share of the fight's significant
+strikes, centred at 0.5** — so x = +0.1 is a 60/40 split, a 20-point gap between the two
+fighters, not 10. y is the difference in their attention change. The fitted line's height
+**at x = 0**, where both landed equally, is the label effect."""),
     code("""fig, ax = plt.subplots(figsize=(5.4, 3.5))
 
 ax.axhline(0, color="#d8d7d2", lw=0.8, zorder=1)
@@ -109,11 +110,12 @@ sit at zero, and the descriptive comparison."""),
     code("""rows = [
     ("Winning, at equal output  (H1)",            alpha,   0.1687,  0.3960, BLUE,   "o"),
     ("Fight of the Night  (H3)",                  0.2322,  0.1462,  0.3218, BLUE,   "o"),
-    # H2 rescaled to a 10-point strike-share edge so it is in the same units
-    # (log points) as the level effects; the slope itself is +0.79 per unit.
-    ("Out-striking by 10 points of share  (H2)",  0.0789, -0.0224, 0.1811, BLUE,   "o"),
+    # H2 rescaled so it is in the same units (log points) as the level effects: the
+    # effect of the winner's share sitting 0.1 above even, i.e. a 60/40 split. The
+    # slope itself is +0.79 per unit of (share - 0.5).
+    ("Winning the striking 60/40  (H2)",          0.0789, -0.0224, 0.1811, BLUE,   "o"),
     ("Placebo: same test, both windows pre-fight", 0.0581, -0.0082, 0.1254, ORANGE, "D"),
-    ("Losing a FOTN vs winning a plain fight",    -0.1423, -0.2320, -0.0488, ORANGE, "D"),
+    ("Losing a FOTN vs winning a plain fight",    -0.1572, -0.2486, -0.0642, ORANGE, "D"),
 ]
 fig, ax = plt.subplots(figsize=(6.4, 3.0))
 ys = np.arange(len(rows))[::-1]
@@ -139,41 +141,48 @@ plt.show()"""),
 
 **The attention value of a win in mixed martial arts**
 
-**Introduction.** Attention concentrates on winners, but why is unclear. Rosen's
-superstar account says attention tracks talent, amplified. Adler's says it can
-attach to an arbitrary early advantage and compound through shared consumption. The
-two are hard to separate, because winners usually did perform better. Split
-decisions break the tie: the judges disagreed, so performance was near-equal, while
-the official label is close to arbitrary. What is the label alone worth?
+**Introduction.** Attention concentrates on winners, but why is unclear. Rosen's superstar
+account says attention tracks talent, amplified; Adler's says it can attach to an
+arbitrary early advantage and compound. The two are hard to separate, because winners
+usually did perform better. Split decisions break the tie: the judges disagreed, so
+performance was near-equal, while the label is close to arbitrary.
 
-**Methods.** All 562 UFC split decisions from 2015-08-30 to 2026-08-20; 314 where both
-fighters had an English Wikipedia article at least 60 days old, and 309 with fight
-statistics. For each fighter, attention is the change in log mean daily Wikipedia
-pageviews from days −60..−8 before the fight to days +2..+30 after, excluding fight
-week. D is the winner's change minus the loser's; p is the winner's share of
+**Methods.** 562 UFC split decisions, 2015-08-30 to 2026-08-20; 309 where both fighters
+held an English Wikipedia article at least 60 days old and fight statistics exist. For
+each fighter, attention is the change in log mean daily Wikipedia pageviews from days
+−60..−8 before the fight to +2..+30 after, excluding fight week. D is the winner's change minus the loser's; p is the winner's share of
 significant strikes landed, minus 0.5. Fitting D = α + β·p, α is the gap when output
-was even and β the return to out-striking. A third test asks whether Fight of the
-Night bouts (1,508 decision bouts, 147 awarded) draw more attention. Pre-registered
+was even and β the return to out-striking. A third asks whether Fight of the Night bouts draw
+more attention (1,508 decision bouts, 147 awarded). Pre-registered
 at OSF 10.17605/OSF.IO/DXUPH before any post-fight data was collected; intervals
 bootstrap over bouts, standard errors cluster on both fighters, Holm across the
 three tests.
 
 **Results.** The win label is worth **+0.28 log points, a 33% attention gap**
 (95% CI 0.17–0.40, p < 0.001) between two fighters who landed equally. The return to
-out-striking is **not distinguishable from zero** (β = 0.79, CI −0.22–1.81), and the
-study can only detect effects above roughly 10%, so this is inconclusive rather than
-null. Fight of the Night is worth **+0.23 log points, 26%** (CI 0.15–0.32,
-p < 0.001). Two cautions, both pre-specified: a placebo run on two pre-fight windows
-returns +0.06 (CI −0.01–0.13), so eventual winners were already drifting upward, and
-α should be read net of it. And losing an entertaining fight is **not** as good as
-winning a dull one: FOTN losers gain 13% less than ordinary winners (p = 0.003).
+out-striking is **not distinguishable from zero** (β = 0.79, CI −0.22–1.81); the design
+detects slopes above roughly 1.1, so this is inconclusive rather than null. α is unchanged when the
+control-time share is added to the model (+0.284; control share itself −0.09, p = 0.53),
+so it is not simply unmeasured grappling. Fight of the Night is worth **+0.23 log points,
+26%** (CI 0.15–0.32, p < 0.001). Two pre-specified
+cautions: a placebo on two pre-fight windows returns +0.06 (CI −0.01–0.13), not
+distinguishable from zero but positive; read conservatively, α net of the placebo is
+**+0.22, a 25% gap**. And losing an entertaining fight is **not** as good as winning a
+dull one: FOTN losers gain 15% less than ordinary winners
+(p < 0.001), and 19% less than split-decision winners. α is stable across the pre-specified
+checks: 0.25–0.32 dropping each year, 0.29 excluding main events, 0.30 with an odds
+control.
 
-**Conclusion.** In fights judges could not separate, the official result alone moves
-public attention about as much as being in the night's best fight, while the
-performance edge we can measure moves it undetectably. Attention here attaches to
-the label rather than to the output behind it — Adler over Rosen, for close fights.
-The measure of performance is a fight-total striking proxy, not round-by-round
-judging, so β bounds what strikes can explain rather than what performance can."""),
+**Conclusion.** In fights the judges could not separate, the official result alone
+moves public attention about as much as being in the night's best fight — the two are
+not distinguishable here (α − γ = +0.05, CI −0.10 to +0.20) —  while the
+performance edge we can measure moves it undetectably. That is consistent with Adler's
+account for close fights, though Rosen cannot be rejected: the upper bound on β would
+imply a performance return exceeding the label effect. Two limits bound the claim. α is
+an **upper bound** on the pure label effect — performance the strike measure cannot see,
+grappling and control above all, loads onto the intercept. And p is a fight-total
+striking proxy, not round-by-round judging, so β bounds what strikes can explain rather
+than what performance can."""),
     code("""# Word count of the abstract markdown cell above (SSAC limit: 500).
 import nbformat, re
 nb = nbformat.read(ROOT / "notebooks" / "abstract.ipynb", as_version=4)

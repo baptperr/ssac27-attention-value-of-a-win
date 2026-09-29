@@ -1,0 +1,529 @@
+bout_id,event_id,fight_date,bfo_event,status,listed_on_page,has_odds,n_books
+17883,3795,2015-09-05,https://www.bestfightodds.com/events/ufc-191-johnson-vs-dodson-ii-992,"listed, no lines served",True,False,0
+17886,3795,2015-09-05,https://www.bestfightodds.com/events/ufc-191-johnson-vs-dodson-ii-992,"page ok, bout not listed",False,False,0
+17888,3795,2015-09-05,https://www.bestfightodds.com/events/ufc-191-johnson-vs-dodson-ii-992,"listed, no lines served",True,False,0
+17866,3794,2015-10-03,https://www.bestfightodds.com/events/ufc-192-cormier-vs-gustafsson-990,"listed, no lines served",True,False,0
+17777,3695,2015-10-24,https://www.bestfightodds.com/events/ufc-fight-night-76-holohan-vs-smolka-976,"listed, no lines served",True,False,0
+17864,3793,2015-11-07,https://www.bestfightodds.com/events/ufc-fight-night-77-belfort-vs-henderson-3-997,"listed, no lines served",True,False,0
+17827,3791,2015-11-21,https://www.bestfightodds.com/events/ufc-fight-night-78-magny-vs-gastelum-999,"listed, no lines served",True,False,0
+17829,3791,2015-11-21,https://www.bestfightodds.com/events/ufc-fight-night-78-magny-vs-gastelum-999,"listed, no lines served",True,False,0
+17830,3791,2015-11-21,https://www.bestfightodds.com/events/ufc-fight-night-78-magny-vs-gastelum-999,"listed, no lines served",True,False,0
+17839,3791,2015-11-21,https://www.bestfightodds.com/events/ufc-fight-night-78-magny-vs-gastelum-999,"listed, no lines served",True,False,0
+17816,3790,2015-11-28,https://www.bestfightodds.com/events/ufc-fight-night-79-henderson-vs-masvidal-1013,"listed, no lines served",True,False,0
+17818,3790,2015-11-28,https://www.bestfightodds.com/events/ufc-fight-night-79-henderson-vs-masvidal-1013,"listed, no lines served",True,False,0
+17821,3790,2015-11-28,https://www.bestfightodds.com/events/ufc-fight-night-79-henderson-vs-masvidal-1013,"listed, no lines served",True,False,0
+17822,3790,2015-11-28,https://www.bestfightodds.com/events/ufc-fight-night-79-henderson-vs-masvidal-1013,"listed, no lines served",True,False,0
+17825,3790,2015-11-28,https://www.bestfightodds.com/events/ufc-fight-night-79-henderson-vs-masvidal-1013,"listed, no lines served",True,False,0
+17735,3687,2015-12-10,https://www.bestfightodds.com/events/ufc-fight-night-80-vanzant-vs-namajunas-1023,"listed, no lines served",True,False,0
+17754,3692,2015-12-11,https://www.bestfightodds.com/events/ufc-the-ultimate-fighter-22-finale-edgar-vs-mendes-1011,"listed, no lines served",True,False,0
+17806,3789,2015-12-12,https://www.bestfightodds.com/events/ufc-194-aldo-vs-mcgregor-1005,"listed, no lines served",True,False,0
+17814,3789,2015-12-12,https://www.bestfightodds.com/events/ufc-194-aldo-vs-mcgregor-1005,"listed, no lines served",True,False,0
+17797,3788,2015-12-19,https://www.bestfightodds.com/events/ufc-on-fox-17-dos-anjos-vs-cerrone-1008,"listed, no lines served",True,False,0
+17799,3788,2015-12-19,https://www.bestfightodds.com/events/ufc-on-fox-17-dos-anjos-vs-cerrone-1008,"listed, no lines served",True,False,0
+17737,3691,2016-01-02,https://www.bestfightodds.com/events/ufc-195-lawler-vs-condit-1012,"listed, no lines served",True,False,0
+17739,3691,2016-01-02,https://www.bestfightodds.com/events/ufc-195-lawler-vs-condit-1012,"listed, no lines served",True,False,0
+17743,3691,2016-01-02,https://www.bestfightodds.com/events/ufc-195-lawler-vs-condit-1012,"listed, no lines served",True,False,0
+17747,3691,2016-01-02,https://www.bestfightodds.com/events/ufc-195-lawler-vs-condit-1012,"listed, no lines served",True,False,0
+17712,3686,2016-01-17,https://www.bestfightodds.com/events/ufc-fight-night-81-dillashaw-vs-cruz-1022,"listed, no lines served",True,False,0
+17713,3686,2016-01-17,https://www.bestfightodds.com/events/ufc-fight-night-81-dillashaw-vs-cruz-1022,"listed, no lines served",True,False,0
+17672,3681,2016-02-21,https://www.bestfightodds.com/events/ufc-fight-night-83-cowboy-vs-cowboy-1057,"listed, no lines served",True,False,0
+17652,3680,2016-02-27,https://www.bestfightodds.com/events/ufc-fight-night-84-silva-vs-bisping-1052,"listed, no lines served",True,False,0
+17647,3679,2016-03-19,https://www.bestfightodds.com/events/ufc-fight-night-85-hunt-vs-mir-1062,"listed, no lines served",True,False,0
+17599,3640,2016-04-10,https://www.bestfightodds.com/events/ufc-fight-night-86-rothwell-vs-dos-santos-1077,"listed, no lines served",True,False,0
+17607,3641,2016-04-16,https://www.bestfightodds.com/events/ufc-on-fox-19-evans-vs-teixeira-1073,"listed, no lines served",True,False,0
+17572,3637,2016-05-08,https://www.bestfightodds.com/events/ufc-fight-night-87-overeem-vs-arlovski-1088,"listed, no lines served",True,False,0
+17616,3642,2016-05-14,https://www.bestfightodds.com/events/ufc-198-werdum-vs-miocic-1070,"listed, no lines served",True,False,0
+17624,3642,2016-05-14,https://www.bestfightodds.com/events/ufc-198-werdum-vs-miocic-1070,"page ok, bout not listed",False,False,0
+17530,3633,2016-05-29,https://www.bestfightodds.com/events/ufc-fight-night-88-almeida-vs-garbrandt-1104,"listed, no lines served",True,False,0
+17536,3633,2016-05-29,https://www.bestfightodds.com/events/ufc-fight-night-88-almeida-vs-garbrandt-1104,"listed, no lines served",True,False,0
+17560,3635,2016-06-04,https://www.bestfightodds.com/events/ufc-199-rockhold-vs-bisping-ii-1081,"listed, no lines served",True,False,0
+17543,3634,2016-06-18,https://www.bestfightodds.com/events/ufc-fight-night-89-macdonald-vs-thompson-1098,"listed, no lines served",True,False,0
+17515,3632,2016-07-07,https://www.bestfightodds.com/events/ufc-fight-night-90-dos-anjos-vs-alvarez-1118,"listed, no lines served",True,False,0
+17519,3632,2016-07-07,https://www.bestfightodds.com/events/ufc-fight-night-90-dos-anjos-vs-alvarez-1118,"listed, no lines served",True,False,0
+17520,3632,2016-07-07,https://www.bestfightodds.com/events/ufc-fight-night-90-dos-anjos-vs-alvarez-1118,"listed, no lines served",True,False,0
+17632,3643,2016-07-08,https://www.bestfightodds.com/events/ufc-the-ultimate-fighter-23-finale-team-joanna-vs-team-claudia-1067,"listed, no lines served",True,False,0
+17512,3629,2016-07-23,https://www.bestfightodds.com/events/ufc-on-fox-20-holm-vs-shevchenko-1114,"listed, no lines served",True,False,0
+17457,3617,2016-07-30,https://www.bestfightodds.com/events/ufc-201-lawler-vs-woodley-1129,"listed, no lines served",True,False,0
+17460,3617,2016-07-30,https://www.bestfightodds.com/events/ufc-201-lawler-vs-woodley-1129,"listed, no lines served",True,False,0
+17411,3604,2016-08-06,https://www.bestfightodds.com/events/ufc-fight-night-92-rodriguez-vs-caceres-1146,"listed, no lines served",True,False,0
+17416,3604,2016-08-06,https://www.bestfightodds.com/events/ufc-fight-night-92-rodriguez-vs-caceres-1146,"listed, no lines served",True,False,0
+17404,3602,2016-08-27,https://www.bestfightodds.com/events/ufc-on-fox-21-maia-vs-condit-1150,"listed, no lines served",True,False,0
+17406,3602,2016-08-27,https://www.bestfightodds.com/events/ufc-on-fox-21-maia-vs-condit-1150,"listed, no lines served",True,False,0
+17407,3602,2016-08-27,https://www.bestfightodds.com/events/ufc-on-fox-21-maia-vs-condit-1150,"listed, no lines served",True,False,0
+17471,3618,2016-09-03,https://www.bestfightodds.com/events/ufc-fight-night-93-arlovski-vs-barnett-1139,"listed, no lines served",True,False,0
+17440,3606,2016-09-10,https://www.bestfightodds.com/events/ufc-203-miocic-vs-overeem-1138,"listed, no lines served",True,False,0
+17441,3606,2016-09-10,https://www.bestfightodds.com/events/ufc-203-miocic-vs-overeem-1138,"listed, no lines served",True,False,0
+17392,3600,2016-09-17,https://www.bestfightodds.com/events/ufc-fight-night-94-johnson-vs-poirier-1160,"listed, no lines served",True,False,0
+17315,3523,2016-10-01,https://www.bestfightodds.com/events/ufc-fight-night-96-lineker-vs-dodson-1165,"listed, no lines served",True,False,0
+17317,3523,2016-10-01,https://www.bestfightodds.com/events/ufc-fight-night-96-lineker-vs-dodson-1165,"listed, no lines served",True,False,0
+17321,3523,2016-10-01,https://www.bestfightodds.com/events/ufc-fight-night-96-lineker-vs-dodson-1165,"listed, no lines served",True,False,0
+17326,3523,2016-10-01,https://www.bestfightodds.com/events/ufc-fight-night-96-lineker-vs-dodson-1165,"listed, no lines served",True,False,0
+17286,3420,2016-10-08,https://www.bestfightodds.com/events/ufc-204-bisping-vs-henderson-2-1168,"listed, no lines served",True,False,0
+17496,3628,2016-11-05,https://www.bestfightodds.com/events/ufc-fight-night-98-dos-anjos-vs-ferguson-1164,"listed, no lines served",True,False,0
+17501,3628,2016-11-05,https://www.bestfightodds.com/events/ufc-fight-night-98-dos-anjos-vs-ferguson-1164,"listed, no lines served",True,False,0
+17455,3615,2016-11-12,https://www.bestfightodds.com/events/ufc-205-alvarez-vs-mcgregor-1188,"page ok, bout not listed",False,False,0
+17256,3384,2016-11-19,https://www.bestfightodds.com/events/ufc-fight-night-100-bader-vs-nogueira-1185,"listed, no lines served",True,False,0
+17264,3385,2016-11-19,https://www.bestfightodds.com/events/ufc-fight-night-99-mousasi-vs-hall-2-1184,"listed, no lines served",True,False,0
+17265,3385,2016-11-19,https://www.bestfightodds.com/events/ufc-fight-night-99-mousasi-vs-hall-2-1184,"listed, no lines served",True,False,0
+17239,3383,2016-11-26,https://www.bestfightodds.com/events/ufc-fight-night-101-whittaker-vs-brunson-1191,"listed, no lines served",True,False,0
+17243,3383,2016-11-26,https://www.bestfightodds.com/events/ufc-fight-night-101-whittaker-vs-brunson-1191,"listed, no lines served",True,False,0
+17245,3383,2016-11-26,https://www.bestfightodds.com/events/ufc-fight-night-101-whittaker-vs-brunson-1191,"listed, no lines served",True,False,0
+17227,3382,2016-12-03,https://www.bestfightodds.com/events/ufc-the-ultimate-fighter-24-finale-1135,"listed, no lines served",True,False,0
+17231,3382,2016-12-03,https://www.bestfightodds.com/events/ufc-the-ultimate-fighter-24-finale-1135,"listed, no lines served",True,False,0
+17209,3314,2016-12-10,https://www.bestfightodds.com/events/ufc-206-holloway-vs-pettis-1204,"listed, no lines served",True,False,0
+17213,3314,2016-12-10,https://www.bestfightodds.com/events/ufc-206-holloway-vs-pettis-1204,"listed, no lines served",True,False,0
+17201,3313,2016-12-17,https://www.bestfightodds.com/events/ufc-on-fox-22-vanzant-vs-waterson-1207,"listed, no lines served",True,False,0
+17182,3312,2016-12-30,https://www.bestfightodds.com/events/ufc-207-nunes-vs-rousey-1210,"listed, no lines served",True,False,0
+17168,3297,2017-01-15,https://www.bestfightodds.com/events/ufc-fight-night-103-rodriguez-vs-penn-1219,"listed, no lines served",True,False,0
+17172,3297,2017-01-15,https://www.bestfightodds.com/events/ufc-fight-night-103-rodriguez-vs-penn-1219,"listed, no lines served",True,False,0
+17160,3296,2017-01-28,https://www.bestfightodds.com/events/ufc-on-fox-23-shevchenko-vs-pena-1225,"listed, no lines served",True,False,0
+17165,3296,2017-01-28,https://www.bestfightodds.com/events/ufc-on-fox-23-shevchenko-vs-pena-1225,"listed, no lines served",True,False,0
+17146,3295,2017-02-04,https://www.bestfightodds.com/events/ufc-fight-night-104-bermudez-vs-korean-zombie-1226,"listed, no lines served",True,False,0
+17141,3294,2017-02-11,https://www.bestfightodds.com/events/ufc-208-holm-vs-de-randamie-1229,"listed, no lines served",True,False,0
+17129,3293,2017-02-19,https://www.bestfightodds.com/events/ufc-fight-night-105-lewis-vs-browne-1228,"listed, no lines served",True,False,0
+17113,3292,2017-03-04,https://www.bestfightodds.com/events/ufc-209-woodley-vs-thompson-2-1234,"listed, no lines served",True,False,0
+17121,3292,2017-03-04,https://www.bestfightodds.com/events/ufc-209-woodley-vs-thompson-2-1234,"listed, no lines served",True,False,0
+17091,3290,2017-03-18,https://www.bestfightodds.com/events/ufc-fight-night-107-manuwa-vs-anderson-1246,"listed, no lines served",True,False,0
+17094,3290,2017-03-18,https://www.bestfightodds.com/events/ufc-fight-night-107-manuwa-vs-anderson-1246,"listed, no lines served",True,False,0
+17097,3290,2017-03-18,https://www.bestfightodds.com/events/ufc-fight-night-107-manuwa-vs-anderson-1246,"listed, no lines served",True,False,0
+17070,3253,2017-04-08,https://www.bestfightodds.com/events/ufc-210-cormier-vs-johnson-2-1248,"listed, no lines served",True,False,0
+17071,3253,2017-04-08,https://www.bestfightodds.com/events/ufc-210-cormier-vs-johnson-2-1248,"page ok, bout not listed",False,False,0
+17013,3248,2017-04-15,https://www.bestfightodds.com/events/ufc-on-fox-24-johnson-vs-reis-1259,"page ok, bout not listed",False,False,0
+17016,3248,2017-04-15,https://www.bestfightodds.com/events/ufc-on-fox-24-johnson-vs-reis-1259,"page ok, bout not listed",False,False,0
+17050,3251,2017-05-13,https://www.bestfightodds.com/events/ufc-211-miocic-vs-dos-santos-2-1252,"listed, no lines served",True,False,0
+17052,3251,2017-05-13,https://www.bestfightodds.com/events/ufc-211-miocic-vs-dos-santos-2-1252,"listed, no lines served",True,False,0
+16977,3236,2017-05-28,https://www.bestfightodds.com/events/ufc-fight-night-109-gustafsson-vs-teixeira-1265,"listed, no lines served",True,False,0
+16982,3236,2017-05-28,https://www.bestfightodds.com/events/ufc-fight-night-109-gustafsson-vs-teixeira-1265,"listed, no lines served",True,False,0
+17003,3247,2017-06-03,https://www.bestfightodds.com/events/ufc-212-aldo-vs-holloway-1257,"listed, no lines served",True,False,0
+16972,3235,2017-06-10,https://www.bestfightodds.com/events/ufc-fight-night-110-lewis-vs-hunt-1275,"listed, no lines served",True,False,0
+16924,3229,2017-06-25,https://www.bestfightodds.com/events/ufc-fight-night-112-chiesa-vs-lee-1276,"listed, no lines served",True,False,0
+16906,3222,2017-07-07,https://www.bestfightodds.com/events/ufc-the-ultimate-fighter-25-finale-johnson-vs-gaethje-1289,"listed, no lines served",True,False,0
+16881,3212,2017-07-22,https://www.bestfightodds.com/events/ufc-on-fox-25-weidman-vs-gastelum-1292,"listed, no lines served",True,False,0
+16882,3212,2017-07-22,https://www.bestfightodds.com/events/ufc-on-fox-25-weidman-vs-gastelum-1292,"listed, no lines served",True,False,0
+16884,3212,2017-07-22,https://www.bestfightodds.com/events/ufc-on-fox-25-weidman-vs-gastelum-1292,"listed, no lines served",True,False,0
+17046,3250,2017-07-29,https://www.bestfightodds.com/events/ufc-214-cormier-vs-jones-2-1303,"listed, no lines served",True,False,0
+16858,3206,2017-08-05,https://www.bestfightodds.com/events/ufc-fight-night-114-pettis-vs-moreno-1307,"listed, no lines served",True,False,0
+16861,3206,2017-08-05,https://www.bestfightodds.com/events/ufc-fight-night-114-pettis-vs-moreno-1307,"listed, no lines served",True,False,0
+16862,3206,2017-08-05,https://www.bestfightodds.com/events/ufc-fight-night-114-pettis-vs-moreno-1307,"listed, no lines served",True,False,0
+16869,3208,2017-09-09,https://www.bestfightodds.com/events/ufc-215-nunes-vs-shevchenko-2-1308,"listed, no lines served",True,False,0
+16761,3109,2017-09-16,https://www.bestfightodds.com/events/ufc-fight-night-116-rockhold-vs-branch-1343,"listed, no lines served",True,False,0
+16762,3109,2017-09-16,https://www.bestfightodds.com/events/ufc-fight-night-116-rockhold-vs-branch-1343,"page ok, bout not listed",False,False,0
+16853,3205,2017-09-22,https://www.bestfightodds.com/events/ufc-fight-night-117-saint-preux-vs-okami-1332,"listed, no lines served",True,False,0
+16854,3205,2017-09-22,https://www.bestfightodds.com/events/ufc-fight-night-117-saint-preux-vs-okami-1332,"listed, no lines served",True,False,0
+16829,3115,2017-10-07,https://www.bestfightodds.com/events/ufc-216-ferguson-vs-lee-1341,"listed, no lines served",True,False,0
+16754,3108,2017-10-28,https://www.bestfightodds.com/events/ufc-fight-night-119-machida-vs-brunson-1352,"listed, no lines served",True,False,0
+16684,3086,2017-11-11,https://www.bestfightodds.com/events/ufc-fight-night-120-poirier-vs-pettis-1353,"listed, no lines served",True,False,0
+16687,3086,2017-11-11,https://www.bestfightodds.com/events/ufc-fight-night-120-poirier-vs-pettis-1353,"listed, no lines served",True,False,0
+16812,3114,2017-11-18,https://www.bestfightodds.com/events/ufc-fight-night-121-werdum-vs-tybura-1354,"listed, no lines served",True,False,0
+16813,3114,2017-11-18,https://www.bestfightodds.com/events/ufc-fight-night-121-werdum-vs-tybura-1354,"listed, no lines served",True,False,0
+16814,3114,2017-11-18,https://www.bestfightodds.com/events/ufc-fight-night-121-werdum-vs-tybura-1354,"listed, no lines served",True,False,0
+16820,3114,2017-11-18,https://www.bestfightodds.com/events/ufc-fight-night-121-werdum-vs-tybura-1354,"listed, no lines served",True,False,0
+16734,3107,2017-11-25,https://www.bestfightodds.com/events/ufc-fight-night-122-bisping-vs-gastelum-1363,"listed, no lines served",True,False,0
+16802,3113,2017-12-01,https://www.bestfightodds.com/events/ufc-the-ultimate-fighter-26-finale-1364,"listed, no lines served",True,False,0
+16784,3111,2017-12-02,https://www.bestfightodds.com/events/ufc-218-holloway-vs-aldo-2-1368,"listed, no lines served",True,False,0
+16700,3089,2017-12-09,https://www.bestfightodds.com/events/ufc-fight-night-123-swanson-vs-ortega-1386,"listed, no lines served",True,False,0
+16703,3089,2017-12-09,https://www.bestfightodds.com/events/ufc-fight-night-123-swanson-vs-ortega-1386,"listed, no lines served",True,False,0
+16659,3062,2018-01-14,https://www.bestfightodds.com/events/ufc-fight-night-124-stephens-vs-choi-1408,"listed, no lines served",True,False,0
+16665,3063,2018-01-20,https://www.bestfightodds.com/events/ufc-220-miocic-vs-ngannou-1406,"listed, no lines served",True,False,0
+16605,3058,2018-01-27,https://www.bestfightodds.com/events/ufc-on-fox-27-jacare-vs-brunson-2-1413,"listed, no lines served",True,False,0
+16612,3058,2018-01-27,https://www.bestfightodds.com/events/ufc-on-fox-27-jacare-vs-brunson-2-1413,"listed, no lines served",True,False,0
+16640,3061,2018-02-03,https://www.bestfightodds.com/events/ufc-fight-night-125-machida-vs-anders-1418,"listed, no lines served",True,False,0
+16646,3061,2018-02-03,https://www.bestfightodds.com/events/ufc-fight-night-125-machida-vs-anders-1418,"listed, no lines served",True,False,0
+16633,3060,2018-02-10,https://www.bestfightodds.com/events/ufc-221-romero-vs-rockhold-1411,"listed, no lines served",True,False,0
+16620,3059,2018-03-03,https://www.bestfightodds.com/events/ufc-222-cyborg-vs-kunitskaya-1422,"listed, no lines served",True,False,0
+16621,3059,2018-03-03,https://www.bestfightodds.com/events/ufc-222-cyborg-vs-kunitskaya-1422,"listed, no lines served",True,False,0
+16623,3059,2018-03-03,https://www.bestfightodds.com/events/ufc-222-cyborg-vs-kunitskaya-1422,"listed, no lines served",True,False,0
+16626,3059,2018-03-03,https://www.bestfightodds.com/events/ufc-222-cyborg-vs-kunitskaya-1422,"listed, no lines served",True,False,0
+16627,3059,2018-03-03,https://www.bestfightodds.com/events/ufc-222-cyborg-vs-kunitskaya-1422,"listed, no lines served",True,False,0
+16578,3055,2018-03-17,https://www.bestfightodds.com/events/ufc-fight-night-127-werdum-vs-volkov-1423,"listed, no lines served",True,False,0
+16552,3024,2018-04-07,https://www.bestfightodds.com/events/ufc-223-nurmagomedov-vs-iaquinta-1444,"listed, no lines served",True,False,0
+16535,3023,2018-04-14,https://www.bestfightodds.com/events/ufc-on-fox-29-poirier-vs-gaethje-1446,"listed, no lines served",True,False,0
+16536,3023,2018-04-14,https://www.bestfightodds.com/events/ufc-on-fox-29-poirier-vs-gaethje-1446,"listed, no lines served",True,False,0
+16499,3017,2018-05-12,https://www.bestfightodds.com/events/ufc-224-nunes-vs-pennington-1453,"listed, no lines served",True,False,0
+16466,3014,2018-05-19,https://www.bestfightodds.com/events/ufc-fight-night-129-maia-vs-usman-1468,"listed, no lines served",True,False,0
+16440,2993,2018-05-27,https://www.bestfightodds.com/events/ufc-fight-night-130-thompson-vs-till-1478,"listed, no lines served",True,False,0
+16445,2993,2018-05-27,https://www.bestfightodds.com/events/ufc-fight-night-130-thompson-vs-till-1478,"listed, no lines served",True,False,0
+16478,3015,2018-06-01,https://www.bestfightodds.com/events/ufc-fight-night-131-rivera-vs-moraes-1467,"listed, no lines served",True,False,0
+16485,3016,2018-06-09,https://www.bestfightodds.com/events/ufc-225-whittaker-vs-romero-2-1459,"listed, no lines served",True,False,0
+16491,3016,2018-06-09,https://www.bestfightodds.com/events/ufc-225-whittaker-vs-romero-2-1459,"listed, no lines served",True,False,0
+16492,3016,2018-06-09,https://www.bestfightodds.com/events/ufc-225-whittaker-vs-romero-2-1459,"listed, no lines served",True,False,0
+16495,3016,2018-06-09,https://www.bestfightodds.com/events/ufc-225-whittaker-vs-romero-2-1459,"listed, no lines served",True,False,0
+16370,2906,2018-06-23,https://www.bestfightodds.com/events/ufc-fight-night-132-cowboy-vs-edwards-1475,"listed, no lines served",True,False,0
+16372,2906,2018-06-23,https://www.bestfightodds.com/events/ufc-fight-night-132-cowboy-vs-edwards-1475,"listed, no lines served",True,False,0
+16449,3013,2018-07-06,https://www.bestfightodds.com/events/ufc-the-ultimate-fighter-27-finale-tavares-vs-adesanya-1503,"page ok, bout not listed",False,False,0
+16451,3013,2018-07-06,https://www.bestfightodds.com/events/ufc-the-ultimate-fighter-27-finale-tavares-vs-adesanya-1503,"listed, no lines served",True,False,0
+16453,3013,2018-07-06,https://www.bestfightodds.com/events/ufc-the-ultimate-fighter-27-finale-tavares-vs-adesanya-1503,"listed, no lines served",True,False,0
+16458,3013,2018-07-06,https://www.bestfightodds.com/events/ufc-the-ultimate-fighter-27-finale-tavares-vs-adesanya-1503,"listed, no lines served",True,False,0
+16524,3021,2018-07-07,https://www.bestfightodds.com/events/ufc-226-miocic-vs-cormier-1447,"listed, no lines served",True,False,0
+16426,2981,2018-07-14,https://www.bestfightodds.com/events/ufc-fight-night-133-dos-santos-vs-ivanov-1504,"listed, no lines served",True,False,0
+16432,2981,2018-07-14,https://www.bestfightodds.com/events/ufc-fight-night-133-dos-santos-vs-ivanov-1504,"listed, no lines served",True,False,0
+16415,2914,2018-07-22,https://www.bestfightodds.com/events/ufc-fight-night-134-shogun-vs-smith-1507,"listed, no lines served",True,False,0
+16417,2914,2018-07-22,https://www.bestfightodds.com/events/ufc-fight-night-134-shogun-vs-smith-1507,"listed, no lines served",True,False,0
+16387,2912,2018-08-04,https://www.bestfightodds.com/events/ufc-227-dillashaw-vs-garbrandt-2-1492,"listed, no lines served",True,False,0
+16393,2912,2018-08-04,https://www.bestfightodds.com/events/ufc-227-dillashaw-vs-garbrandt-2-1492,"listed, no lines served",True,False,0
+16374,2911,2018-08-25,https://www.bestfightodds.com/events/ufc-fight-night-135-gaethje-vs-vick-1528,"listed, no lines served",True,False,0
+16375,2911,2018-08-25,https://www.bestfightodds.com/events/ufc-fight-night-135-gaethje-vs-vick-1528,"listed, no lines served",True,False,0
+16346,2858,2018-09-08,https://www.bestfightodds.com/events/ufc-228-woodley-vs-till-1530,"listed, no lines served",True,False,0
+16347,2858,2018-09-08,https://www.bestfightodds.com/events/ufc-228-woodley-vs-till-1530,"listed, no lines served",True,False,0
+16354,2871,2018-09-15,https://www.bestfightodds.com/events/ufc-fight-night-136-hunt-vs-oleinik-1539,"listed, no lines served",True,False,0
+16324,2857,2018-09-22,https://www.bestfightodds.com/events/ufc-fight-night-137-santos-vs-anders-1544,"listed, no lines served",True,False,0
+16300,2855,2018-10-27,https://www.bestfightodds.com/events/ufc-fight-night-138-volkan-vs-smith-1564,"listed, no lines served",True,False,0
+16291,2854,2018-11-03,https://www.bestfightodds.com/events/ufc-230-cormier-vs-lewis-1562,"listed, no lines served",True,False,0
+16277,2853,2018-11-10,https://www.bestfightodds.com/events/ufc-fight-night-139-korean-zombie-vs-rodriguez-1559,"page ok, bout not listed",False,False,0
+16278,2853,2018-11-10,https://www.bestfightodds.com/events/ufc-fight-night-139-korean-zombie-vs-rodriguez-1559,"page ok, bout not listed",False,False,0
+16282,2853,2018-11-10,https://www.bestfightodds.com/events/ufc-fight-night-139-korean-zombie-vs-rodriguez-1559,"listed, no lines served",True,False,0
+16283,2853,2018-11-10,https://www.bestfightodds.com/events/ufc-fight-night-139-korean-zombie-vs-rodriguez-1559,"listed, no lines served",True,False,0
+16256,2851,2018-11-24,https://www.bestfightodds.com/events/ufc-fight-night-141-blaydes-vs-ngannou-2-1579,"listed, no lines served",True,False,0
+16239,2850,2018-11-30,https://www.bestfightodds.com/events/ufc-the-ultimate-fighter-28-finale-dos-anjos-vs-usman-1586,"listed, no lines served",True,False,0
+16244,2850,2018-11-30,https://www.bestfightodds.com/events/ufc-the-ultimate-fighter-28-finale-dos-anjos-vs-usman-1586,"listed, no lines served",True,False,0
+16231,2849,2018-12-01,https://www.bestfightodds.com/events/ufc-fight-night-142-dos-santos-vs-tuivasa-1574,"listed, no lines served",True,False,0
+16213,2848,2018-12-08,https://www.bestfightodds.com/events/ufc-231-holloway-vs-ortega-1584,"listed, no lines served",True,False,0
+16217,2848,2018-12-08,https://www.bestfightodds.com/events/ufc-231-holloway-vs-ortega-1584,"page ok, bout not listed",False,False,0
+16218,2848,2018-12-08,https://www.bestfightodds.com/events/ufc-231-holloway-vs-ortega-1584,"listed, no lines served",True,False,0
+16202,2847,2018-12-15,https://www.bestfightodds.com/events/ufc-on-fox-31-lee-vs-iaquinta-2-1587,"listed, no lines served",True,False,0
+16142,2777,2019-02-02,https://www.bestfightodds.com/events/ufc-on-espn-2-assuncao-vs-moraes-2-1628,"listed, no lines served",True,False,0
+16144,2777,2019-02-02,https://www.bestfightodds.com/events/ufc-on-espn-2-assuncao-vs-moraes-2-1628,"listed, no lines served",True,False,0
+16145,2777,2019-02-02,https://www.bestfightodds.com/events/ufc-on-espn-2-assuncao-vs-moraes-2-1628,"listed, no lines served",True,False,0
+16149,2777,2019-02-02,https://www.bestfightodds.com/events/ufc-on-espn-2-assuncao-vs-moraes-2-1628,"listed, no lines served",True,False,0
+16170,2780,2019-02-09,https://www.bestfightodds.com/events/ufc-234-adesanya-vs-silva-1620,"listed, no lines served",True,False,0
+16124,2775,2019-03-02,https://www.bestfightodds.com/events/ufc-235-jones-vs-smith-1625,"listed, no lines served",True,False,0
+16109,2774,2019-03-09,https://www.bestfightodds.com/events/ufc-on-espn-4-lewis-vs-dos-santos-1639,"listed, no lines served",True,False,0
+16089,2773,2019-03-16,https://www.bestfightodds.com/events/ufc-on-espn-5-till-vs-masvidal-1626,"listed, no lines served",True,False,0
+16090,2773,2019-03-16,https://www.bestfightodds.com/events/ufc-on-espn-5-till-vs-masvidal-1626,"listed, no lines served",True,False,0
+16093,2773,2019-03-16,https://www.bestfightodds.com/events/ufc-on-espn-5-till-vs-masvidal-1626,"listed, no lines served",True,False,0
+16072,2771,2019-03-30,https://www.bestfightodds.com/events/ufc-on-espn-2-barboza-vs-gaethje-1648,"listed, no lines served",True,False,0
+16040,2750,2019-04-13,https://www.bestfightodds.com/events/ufc-236-holloway-vs-poirier-2-1666,"listed, no lines served",True,False,0
+16029,2749,2019-04-20,https://www.bestfightodds.com/events/ufc-on-espn-7-overeem-vs-oleinik-1673,"listed, no lines served",True,False,0
+16017,2748,2019-04-27,https://www.bestfightodds.com/events/ufc-on-espn-8-jacare-vs-hermansson-1657,"listed, no lines served",True,False,0
+16020,2748,2019-04-27,https://www.bestfightodds.com/events/ufc-on-espn-8-jacare-vs-hermansson-1657,"listed, no lines served",True,False,0
+16025,2748,2019-04-27,https://www.bestfightodds.com/events/ufc-on-espn-8-jacare-vs-hermansson-1657,"listed, no lines served",True,False,0
+16003,2747,2019-05-04,https://www.bestfightodds.com/events/ufc-on-espn-9-iaquinta-vs-cowboy-1672,"listed, no lines served",True,False,0
+15916,2709,2019-07-06,https://www.bestfightodds.com/events/ufc-239-jones-vs-santos-1686,"listed, no lines served",True,False,0
+15882,2672,2019-07-13,https://www.bestfightodds.com/events/ufc-on-espn-13-de-randamie-vs-ladd-1714,"listed, no lines served",True,False,0
+15873,2671,2019-07-20,https://www.bestfightodds.com/events/ufc-on-espn-4-dos-anjos-vs-edwards-1717,"listed, no lines served",True,False,0
+15878,2671,2019-07-20,https://www.bestfightodds.com/events/ufc-on-espn-4-dos-anjos-vs-edwards-1717,"listed, no lines served",True,False,0
+15859,2670,2019-07-27,https://www.bestfightodds.com/events/ufc-240-holloway-vs-edgar-1713,"listed, no lines served",True,False,0
+15831,2668,2019-08-10,https://www.bestfightodds.com/events/ufc-on-espn-14-shevchenko-vs-carmouche-2-1724,"listed, no lines served",True,False,0
+15835,2668,2019-08-10,https://www.bestfightodds.com/events/ufc-on-espn-14-shevchenko-vs-carmouche-2-1724,"listed, no lines served",True,False,0
+15840,2668,2019-08-10,https://www.bestfightodds.com/events/ufc-on-espn-14-shevchenko-vs-carmouche-2-1724,"listed, no lines served",True,False,0
+15914,2676,2019-08-17,https://www.bestfightodds.com/events/ufc-241-cormier-vs-miocic-2-1709,"listed, no lines served",True,False,0
+15823,2667,2019-08-31,https://www.bestfightodds.com/events/ufc-on-espn-15-andrade-vs-zhang-1733,"listed, no lines served",True,False,0
+15829,2667,2019-08-31,https://www.bestfightodds.com/events/ufc-on-espn-15-andrade-vs-zhang-1733,"page ok, bout not listed",False,False,0
+15892,2675,2019-09-07,https://www.bestfightodds.com/events/ufc-242-khabib-vs-poirier-1715,"listed, no lines served",True,False,0
+15896,2675,2019-09-07,https://www.bestfightodds.com/events/ufc-242-khabib-vs-poirier-1715,"page ok, bout not listed",False,False,0
+15808,2666,2019-09-14,https://www.bestfightodds.com/events/ufc-on-espn-16-cowboy-vs-gaethje-1735,"listed, no lines served",True,False,0
+15811,2666,2019-09-14,https://www.bestfightodds.com/events/ufc-on-espn-16-cowboy-vs-gaethje-1735,"listed, no lines served",True,False,0
+15814,2666,2019-09-14,https://www.bestfightodds.com/events/ufc-on-espn-16-cowboy-vs-gaethje-1735,"listed, no lines served",True,False,0
+15699,2664,2019-09-28,https://www.bestfightodds.com/events/ufc-on-espn-18-hermansson-vs-cannonier-1747,"listed, no lines served",True,False,0
+15682,2663,2019-10-05,https://www.bestfightodds.com/events/ufc-243-whittaker-vs-adesanya-1752,"listed, no lines served",True,False,0
+15669,2662,2019-10-12,https://www.bestfightodds.com/events/ufc-on-espn-19-joanna-vs-waterson-1751,"listed, no lines served",True,False,0
+15670,2662,2019-10-12,https://www.bestfightodds.com/events/ufc-on-espn-19-joanna-vs-waterson-1751,"listed, no lines served",True,False,0
+15657,2661,2019-10-18,https://www.bestfightodds.com/events/ufc-on-espn-6-reyes-vs-weidman-1764,"listed, no lines served",True,False,0
+15646,2660,2019-10-26,https://www.bestfightodds.com/events/ufc-on-espn-20-maia-vs-askren-1793,"listed, no lines served",True,False,0
+15650,2660,2019-10-26,https://www.bestfightodds.com/events/ufc-on-espn-20-maia-vs-askren-1793,"page ok, bout not listed",False,False,0
+15630,2659,2019-11-02,https://www.bestfightodds.com/events/ufc-244-masvidal-vs-diaz-1771,"listed, no lines served",True,False,0
+15632,2659,2019-11-02,https://www.bestfightodds.com/events/ufc-244-masvidal-vs-diaz-1771,"listed, no lines served",True,False,0
+15640,2659,2019-11-02,https://www.bestfightodds.com/events/ufc-244-masvidal-vs-diaz-1771,"listed, no lines served",True,False,0
+15571,2609,2019-11-09,https://www.bestfightodds.com/events/ufc-on-espn-21-zabit-vs-kattar-1795,"listed, no lines served",True,False,0
+15578,2609,2019-11-09,https://www.bestfightodds.com/events/ufc-on-espn-21-zabit-vs-kattar-1795,"listed, no lines served",True,False,0
+15617,2658,2019-11-16,https://www.bestfightodds.com/events/ufc-on-espn-22-blachowicz-vs-jacare-1755,"listed, no lines served",True,False,0
+15595,2656,2019-12-14,https://www.bestfightodds.com/events/ufc-245-usman-vs-covington-1787,"listed, no lines served",True,False,0
+15580,2655,2019-12-21,https://www.bestfightodds.com/events/ufc-on-espn-23-edgar-vs-the-korean-zombie-1803,"listed, no lines served",True,False,0
+15584,2655,2019-12-21,https://www.bestfightodds.com/events/ufc-on-espn-23-edgar-vs-the-korean-zombie-1803,"listed, no lines served",True,False,0
+15591,2655,2019-12-21,https://www.bestfightodds.com/events/ufc-on-espn-23-edgar-vs-the-korean-zombie-1803,"listed, no lines served",True,False,0
+15553,2505,2020-01-18,https://www.bestfightodds.com/events/ufc-246-mcgregor-vs-cowboy-1839,"listed, no lines served",True,False,0
+15534,2504,2020-02-08,https://www.bestfightodds.com/events/ufc-247-jones-vs-reyes-1837,"listed, no lines served",True,False,0
+15536,2504,2020-02-08,https://www.bestfightodds.com/events/ufc-247-jones-vs-reyes-1837,"listed, no lines served",True,False,0
+15537,2504,2020-02-08,https://www.bestfightodds.com/events/ufc-247-jones-vs-reyes-1837,"listed, no lines served",True,False,0
+15541,2504,2020-02-08,https://www.bestfightodds.com/events/ufc-247-jones-vs-reyes-1837,"listed, no lines served",True,False,0
+15494,2488,2020-02-23,https://www.bestfightodds.com/events/ufc-on-espn-26-felder-vs-hooker-1846,"listed, no lines served",True,False,0
+15498,2488,2020-02-23,https://www.bestfightodds.com/events/ufc-on-espn-26-felder-vs-hooker-1846,"listed, no lines served",True,False,0
+15484,2478,2020-03-07,https://www.bestfightodds.com/events/ufc-248-adesanya-vs-romero-1849,"listed, no lines served",True,False,0
+15487,2478,2020-03-07,https://www.bestfightodds.com/events/ufc-248-adesanya-vs-romero-1849,"listed, no lines served",True,False,0
+15492,2478,2020-03-07,https://www.bestfightodds.com/events/ufc-248-adesanya-vs-romero-1849,"listed, no lines served",True,False,0
+15466,2464,2020-05-09,https://www.bestfightodds.com/events/ufc-249-ferguson-vs-gaethje-1875,"page ok, bout not listed",False,False,0
+15467,2464,2020-05-09,https://www.bestfightodds.com/events/ufc-249-ferguson-vs-gaethje-1875,"listed, no lines served",True,False,0
+15470,2464,2020-05-09,https://www.bestfightodds.com/events/ufc-249-ferguson-vs-gaethje-1875,"listed, no lines served",True,False,0
+15385,2426,2020-05-13,https://www.bestfightodds.com/events/ufc-on-espn-29-smith-vs-teixeira-1876,"listed, no lines served",True,False,0
+15387,2426,2020-05-13,https://www.bestfightodds.com/events/ufc-on-espn-29-smith-vs-teixeira-1876,"listed, no lines served",True,False,0
+15439,2442,2020-05-16,https://www.bestfightodds.com/events/ufc-on-espn-8-overeem-vs-harris-1908,"listed, no lines served",True,False,0
+15440,2442,2020-05-16,https://www.bestfightodds.com/events/ufc-on-espn-8-overeem-vs-harris-1908,"listed, no lines served",True,False,0
+15374,2425,2020-05-30,https://www.bestfightodds.com/events/ufc-on-espn-9-woodley-vs-burns-1910,"listed, no lines served",True,False,0
+15408,2439,2020-06-13,https://www.bestfightodds.com/events/ufc-on-espn-10-eye-vs-calvillo-1898,"listed, no lines served",True,False,0
+15409,2439,2020-06-13,https://www.bestfightodds.com/events/ufc-on-espn-10-eye-vs-calvillo-1898,"listed, no lines served",True,False,0
+15361,2424,2020-07-11,https://www.bestfightodds.com/events/ufc-251-usman-vs-masvidal-1890,"listed, no lines served",True,False,0
+15363,2424,2020-07-11,https://www.bestfightodds.com/events/ufc-251-usman-vs-masvidal-1890,"listed, no lines served",True,False,0
+15366,2424,2020-07-11,https://www.bestfightodds.com/events/ufc-251-usman-vs-masvidal-1890,"listed, no lines served",True,False,0
+15334,2420,2020-07-25,https://www.bestfightodds.com/events/ufc-on-espn-14-whittaker-vs-till-1903,"listed, no lines served",True,False,0
+15336,2420,2020-07-25,https://www.bestfightodds.com/events/ufc-on-espn-14-whittaker-vs-till-1903,"listed, no lines served",True,False,0
+15293,2413,2020-08-08,https://www.bestfightodds.com/events/ufc-on-espn-32-lewis-vs-oleinik-1885,"page ok, bout not listed",False,False,0
+15294,2415,2020-08-22,https://www.bestfightodds.com/events/ufc-on-espn-15-munhoz-vs-edgar-1931,"listed, no lines served",True,False,0
+15260,2405,2020-09-12,https://www.bestfightodds.com/events/ufc-on-espn-35-waterson-vs-hill-1945,"listed, no lines served",True,False,0
+15251,2401,2020-09-19,https://www.bestfightodds.com/events/ufc-on-espn-36-covington-vs-woodley-1944,"listed, no lines served",True,False,0
+15258,2401,2020-09-19,https://www.bestfightodds.com/events/ufc-on-espn-36-covington-vs-woodley-1944,"listed, no lines served",True,False,0
+15307,2416,2020-09-26,https://www.bestfightodds.com/events/ufc-253-adesanya-vs-costa-1952,"listed, no lines served",True,False,0
+15210,2390,2020-10-17,https://www.bestfightodds.com/events/ufc-on-espn-38-ortega-vs-the-korean-zombie-1971,"listed, no lines served",True,False,0
+15140,2373,2020-11-14,https://www.bestfightodds.com/events/ufc-fight-night-182-felder-vs-dos-anjos-1981,"listed, no lines served",True,False,0
+15146,2373,2020-11-14,https://www.bestfightodds.com/events/ufc-fight-night-182-felder-vs-dos-anjos-1981,"listed, no lines served",True,False,0
+15125,2371,2020-12-05,https://www.bestfightodds.com/events/ufc-on-espn-19-hermansson-vs-vettori-1982,"listed, no lines served",True,False,0
+15106,2355,2021-01-16,https://www.bestfightodds.com/events/ufc-on-abc-1-holloway-vs-kattar-2009,odds,True,True,1
+15107,2355,2021-01-16,https://www.bestfightodds.com/events/ufc-on-abc-1-holloway-vs-kattar-2009,odds,True,True,1
+15021,2318,2021-01-20,https://www.bestfightodds.com/events/ufc-on-espn-20-chiesa-vs-magny-2044,odds,True,True,1
+15088,2352,2021-01-23,https://www.bestfightodds.com/events/ufc-257-poirier-vs-mcgregor-2-2016,odds,True,True,1
+15071,2351,2021-02-06,https://www.bestfightodds.com/events/ufc-fight-night-184-overeem-vs-volkov-2029,odds,True,True,1
+15048,2327,2021-03-06,https://www.bestfightodds.com/events/ufc-259-blachowicz-vs-adesanya-2038,odds,True,True,3
+14998,2311,2021-03-13,https://www.bestfightodds.com/events/ufc-fight-night-187-edwards-vs-muhammad-2048,odds,True,True,3
+15004,2311,2021-03-13,https://www.bestfightodds.com/events/ufc-fight-night-187-edwards-vs-muhammad-2048,odds,True,True,3
+14978,2300,2021-03-27,https://www.bestfightodds.com/events/ufc-260-miocic-vs-ngannou-2-2055,odds,True,True,3
+14988,2309,2021-04-10,https://www.bestfightodds.com/events/ufc-on-abc-2-vettori-vs-holland-2061,odds,True,True,3
+14990,2309,2021-04-10,https://www.bestfightodds.com/events/ufc-on-abc-2-vettori-vs-holland-2061,odds,True,True,3
+14964,2291,2021-04-17,https://www.bestfightodds.com/events/ufc-on-espn-22-whittaker-vs-gastelum-2062,odds,True,True,3
+14965,2291,2021-04-17,https://www.bestfightodds.com/events/ufc-on-espn-22-whittaker-vs-gastelum-2062,odds,True,True,3
+14967,2291,2021-04-17,https://www.bestfightodds.com/events/ufc-on-espn-22-whittaker-vs-gastelum-2062,odds,True,True,3
+14954,2287,2021-04-24,https://www.bestfightodds.com/events/ufc-261-usman-vs-masvidal-2-2087,odds,True,True,3
+14943,2282,2021-05-01,https://www.bestfightodds.com/events/ufc-on-espn-23-reyes-vs-prochazka-2074,"page ok, bout not listed",False,False,0
+14944,2282,2021-05-01,https://www.bestfightodds.com/events/ufc-on-espn-23-reyes-vs-prochazka-2074,odds,True,True,3
+14922,2276,2021-05-15,https://www.bestfightodds.com/events/ufc-262-oliveira-vs-chandler-2086,odds,True,True,3
+14907,2275,2021-05-22,https://www.bestfightodds.com/events/ufc-fight-night-188-font-vs-garbrandt-2085,odds,True,True,3
+14871,2263,2021-06-05,https://www.bestfightodds.com/events/ufc-fight-night-189-rozenstruik-vs-sakai-2108,odds,True,True,3
+14876,2263,2021-06-05,https://www.bestfightodds.com/events/ufc-fight-night-189-rozenstruik-vs-sakai-2108,odds,True,True,3
+14897,2267,2021-06-12,https://www.bestfightodds.com/events/ufc-263-adesanya-vs-vettori-2-2115,"page ok, bout not listed",False,False,0
+14903,2267,2021-06-12,https://www.bestfightodds.com/events/ufc-263-adesanya-vs-vettori-2-2115,odds,True,True,3
+14884,2264,2021-06-19,https://www.bestfightodds.com/events/ufc-on-espn-the-korean-zombie-vs-ige-2130,odds,True,True,7
+14887,2264,2021-06-19,https://www.bestfightodds.com/events/ufc-on-espn-the-korean-zombie-vs-ige-2130,odds,True,True,7
+14863,2262,2021-06-26,https://www.bestfightodds.com/events/ufc-fight-night-190-gane-vs-volkov-2109,odds,True,True,7
+14850,2255,2021-07-10,https://www.bestfightodds.com/events/ufc-264-poirier-vs-mcgregor-3-2127,odds,True,True,7
+14819,2243,2021-07-24,https://www.bestfightodds.com/events/ufc-on-espn-sandhagen-vs-dillashaw-2137,odds,True,True,7
+14822,2243,2021-07-24,https://www.bestfightodds.com/events/ufc-on-espn-sandhagen-vs-dillashaw-2137,odds,True,True,7
+14810,2241,2021-08-07,https://www.bestfightodds.com/events/ufc-265-lewis-vs-gane-2142,odds,True,True,7
+14748,2223,2021-08-21,https://www.bestfightodds.com/events/ufc-on-espn-cannonier-vs-gastelum-2166,odds,True,True,7
+14773,2226,2021-08-28,https://www.bestfightodds.com/events/ufc-on-espn-barboza-vs-chikadze-2251,odds,True,True,7
+14778,2226,2021-08-28,https://www.bestfightodds.com/events/ufc-on-espn-barboza-vs-chikadze-2251,odds,True,True,7
+14782,2226,2021-08-28,https://www.bestfightodds.com/events/ufc-on-espn-barboza-vs-chikadze-2251,"page ok, bout not listed",False,False,0
+14762,2224,2021-10-02,https://www.bestfightodds.com/events/ufc-fight-night-santos-vs-walker-2167,odds,True,True,7
+14764,2224,2021-10-02,https://www.bestfightodds.com/events/ufc-fight-night-santos-vs-walker-2167,odds,True,True,7
+14719,2190,2021-10-09,https://www.bestfightodds.com/events/ufc-fight-night-dern-vs-rodriguez-2173,odds,True,True,7
+14697,2186,2021-10-16,https://www.bestfightodds.com/events/ufc-fight-night-ladd-vs-dumont-2178,odds,True,True,7
+14681,2109,2021-10-23,https://www.bestfightodds.com/events/ufc-fight-night-costa-vs-vettori-2203,odds,True,True,7
+14714,2189,2021-10-30,https://www.bestfightodds.com/events/ufc-267-brachowicz-vs-teixeira-2217,odds,True,True,7
+14664,2107,2021-11-06,https://www.bestfightodds.com/events/ufc-268-usman-vs-covington-2-2246,odds,True,True,7
+14645,2103,2021-11-20,https://www.bestfightodds.com/events/ufc-fight-night-vieira-vs-tate-2237,odds,True,True,7
+14629,2102,2021-12-11,https://www.bestfightodds.com/events/ufc-269-2279,odds,True,True,7
+14616,2093,2021-12-18,https://www.bestfightodds.com/events/ufc-fight-night-lewis-vs-daukaus-2286,odds,True,True,7
+14593,2074,2022-01-15,https://www.bestfightodds.com/events/ufc-fight-night-201-2320,odds,True,True,7
+14567,2067,2022-02-05,https://www.bestfightodds.com/events/ufc-fight-night-202-2339,"page ok, bout not listed",False,False,0
+14568,2067,2022-02-05,https://www.bestfightodds.com/events/ufc-fight-night-202-2339,"page ok, bout not listed",False,False,0
+14572,2067,2022-02-05,https://www.bestfightodds.com/events/ufc-fight-night-202-2339,"page ok, bout not listed",False,False,0
+14558,2062,2022-02-12,https://www.bestfightodds.com/events/ufc-271-2338,odds,True,True,7
+14559,2062,2022-02-12,https://www.bestfightodds.com/events/ufc-271-2338,odds,True,True,7
+14545,2052,2022-02-19,https://www.bestfightodds.com/events/ufc-2413,odds,True,True,7
+14534,2050,2022-02-26,https://www.bestfightodds.com/events/ufc-fight-night-203-2343,odds,True,True,7
+14540,2050,2022-02-26,https://www.bestfightodds.com/events/ufc-fight-night-203-2343,odds,True,True,7
+14485,2031,2022-03-05,https://www.bestfightodds.com/events/ufc-fight-night-204-2380,odds,True,True,7
+14486,2031,2022-03-05,https://www.bestfightodds.com/events/ufc-fight-night-204-2380,odds,True,True,7
+14490,2031,2022-03-05,https://www.bestfightodds.com/events/ufc-fight-night-204-2380,"page ok, bout not listed",False,False,0
+14528,2038,2022-03-19,https://www.bestfightodds.com/events/ufc-fight-night-205-2376,odds,True,True,7
+14508,2036,2022-03-26,https://www.bestfightodds.com/events/ufc-fight-night-207-2391,odds,True,True,7
+14510,2036,2022-03-26,https://www.bestfightodds.com/events/ufc-fight-night-207-2391,odds,True,True,7
+14454,2006,2022-04-09,https://www.bestfightodds.com/events/ufc-273-2411,odds,True,True,7
+14456,2006,2022-04-09,https://www.bestfightodds.com/events/ufc-273-2411,"page ok, bout not listed",False,False,0
+14450,1998,2022-04-16,https://www.bestfightodds.com/events/ufc-fight-night-2506,"page ok, bout not listed",False,False,0
+14407,1988,2022-04-30,https://www.bestfightodds.com/events/ufc-fight-night-font-vs-vera-2474,odds,True,True,7
+14466,2019,2022-05-07,https://www.bestfightodds.com/events/ufc-274-oliveira-vs-gaethje-2422,odds,True,True,7
+14468,2019,2022-05-07,https://www.bestfightodds.com/events/ufc-274-oliveira-vs-gaethje-2422,odds,True,True,7
+14469,2019,2022-05-07,https://www.bestfightodds.com/events/ufc-274-oliveira-vs-gaethje-2422,"page ok, bout not listed",False,False,0
+14471,2019,2022-05-07,https://www.bestfightodds.com/events/ufc-274-oliveira-vs-gaethje-2422,odds,True,True,7
+14476,2019,2022-05-07,https://www.bestfightodds.com/events/ufc-274-oliveira-vs-gaethje-2422,odds,True,True,7
+14431,1992,2022-05-14,https://www.bestfightodds.com/events/ufc-fight-night-208-2418,"page ok, bout not listed",False,False,0
+14383,1978,2022-05-21,https://www.bestfightodds.com/events/ufc-fight-night-2010-2428,odds,True,True,7
+14384,1978,2022-05-21,https://www.bestfightodds.com/events/ufc-fight-night-2010-2428,odds,True,True,7
+14387,1978,2022-05-21,https://www.bestfightodds.com/events/ufc-fight-night-2010-2428,odds,True,True,7
+14356,1964,2022-06-04,https://www.bestfightodds.com/events/ufc-fight-night-211-2441,odds,True,True,7
+14335,1961,2022-06-12,https://www.bestfightodds.com/events/ufc-275-teixeira-vs-prochazka-2561,odds,True,True,7
+14339,1961,2022-06-12,https://www.bestfightodds.com/events/ufc-275-teixeira-vs-prochazka-2561,odds,True,True,7
+14284,1934,2022-06-18,https://www.bestfightodds.com/events/ufc-fight-night-kattar-vs-emmett-2523,odds,True,True,7
+14287,1934,2022-06-18,https://www.bestfightodds.com/events/ufc-fight-night-kattar-vs-emmett-2523,odds,True,True,7
+14293,1934,2022-06-18,https://www.bestfightodds.com/events/ufc-fight-night-kattar-vs-emmett-2523,odds,True,True,7
+14308,1935,2022-06-25,https://www.bestfightodds.com/events/ufc-on-espn-tsarukyan-vs-gamrot-2574,odds,True,True,7
+14278,1926,2022-07-09,https://www.bestfightodds.com/events/ufc-on-espn-dos-anjos-vs-fiziev-2501,odds,True,True,7
+14280,1926,2022-07-09,https://www.bestfightodds.com/events/ufc-on-espn-dos-anjos-vs-fiziev-2501,odds,True,True,7
+14319,1936,2022-07-30,https://www.bestfightodds.com/events/ufc-277-pena-vs-nunes-2-2517,odds,True,True,7
+14201,1895,2022-08-13,https://www.bestfightodds.com/events/ufc-fight-night-vera-vs-cruz-2552,odds,True,True,7
+14202,1895,2022-08-13,https://www.bestfightodds.com/events/ufc-fight-night-vera-vs-cruz-2552,odds,True,True,7
+14171,1892,2022-09-10,https://www.bestfightodds.com/events/ufc-279-2541,odds,True,True,7
+14181,1892,2022-09-10,https://www.bestfightodds.com/events/ufc-279-2541,odds,True,True,7
+14147,1868,2022-09-17,https://www.bestfightodds.com/events/ufc-fight-night-211-2569,odds,True,True,7
+14149,1868,2022-09-17,https://www.bestfightodds.com/events/ufc-fight-night-211-2569,odds,True,True,7
+14139,1860,2022-10-15,https://www.bestfightodds.com/events/ufc-fight-night-212-2579,"page ok, bout not listed",False,False,0
+14324,1950,2022-10-22,https://www.bestfightodds.com/events/ufc-281-2586,"page ok, bout not listed",False,False,0
+14087,1853,2022-10-29,https://www.bestfightodds.com/events/ufc-fight-night-213-2606,odds,True,True,7
+14090,1853,2022-10-29,https://www.bestfightodds.com/events/ufc-fight-night-213-2606,odds,True,True,7
+14079,1852,2022-11-19,https://www.bestfightodds.com/events/ufc-fight-night-215-2633,odds,True,True,7
+14082,1852,2022-11-19,https://www.bestfightodds.com/events/ufc-fight-night-215-2633,odds,True,True,7
+14069,1851,2022-12-03,https://www.bestfightodds.com/events/ufc-fight-night-214-2607,odds,True,True,7
+14048,1850,2022-12-17,https://www.bestfightodds.com/events/ufc-fight-night-217-2632,odds,True,True,7
+14004,1788,2023-01-14,https://www.bestfightodds.com/events/ufc-fight-night-218-2666,odds,True,True,7
+14033,1825,2023-01-21,https://www.bestfightodds.com/events/ufc-283-2635,odds,True,True,7
+13983,1349,2023-02-04,https://www.bestfightodds.com/events/ufc-fight-night-lewis-vs-spivak-2747,odds,True,True,7
+14000,1786,2023-02-11,https://www.bestfightodds.com/events/ufc-284-makhachev-vs-volkanovski-2710,"page ok, bout not listed",False,False,0
+13949,1326,2023-02-25,https://www.bestfightodds.com/events/ufc-fight-night-220-2709,odds,True,True,7
+13966,1343,2023-03-04,https://www.bestfightodds.com/events/ufc-285-2738,odds,True,True,6
+13938,1319,2023-03-11,https://www.bestfightodds.com/events/ufc-fight-night-221-2719,odds,True,True,6
+13910,1310,2023-03-18,https://www.bestfightodds.com/events/ufc-286-2746,odds,True,True,6
+13913,1310,2023-03-18,https://www.bestfightodds.com/events/ufc-286-2746,odds,True,True,6
+13916,1310,2023-03-18,https://www.bestfightodds.com/events/ufc-286-2746,odds,True,True,6
+13919,1314,2023-03-25,https://www.bestfightodds.com/events/ufc-fight-night-222-2724,odds,True,True,6
+13922,1314,2023-03-25,https://www.bestfightodds.com/events/ufc-fight-night-222-2724,odds,True,True,6
+13923,1314,2023-03-25,https://www.bestfightodds.com/events/ufc-fight-night-222-2724,odds,True,True,6
+13926,1314,2023-03-25,https://www.bestfightodds.com/events/ufc-fight-night-222-2724,odds,True,True,6
+13898,1294,2023-04-08,https://www.bestfightodds.com/events/ufc-287-2760,odds,True,True,6
+13900,1294,2023-04-08,https://www.bestfightodds.com/events/ufc-287-2760,odds,True,True,6
+13891,1278,2023-04-15,https://www.bestfightodds.com/events/ufc-fight-night-holloway-vs-allen-2796,odds,True,True,6
+13871,1277,2023-04-22,https://www.bestfightodds.com/events/ufc-fight-night-223-2770,odds,True,True,6
+13876,1277,2023-04-22,https://www.bestfightodds.com/events/ufc-fight-night-223-2770,odds,True,True,6
+13844,1271,2023-05-06,https://www.bestfightodds.com/events/ufc-fight-night-225-2777,odds,True,True,7
+13851,1271,2023-05-06,https://www.bestfightodds.com/events/ufc-fight-night-225-2777,"page ok, bout not listed",False,False,0
+13829,1241,2023-05-20,https://www.bestfightodds.com/events/ufc-fight-night-226-2807,odds,True,True,6
+13795,1225,2023-06-03,https://www.bestfightodds.com/events/ufc-on-espn-hermansson-vs-allen-2870,odds,True,True,6
+13800,1225,2023-06-03,https://www.bestfightodds.com/events/ufc-on-espn-hermansson-vs-allen-2870,odds,True,True,6
+13751,1213,2023-06-24,https://www.bestfightodds.com/events/ufc-fight-night-228-2848,odds,True,True,6
+13755,1213,2023-06-24,https://www.bestfightodds.com/events/ufc-fight-night-228-2848,odds,True,True,6
+13757,1213,2023-06-24,https://www.bestfightodds.com/events/ufc-fight-night-228-2848,odds,True,True,6
+13702,1195,2023-07-01,https://www.bestfightodds.com/events/ufc-fight-night-strickland-vs-magomedov-2871,"page ok, bout not listed",False,False,0
+13707,1195,2023-07-01,https://www.bestfightodds.com/events/ufc-fight-night-strickland-vs-magomedov-2871,odds,True,True,6
+13809,1236,2023-07-08,https://www.bestfightodds.com/events/ufc-290-2834,"page ok, bout not listed",False,False,0
+13811,1236,2023-07-08,https://www.bestfightodds.com/events/ufc-290-2834,"page ok, bout not listed",False,False,0
+13676,1191,2023-07-15,https://www.bestfightodds.com/events/ufc-fight-night-225-2891,odds,True,True,6
+13685,1191,2023-07-15,https://www.bestfightodds.com/events/ufc-fight-night-225-2891,odds,True,True,6
+13737,1210,2023-07-22,https://www.bestfightodds.com/events/ufc-292-2886,odds,True,True,7
+13689,1194,2023-07-29,https://www.bestfightodds.com/events/ufc-291-2900,"page ok, bout not listed",False,False,0
+13672,1189,2023-08-19,https://www.bestfightodds.com/events/ufc-292-sterling-vs-o-malley-2899,odds,True,True,7
+13535,1144,2023-08-26,https://www.bestfightodds.com/events/ufc-on-espn-holloway-vs-the-korean-zombie-2935,odds,True,True,7
+13604,1156,2023-09-16,https://www.bestfightodds.com/events/ufc-fight-night-grasso-vs-shevchenko-2-2951,"page ok, bout not listed",False,False,0
+13602,1155,2023-09-23,https://www.bestfightodds.com/events/ufc-on-espn-53-2967,odds,True,True,7
+13567,1152,2023-11-04,https://www.bestfightodds.com/events/ufc-2970,odds,True,True,7
+13518,1115,2023-11-11,https://www.bestfightodds.com/events/ufc-295-jones-vs-miocic-2957,"page ok, bout not listed",False,False,0
+13500,1072,2023-12-02,https://www.bestfightodds.com/events/ufc-3057,"page ok, bout not listed",False,False,0
+13482,1065,2023-12-09,https://www.bestfightodds.com/events/ufc-3133,odds,True,True,7
+13488,1065,2023-12-09,https://www.bestfightodds.com/events/ufc-3133,odds,True,True,7
+13455,1051,2024-01-20,https://www.bestfightodds.com/events/ufc-297-3106,odds,True,True,7
+13458,1051,2024-01-20,https://www.bestfightodds.com/events/ufc-297-3106,odds,True,True,7
+13461,1051,2024-01-20,https://www.bestfightodds.com/events/ufc-297-3106,odds,True,True,7
+13462,1051,2024-01-20,https://www.bestfightodds.com/events/ufc-297-3106,odds,True,True,7
+13398,1020,2024-02-10,https://www.bestfightodds.com/events/ufc-3163,odds,True,True,7
+13401,1020,2024-02-10,https://www.bestfightodds.com/events/ufc-3163,odds,True,True,7
+13421,1024,2024-02-17,https://www.bestfightodds.com/events/ufc-298-3112,odds,True,True,7
+13379,1017,2024-02-24,https://www.bestfightodds.com/events/ufc-3162,odds,True,True,7
+13385,1017,2024-02-24,https://www.bestfightodds.com/events/ufc-3162,odds,True,True,7
+13387,1017,2024-02-24,https://www.bestfightodds.com/events/ufc-3162,odds,True,True,7
+13389,1017,2024-02-24,https://www.bestfightodds.com/events/ufc-3162,odds,True,True,7
+13418,1023,2024-03-09,https://www.bestfightodds.com/events/ufc-299-3155,"page ok, bout not listed",False,False,0
+13355,930,2024-03-16,https://www.bestfightodds.com/events/ufc-3192,"page ok, bout not listed",False,False,0
+13356,930,2024-03-16,https://www.bestfightodds.com/events/ufc-3192,"page ok, bout not listed",False,False,0
+13362,930,2024-03-16,https://www.bestfightodds.com/events/ufc-3192,odds,True,True,7
+13371,938,2024-03-30,https://www.bestfightodds.com/events/ufc-3225,"page ok, bout not listed",False,False,0
+13312,913,2024-04-06,https://www.bestfightodds.com/events/ufc-3230,odds,True,True,7
+13313,913,2024-04-06,https://www.bestfightodds.com/events/ufc-3230,odds,True,True,7
+13314,913,2024-04-06,https://www.bestfightodds.com/events/ufc-3230,"page ok, bout not listed",False,False,0
+13327,922,2024-04-13,https://www.bestfightodds.com/events/ufc-300-3205,odds,True,True,7
+13334,922,2024-04-13,https://www.bestfightodds.com/events/ufc-300-3205,"page ok, bout not listed",False,False,0
+13311,889,2024-04-27,https://www.bestfightodds.com/events/ufc-3252,odds,True,True,7
+13246,870,2024-05-11,https://www.bestfightodds.com/events/ufc-3238,odds,True,True,4
+13261,871,2024-05-18,https://www.bestfightodds.com/events/ufc-3290,odds,True,True,6
+13227,869,2024-06-01,https://www.bestfightodds.com/events/ufc-3270,"page ok, bout not listed",False,False,0
+13231,869,2024-06-01,https://www.bestfightodds.com/events/ufc-3270,"page ok, bout not listed",False,False,0
+13237,869,2024-06-01,https://www.bestfightodds.com/events/ufc-3270,odds,True,True,6
+13197,825,2024-06-08,https://www.bestfightodds.com/events/ufc-3170,"page ok, bout not listed",False,False,0
+13199,825,2024-06-08,https://www.bestfightodds.com/events/ufc-3170,"page ok, bout not listed",False,False,0
+13201,825,2024-06-08,https://www.bestfightodds.com/events/ufc-3170,"page ok, bout not listed",False,False,0
+13207,826,2024-06-15,https://www.bestfightodds.com/events/ufc-3318,odds,True,True,6
+13209,826,2024-06-15,https://www.bestfightodds.com/events/ufc-3318,odds,True,True,6
+13280,879,2024-06-22,https://www.bestfightodds.com/events/ufc-3277,odds,True,True,6
+13282,879,2024-06-22,https://www.bestfightodds.com/events/ufc-3277,odds,True,True,6
+13285,879,2024-06-22,https://www.bestfightodds.com/events/ufc-3277,odds,True,True,6
+13268,875,2024-06-29,https://www.bestfightodds.com/events/ufc-303-3283,odds,True,True,6
+13272,875,2024-06-29,https://www.bestfightodds.com/events/ufc-303-3283,"page ok, bout not listed",False,False,0
+13165,820,2024-07-13,https://www.bestfightodds.com/events/ufc-3336,"page ok, bout not listed",False,False,0
+13135,796,2024-07-27,https://www.bestfightodds.com/events/ufc-3374,odds,True,True,6
+13223,846,2024-08-03,https://www.bestfightodds.com/events/ufc-3320,odds,True,True,6
+13138,797,2024-08-10,https://www.bestfightodds.com/events/ufc-3406,"page ok, bout not listed",False,False,0
+13178,821,2024-08-17,https://www.bestfightodds.com/events/ufc-3410,"page ok, bout not listed",False,False,0
+13179,821,2024-08-17,https://www.bestfightodds.com/events/ufc-3410,"page ok, bout not listed",False,False,0
+13182,821,2024-08-17,https://www.bestfightodds.com/events/ufc-3410,"page ok, bout not listed",False,False,0
+13094,764,2024-08-24,https://www.bestfightodds.com/events/ufc-3414,"page ok, bout not listed",False,False,0
+13096,764,2024-08-24,https://www.bestfightodds.com/events/ufc-3414,"page ok, bout not listed",False,False,0
+13097,764,2024-08-24,https://www.bestfightodds.com/events/ufc-3414,"page ok, bout not listed",False,False,0
+5864,921,2024-09-14,https://www.bestfightodds.com/events/ufc-306-3399,"page ok, bout not listed",False,False,0
+5816,827,2024-09-28,https://www.bestfightodds.com/events/ufc-3427,odds,True,True,6
+5820,827,2024-09-28,https://www.bestfightodds.com/events/ufc-3427,odds,True,True,6
+5826,827,2024-09-28,https://www.bestfightodds.com/events/ufc-3427,odds,True,True,6
+5767,770,2024-10-05,https://www.bestfightodds.com/events/ufc-307-3449,"page ok, bout not listed",False,False,0
+5768,770,2024-10-05,https://www.bestfightodds.com/events/ufc-307-3449,"page ok, bout not listed",False,False,0
+5772,770,2024-10-05,https://www.bestfightodds.com/events/ufc-307-3449,"page ok, bout not listed",False,False,0
+5773,770,2024-10-05,https://www.bestfightodds.com/events/ufc-307-3449,"page ok, bout not listed",False,False,0
+5645,735,2024-10-12,https://www.bestfightodds.com/events/ufc-fight-night-3501,odds,True,True,6
+5646,735,2024-10-12,https://www.bestfightodds.com/events/ufc-fight-night-3501,odds,True,True,6
+5649,735,2024-10-12,https://www.bestfightodds.com/events/ufc-fight-night-3501,"page ok, bout not listed",False,False,0
+5654,735,2024-10-12,https://www.bestfightodds.com/events/ufc-fight-night-3501,"page ok, bout not listed",False,False,0
+5797,811,2024-10-26,https://www.bestfightodds.com/events/ufc-3412,odds,True,True,6
+5540,722,2024-11-02,https://www.bestfightodds.com/events/ufc-fight-night-3450,"page ok, bout not listed",False,False,0
+5548,722,2024-11-02,https://www.bestfightodds.com/events/ufc-fight-night-3450,odds,True,True,6
+5550,722,2024-11-02,https://www.bestfightodds.com/events/ufc-fight-night-3450,odds,True,True,6
+5448,712,2024-11-23,https://www.bestfightodds.com/events/ufc-3549,odds,True,True,6
+5659,736,2024-12-07,https://www.bestfightodds.com/events/ufc-3522,odds,True,True,6
+5665,736,2024-12-07,https://www.bestfightodds.com/events/ufc-3522,odds,True,True,6
+5430,711,2024-12-14,https://www.bestfightodds.com/events/ufc-fight-night-3544,odds,True,True,6
+5247,689,2025-01-11,https://www.bestfightodds.com/events/ufc-fight-night-3593,odds,True,True,6
+5057,663,2025-02-01,https://www.bestfightodds.com/events/ufc-3592,odds,True,True,6
+4931,650,2025-02-15,https://www.bestfightodds.com/events/ufc-3630,odds,True,True,5
+4939,651,2025-02-22,https://www.bestfightodds.com/events/ufc-3604,"page ok, bout not listed",False,False,0
+4941,651,2025-02-22,https://www.bestfightodds.com/events/ufc-3604,"page ok, bout not listed",False,False,0
+4951,652,2025-03-01,https://www.bestfightodds.com/events/ufc-3642,"page ok, bout not listed",False,False,0
+4952,652,2025-03-01,https://www.bestfightodds.com/events/ufc-3642,"page ok, bout not listed",False,False,0
+4956,652,2025-03-01,https://www.bestfightodds.com/events/ufc-3642,odds,True,True,5
+4908,647,2025-03-08,https://www.bestfightodds.com/events/ufc-313-3650,"page ok, bout not listed",False,False,0
+4896,646,2025-03-15,https://www.bestfightodds.com/events/ufc-fight-night-3651,"page ok, bout not listed",False,False,0
+4916,648,2025-03-22,https://www.bestfightodds.com/events/ufc-3578,odds,True,True,5
+4921,648,2025-03-22,https://www.bestfightodds.com/events/ufc-3578,odds,True,True,5
+4886,645,2025-03-29,https://www.bestfightodds.com/events/ufc-fight-night-3668,odds,True,True,5
+4669,620,2025-04-05,https://www.bestfightodds.com/events/ufc-3671,"page ok, bout not listed",False,False,0
+4259,546,2025-04-12,https://www.bestfightodds.com/events/ufc-3654,"page ok, bout not listed",False,False,0
+4073,527,2025-04-26,https://www.bestfightodds.com/events/ufc-3656,odds,True,True,5
+4000,520,2025-05-10,https://www.bestfightodds.com/events/ufc-315-3708,"page ok, bout not listed",False,False,0
+3706,486,2025-06-21,https://www.bestfightodds.com/events/ufc-fight-night-3701,odds,True,True,5
+3559,471,2025-07-12,https://www.bestfightodds.com/events/ufc-fight-night-3748,"page ok, bout not listed",False,False,0
+3564,471,2025-07-12,https://www.bestfightodds.com/events/ufc-fight-night-3748,odds,True,True,4
+3463,461,2025-07-19,https://www.bestfightodds.com/events/ufc-3706,"page ok, bout not listed",False,False,0
+3692,485,2025-07-26,https://www.bestfightodds.com/events/ufc-3724,odds,True,True,6
+3357,444,2025-08-02,https://www.bestfightodds.com/events/ufc-fight-night-albazi-vs-taira-odds-3777,odds,True,True,6
+3337,443,2025-08-09,https://www.bestfightodds.com/events/ufc-fight-night-dolidze-vs-hernandez-odds-3789,odds,True,True,6
+3338,443,2025-08-09,https://www.bestfightodds.com/events/ufc-fight-night-dolidze-vs-hernandez-odds-3789,odds,True,True,6
+3345,443,2025-08-09,https://www.bestfightodds.com/events/ufc-fight-night-dolidze-vs-hernandez-odds-3789,odds,True,True,6
+3586,473,2025-09-13,https://www.bestfightodds.com/events/ufc-fight-night-3794,odds,True,True,6
+3591,473,2025-09-13,https://www.bestfightodds.com/events/ufc-fight-night-3794,odds,True,True,6
+3078,413,2025-10-04,https://www.bestfightodds.com/events/ufc-320-3853,"page ok, bout not listed",False,False,0
+2731,382,2025-10-11,https://www.bestfightodds.com/events/ufc-3869,odds,True,True,6
+3060,412,2025-10-18,https://www.bestfightodds.com/events/ufc-fight-night-3822,odds,True,True,6
+2878,394,2025-10-25,https://www.bestfightodds.com/events/ufc-321-odds-3780,odds,True,True,6
+2611,366,2025-11-01,https://www.bestfightodds.com/events/ufc-vegas-110-3913,odds,True,True,6
+2817,388,2025-11-22,https://www.bestfightodds.com/events/ufc-qatar-3941,odds,True,True,6
+2486,352,2025-12-13,,event ambiguous on BFO,False,False,0
+1944,296,2026-01-31,https://www.bestfightodds.com/events/ufc-3971,"page ok, bout not listed",False,False,0
+1910,294,2026-02-07,https://www.bestfightodds.com/events/ufc-fight-night-4026,"page ok, bout not listed",False,False,0
+1825,287,2026-02-21,https://www.bestfightodds.com/events/ufc-3996,odds,True,True,5
+1831,287,2026-02-21,https://www.bestfightodds.com/events/ufc-3996,"page ok, bout not listed",False,False,0
+1922,295,2026-02-28,https://www.bestfightodds.com/events/ufc-mexico-4053,"page ok, bout not listed",False,False,0
+1853,289,2026-03-07,https://www.bestfightodds.com/events/ufc-326-4065,"page ok, bout not listed",False,False,0
+1808,286,2026-03-14,https://www.bestfightodds.com/events/one-fight-night-41-4089,"page ok, bout not listed",False,False,0
+1811,286,2026-03-14,https://www.bestfightodds.com/events/one-fight-night-41-4089,"page ok, bout not listed",False,False,0
+1841,288,2026-03-21,https://www.bestfightodds.com/events/ufc-london-4081,odds,True,True,5
+1535,250,2026-04-04,https://www.bestfightodds.com/events/ufc-vegas-115-4107,odds,True,True,6
+1653,271,2026-04-11,https://www.bestfightodds.com/events/ufc-327-4074,odds,True,True,7
+1366,235,2026-04-18,https://www.bestfightodds.com/events/ufc-winnipeg-4130,"page ok, bout not listed",False,False,0
+1348,231,2026-04-25,https://www.bestfightodds.com/events/ufc-vegas-116-4147,odds,True,True,7
+1207,219,2026-05-02,https://www.bestfightodds.com/events/ufc-perth-4079,odds,True,True,6
+1134,213,2026-05-09,https://www.bestfightodds.com/events/ufc-328-4165,odds,True,True,7
+1264,224,2026-05-16,https://www.bestfightodds.com/events/one-fight-night-43-4182,"page ok, bout not listed",False,False,0
+1408,239,2026-05-30,https://www.bestfightodds.com/events/ufc-macau-4188,odds,True,True,3
+1092,208,2026-06-06,https://www.bestfightodds.com/events/ufc-vegas-118-4200,odds,True,True,7
+715,138,2026-06-20,https://www.bestfightodds.com/events/ufc-vegas-119-4225,odds,True,True,7

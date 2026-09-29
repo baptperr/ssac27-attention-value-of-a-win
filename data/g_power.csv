@@ -1,0 +1,4 @@
+measure,n_bouts,mean,sd
+"log1p mean daily views, winner minus loser (primary)",1048,-0.0463350773673555,0.6829026043239241
+"log1p mean daily views, random corner order",1048,-0.02705313326738259,0.6839388758596963
+"raw mean daily views, winner minus loser",1048,-25.34493721650625,931.8433015600652

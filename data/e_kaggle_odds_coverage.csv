@@ -1,0 +1,315 @@
+bout_id,fight_date,winner,loser,status,kaggle_winner_corner,winner_odds,loser_odds,kaggle_winner_label
+17883,2015-09-05,Ross Pearson,Paul Felder,odds,R,350.0,-440.0,Red
+17866,2015-10-03,Daniel Cormier,Alexander Gustafsson,odds,R,-255.0,215.0,Red
+17777,2015-10-24,Krzysztof Jotko,Scott Askham,odds,B,125.0,-145.0,Blue
+17864,2015-11-07,Jimmie Rivera,Pedro Munhoz,odds,B,150.0,-170.0,Blue
+17827,2015-11-21,Neil Magny,Kelvin Gastelum,odds,R,270.0,-330.0,Red
+17829,2015-11-21,Henry Cejudo,Jussier Formiga,odds,B,-550.0,425.0,Blue
+17816,2015-11-28,Benson Henderson,Jorge Masvidal,odds,R,-230.0,190.0,Red
+17821,2015-11-28,Mike de la Torre,Yui Chul Nam,odds,B,-105.0,-115.0,Blue
+17735,2015-12-10,Zubaira Tukhugov,Phillipe Nover,odds,R,-355.0,295.0,Red
+17806,2015-12-12,Yoel Romero,Ronaldo Souza,no row,,,,
+17814,2015-12-12,Yancy Medeiros,John Makdessi,odds,B,150.0,-170.0,Blue
+17797,2015-12-19,Valentina Shevchenko,Sarah Kaufman,odds,B,-105.0,-115.0,Blue
+17799,2015-12-19,Nik Lentz,Danny Castillo,odds,R,-140.0,120.0,Red
+17737,2016-01-02,Robbie Lawler,Carlos Condit,odds,R,-115.0,-105.0,Red
+17739,2016-01-02,Albert Tumenov,Lorenz Larkin,odds,B,-250.0,210.0,Blue
+17747,2016-01-02,Michinori Tanaka,Joe Soto,odds,B,-140.0,120.0,Blue
+17712,2016-01-17,Dominick Cruz,T.J. Dillashaw,no row,,,,
+17713,2016-01-17,Eddie Alvarez,Anthony Pettis,odds,B,300.0,-360.0,Blue
+17652,2016-02-27,Brad Pickett,Francisco Rivera,odds,B,135.0,-155.0,Blue
+17647,2016-03-19,Ross Pearson,Chad Laprise,odds,R,-105.0,-115.0,Red
+17599,2016-04-10,Lucas Martins,Robert Whiteford,odds,B,-110.0,-110.0,Blue
+17607,2016-04-16,Raquel Pennington,Bethe Correia,odds,B,-220.0,180.0,Blue
+17616,2016-05-14,Mauricio Rua,Corey Anderson,odds,R,140.0,-160.0,Red
+17530,2016-05-29,Lorenz Larkin,Jorge Masvidal,odds,B,-105.0,-115.0,Blue
+17536,2016-05-29,Bryan Caraway,Aljamain Sterling,odds,B,255.0,-310.0,Blue
+17560,2016-06-04,Sean Strickland,Tom Breese,odds,R,-110.0,-110.0,Red
+17543,2016-06-18,Jason Saggo,Leandro Silva,odds,R,-115.0,-105.0,Red
+17515,2016-07-07,Derrick Lewis,Roy Nelson,odds,B,110.0,-130.0,Blue
+17457,2016-07-30,Karolina Kowalkiewicz,Rose Namajunas,odds,B,165.0,-190.0,Blue
+17460,2016-07-30,Ryan Benoit,Fredy Serrano,odds,R,-105.0,-115.0,Red
+17411,2016-08-06,Yair Rodriguez,Alex Caceres,odds,R,-335.0,275.0,Red
+17404,2016-08-27,Jim Miller,Joe Lauzon,odds,B,120.0,-140.0,Blue
+17440,2016-09-10,Bethe Correia,Jessica Eye,odds,B,105.0,-125.0,Blue
+17441,2016-09-10,Brad Tavares,Caio Magalhaes,odds,R,-220.0,180.0,Red
+17392,2016-09-17,Roan Carneiro,Kenny Robertson,odds,R,100.0,-120.0,Red
+17315,2016-10-01,John Lineker,John Dodson,odds,R,105.0,-125.0,Red
+17321,2016-10-01,Shamil Abdurakhimov,Walt Harris,odds,R,-145.0,125.0,Red
+17286,2016-10-08,Leonardo Santos,Adriano Martins,odds,R,175.0,-210.0,Red
+17496,2016-11-05,Erik Perez,Felipe Arantes,odds,R,-240.0,200.0,Red
+17264,2016-11-19,Steven Ray,Ross Pearson,odds,B,-115.0,-105.0,Blue
+17265,2016-11-19,Alexander Volkov,Tim Johnson,odds,B,130.0,-150.0,Blue
+17227,2016-12-03,Joseph Benavidez,Henry Cejudo,odds,R,-200.0,163.0,Red
+17213,2016-12-10,Dustin Ortiz,Zach Makovsky,odds,B,110.0,-130.0,Blue
+17182,2016-12-30,Dong Hyun Kim,Tarec Saffiedine,odds,R,-145.0,125.0,Red
+17168,2017-01-15,Joe Lauzon,Marcin Held,odds,R,-140.0,120.0,Red
+17160,2017-01-28,Raphael Assuncao,Aljamain Sterling,odds,R,-145.0,125.0,Red
+17129,2017-02-19,Randa Markos,Carla Esparza,odds,B,200.0,-260.0,Blue
+17113,2017-03-04,Daniel Kelly,Rashad Evans,odds,B,205.0,-245.0,Blue
+17091,2017-03-18,Arnold Allen,Makwan Amirkhani,odds,R,-115.0,-105.0,Red
+17094,2017-03-18,Tim Johnson,Daniel Omielanczuk,odds,B,-200.0,170.0,Blue
+17097,2017-03-18,Bradley Scott,Scott Askham,odds,R,135.0,-155.0,Red
+17016,2017-04-15,Rashid Magomedov,King Green,no row,,,,
+17050,2017-05-13,Demian Maia,Jorge Masvidal,odds,R,-115.0,-105.0,Red
+17052,2017-05-13,David Branch,Krzysztof Jotko,odds,B,150.0,-170.0,Blue
+16977,2017-05-28,Omari Akhmedov,Abdul Razak Alhassan,odds,B,235.0,-275.0,Blue
+16982,2017-05-28,Joaquim Silva,Reza Madadi,odds,B,-155.0,135.0,Blue
+17003,2017-06-03,Raphael Assuncao,Marlon Moraes,odds,R,220.0,-260.0,Red
+16881,2017-07-22,Darren Elkins,Dennis Bermudez,odds,B,175.0,-210.0,Blue
+16882,2017-07-22,Patrick Cummins,Gian Villante,odds,R,175.0,-210.0,Red
+16858,2017-08-05,Alexa Grasso,Randa Markos,odds,B,-220.0,180.0,Blue
+16861,2017-08-05,Sam Alvey,Rashad Evans,odds,R,-130.0,110.0,Red
+16862,2017-08-05,Alejandro Perez,Andre Soukhamthath,odds,R,-165.0,145.0,Red
+16869,2017-09-09,Amanda Nunes,Valentina Shevchenko,odds,R,125.0,-145.0,Red
+16762,2017-09-16,Olivier Aubin-Mercier,Anthony Rocco Martin,odds,B,-105.0,-115.0,Blue
+16853,2017-09-22,Keita Nakamura,Alex Morono,odds,R,-110.0,-110.0,Red
+16829,2017-10-07,Cody Stamann,Tom Duquesnoy,odds,B,140.0,-160.0,Blue
+16684,2017-11-11,Cezar Ferreira,Nate Marquardt,odds,B,-265.0,225.0,Blue
+16687,2017-11-11,Marlon Moraes,John Dodson,odds,B,105.0,-125.0,Blue
+16813,2017-11-18,Belal Muhammad,Tim Means,odds,B,175.0,-210.0,Blue
+16814,2017-11-18,Jake Matthews,Bojan Velickovic,odds,R,-140.0,120.0,Red
+16820,2017-11-18,Frank Camacho,Damien Brown,odds,B,-125.0,105.0,Blue
+16802,2017-12-01,Lauren Murphy,Barb Honchak,odds,B,200.0,-240.0,Blue
+16784,2017-12-02,Felice Herrig,Cortney Casey,odds,R,-115.0,-105.0,Red
+16700,2017-12-09,Alexis Davis,Liz Carmouche,odds,R,105.0,-125.0,Red
+16665,2018-01-20,Gian Villante,Francimar Barroso,odds,R,-155.0,135.0,Red
+16605,2018-01-27,Andre Fili,Dennis Bermudez,odds,B,130.0,-150.0,Blue
+16612,2018-01-27,Ji Yeon Kim,Justine Kish,odds,B,140.0,-160.0,Blue
+16640,2018-02-03,Lyoto Machida,Eryk Anders,odds,R,205.0,-245.0,Red
+16646,2018-02-03,Sergio Moraes,Tim Means,odds,R,173.0,-205.0,Red
+16633,2018-02-10,Dong Hyun Ma,Damien Brown,odds,B,-135.0,115.0,Blue
+16620,2018-03-03,Ketlen Vieira,Cat Zingano,odds,B,-210.0,175.0,Blue
+16621,2018-03-03,Mackenzie Dern,Ashley Yoder,odds,B,-490.0,390.0,Blue
+16623,2018-03-03,John Dodson,Pedro Munhoz,odds,R,-160.0,140.0,Red
+16626,2018-03-03,Cody Stamann,Bryan Caraway,odds,B,-115.0,-105.0,Blue
+16627,2018-03-03,Jordan Johnson,Adam Milstead,odds,R,-255.0,215.0,Red
+16578,2018-03-17,Kajan Johnson,Steven Ray,odds,B,175.0,-210.0,Blue
+16552,2018-04-07,Karolina Kowalkiewicz,Felice Herrig,odds,R,-190.0,165.0,Red
+16535,2018-04-14,Israel Adesanya,Marvin Vettori,odds,R,-245.0,205.0,Red
+16536,2018-04-14,Michelle Waterson-Gomez,Cortney Casey,odds,R,145.0,-165.0,Red
+16499,2018-05-12,Kelvin Gastelum,Ronaldo Souza,no row,,,,
+16466,2018-05-19,Michel Prazeres,Zak Cummings,odds,B,165.0,-190.0,Blue
+16440,2018-05-27,Makwan Amirkhani,Jason Knight,odds,B,150.0,-170.0,Blue
+16478,2018-06-01,Sam Alvey,Gian Villante,odds,B,-155.0,135.0,Blue
+16485,2018-06-09,Robert Whittaker,Yoel Romero,odds,R,-275.0,235.0,Red
+16491,2018-06-09,Claudia Gadelha,Carla Esparza,odds,R,-270.0,230.0,Red
+16492,2018-06-09,Mirsad Bektic,Ricardo Lamas,odds,B,-245.0,205.0,Blue
+16495,2018-06-09,Sergio Pettis,Joseph Benavidez,odds,B,170.0,-200.0,Blue
+16370,2018-06-23,Matt Schnell,Naoki Inoue,odds,R,165.0,-190.0,Red
+16451,2018-07-06,Alex Caceres,Martin Bravo,odds,R,-130.0,110.0,Red
+16453,2018-07-06,Alessio Di Chirico,Julian Marquez,odds,R,115.0,-135.0,Red
+16524,2018-07-07,Mike Perry,Paul Felder,odds,B,150.0,-170.0,Blue
+16426,2018-07-14,Ricky Glenn,Dennis Bermudez,odds,B,160.0,-185.0,Blue
+16417,2018-07-22,Damir Hadzovic,Nick Hein,odds,B,130.0,-150.0,Blue
+16387,2018-08-04,Henry Cejudo,Demetrious Johnson,odds,B,375.0,-470.0,Blue
+16393,2018-08-04,Ricardo Ramos,Kyung Ho Kang,odds,R,-275.0,235.0,Red
+16374,2018-08-25,Michael Johnson,Andre Fili,odds,R,100.0,-120.0,Red
+16375,2018-08-25,Cortney Casey,Angela Hill,odds,R,115.0,-135.0,Red
+16346,2018-09-08,Irene Aldana,Lucie Pudilova,odds,R,-110.0,-110.0,Red
+16354,2018-09-15,Rustam Khabilov,Kajan Johnson,odds,R,-840.0,570.0,Red
+16300,2018-10-27,Gian Villante,Ed Herman,odds,R,-235.0,195.0,Red
+16213,2018-12-08,Hakeem Dawodu,Kyle Bochniak,odds,R,-200.0,170.0,Red
+16217,2018-12-08,Jessica Eye,Katlyn Cerminara,no row,,,,
+16218,2018-12-08,Elias Theodorou,Eryk Anders,odds,R,-125.0,105.0,Red
+16145,2019-02-02,Thiago Alves,Max Griffin,odds,R,160.0,-185.0,Red
+16089,2019-03-16,Leon Edwards,Gunnar Nelson,odds,R,-140.0,120.0,Red
+16090,2019-03-16,Dominick Reyes,Volkan Oezdemir,odds,B,-260.0,220.0,Blue
+16029,2019-04-20,Roxanne Modafferi,Antonina Shevchenko,odds,R,270.0,-330.0,Red
+16017,2019-04-27,Cory Sandhagen,John Lineker,odds,B,135.0,-155.0,Blue
+16020,2019-04-27,Augusto Sakai,Andrei Arlovski,odds,B,-165.0,145.0,Blue
+16025,2019-04-27,Dhiego Lima,Court McGee,odds,B,130.0,-150.0,Blue
+16003,2019-05-04,Shane Burgos,Cub Swanson,odds,B,-185.0,160.0,Blue
+15916,2019-07-06,Jon Jones,Thiago Santos,odds,R,-670.0,485.0,Red
+15873,2019-07-20,Raquel Pennington,Irene Aldana,odds,R,115.0,-135.0,Red
+15831,2019-08-10,Vicente Luque,Mike Perry,no row,,,,
+15914,2019-08-17,Kyung Ho Kang,Brandon Davis,odds,R,-190.0,165.0,Red
+15892,2019-09-07,Paul Felder,Edson Barboza,odds,B,100.0,-120.0,Blue
+15896,2019-09-07,Joanne Wood,Andrea Lee,no row,,,,
+15808,2019-09-14,Glover Teixeira,Nikita Krylov,odds,R,-115.0,-105.0,Red
+15811,2019-09-14,Uriah Hall,Antonio Carlos Jr.,odds,R,230.0,-270.0,Red
+15682,2019-10-05,Dhiego Lima,Luke Jumeau,odds,B,-140.0,120.0,Blue
+15669,2019-10-12,Matt Frevola,Luis Pena,odds,R,130.0,-150.0,Red
+15670,2019-10-12,Eryk Anders,Gerald Meerschaert,odds,R,-140.0,120.0,Red
+15646,2019-10-26,Randa Markos,Ashley Yoder,odds,R,-150.0,130.0,Red
+15630,2019-11-02,Darren Till,Kelvin Gastelum,odds,B,170.0,-200.0,Blue
+15632,2019-11-02,Derrick Lewis,Blagoy Ivanov,odds,R,-115.0,-105.0,Red
+15640,2019-11-02,Hakeem Dawodu,Julio Arce,odds,B,-110.0,-110.0,Blue
+15617,2019-11-16,Jan Blachowicz,Ronaldo Souza,no row,,,,
+15595,2019-12-14,Marlon Moraes,Jose Aldo,odds,R,-165.0,145.0,Red
+15580,2019-12-21,Volkan Oezdemir,Aleksandar Rakic,odds,R,145.0,-175.0,Red
+15584,2019-12-21,Kyung Ho Kang,Pingyuan Liu,odds,R,-275.0,200.0,Red
+15534,2020-02-08,Dan Ige,Mirsad Bektic,odds,B,105.0,-125.0,Blue
+15536,2020-02-08,Trevin Giles,James Krause,odds,R,-170.0,130.0,Red
+15537,2020-02-08,Lauren Murphy,Andrea Lee,odds,R,260.0,-320.0,Red
+15541,2020-02-08,Andre Ewell,Jonathan Martinez,odds,R,-133.0,113.0,Red
+15494,2020-02-23,Dan Hooker,Paul Felder,odds,B,-150.0,130.0,Blue
+15484,2020-03-07,Weili Zhang,Joanna Jedrzejczyk,odds,R,-185.0,170.0,Red
+15487,2020-03-07,Alex Oliveira,Max Griffin,odds,R,-125.0,115.0,Red
+15466,2020-05-09,Alexey Oleynik,Fabricio Werdum,no row,,,,
+15467,2020-05-09,Carla Esparza,Michelle Waterson-Gomez,odds,R,-155.0,135.0,Red
+15470,2020-05-09,Ryan Spann,Sam Alvey,odds,R,-420.0,335.0,Red
+15385,2020-05-13,Ben Rothwell,Ovince St. Preux,odds,R,112.0,-132.0,Red
+15387,2020-05-13,Ricky Simon,Ray Borg,odds,R,-170.0,150.0,Red
+15439,2020-05-16,Claudia Gadelha,Angela Hill,odds,R,-255.0,215.0,Red
+15440,2020-05-16,Dan Ige,Edson Barboza,odds,R,112.0,-132.0,Red
+15374,2020-05-30,Augusto Sakai,Blagoy Ivanov,odds,B,-115.0,-105.0,Blue
+15408,2020-06-13,Charles Rosa,Kevin Aguilar,odds,R,170.0,-185.0,Red
+15361,2020-07-11,Alexander Volkanovski,Max Holloway,odds,R,-210.0,170.0,Red
+15363,2020-07-11,Rose Namajunas,Jessica Andrade,odds,B,-215.0,175.0,Blue
+15366,2020-07-11,Muslim Salikhov,Elizeu Zaleski dos Santos,odds,B,-134.0,108.0,Blue
+15334,2020-07-25,Mauricio Rua,Antonio Rogerio Nogueira,odds,R,-190.0,150.0,Red
+15336,2020-07-25,Carla Esparza,Marina Rodriguez,odds,R,145.0,-182.0,Red
+15294,2020-08-22,Frankie Edgar,Pedro Munhoz,odds,B,225.0,-278.0,Blue
+15260,2020-09-12,Michelle Waterson-Gomez,Angela Hill,odds,R,105.0,-125.0,Red
+15251,2020-09-19,Kevin Holland,Darren Stewart,odds,R,-265.0,205.0,Red
+15307,2020-09-26,Hakeem Dawodu,Zubaira Tukhugov,odds,R,115.0,-143.0,Red
+15140,2020-11-14,Rafael dos Anjos,Paul Felder,odds,B,-200.0,165.0,Blue
+15125,2020-12-05,Roman Dolidze,John Allan,odds,R,-200.0,160.0,Red
+15106,2021-01-16,Carlos Felipe,Justin Tafa,odds,R,-190.0,155.0,Red
+15107,2021-01-16,Ramazan Emeev,David Zawada,odds,B,-275.0,210.0,Blue
+15021,2021-01-20,Matt Schnell,Tyson Nam,odds,R,105.0,-130.0,Red
+15088,2021-01-23,Movsar Evloev,Nik Lentz,odds,B,-560.0,390.0,Blue
+15071,2021-02-06,Beneil Dariush,Diego Ferreira,odds,B,105.0,-125.0,Blue
+15048,2021-03-06,Dominick Cruz,Casey Kenney,odds,R,120.0,-140.0,Red
+14998,2021-03-13,Matheus Nicolau,Manel Kape,odds,B,110.0,-130.0,Blue
+14978,2021-03-27,Michal Oleksiejczuk,Modestas Bukauskas,odds,B,-177.0,157.0,Blue
+14990,2021-04-10,Jack Shore,Hunter Azure,odds,B,-185.0,160.0,Blue
+14964,2021-04-17,Tracy Cortez,Justine Kish,odds,R,-325.0,265.0,Red
+14943,2021-05-01,T.J. Brown,Kai Kamaka III,no row,,,,
+14922,2021-05-15,Lando Vannata,Mike Grundy,odds,R,105.0,-125.0,Red
+14907,2021-05-22,Norma Dumont,Felicia Spencer,odds,B,157.0,-178.0,Blue
+14871,2021-06-05,Ilir Latifi,Tanner Boser,odds,B,160.0,-200.0,Blue
+14876,2021-06-05,Sean Woodson,Youssef Zalal,odds,R,-200.0,160.0,Red
+14897,2021-06-12,Lauren Murphy,Joanne Wood,no row,,,,
+14903,2021-06-12,Carlos Felipe,Jake Collier,odds,R,-165.0,130.0,Red
+14884,2021-06-19,Nicolae Negumereanu,Aleksa Camur,odds,B,200.0,-265.0,Blue
+14863,2021-06-26,Charles Rosa,Justin Jaynes,odds,R,-177.0,140.0,Red
+14850,2021-07-10,Brad Tavares,Omari Akhmedov,odds,B,-162.0,130.0,Blue
+14819,2021-07-24,T.J. Dillashaw,Cory Sandhagen,no row,,,,
+14822,2021-07-24,Maycee Barber,Miranda Maverick,odds,B,135.0,-155.0,Blue
+14810,2021-08-07,Yadong Song,Casey Kenney,odds,R,105.0,-125.0,Red
+14748,2021-08-21,Mark O. Madsen,Clay Guida,odds,B,-170.0,150.0,Blue
+14778,2021-08-28,Wellington Turman,Sam Alvey,odds,B,-115.0,-105.0,Blue
+14762,2021-10-02,Krzysztof Jotko,Misha Cirkunov,odds,B,-130.0,110.0,Blue
+14764,2021-10-02,Jared Gordon,Joe Solecki,odds,B,115.0,-135.0,Blue
+14719,2021-10-09,Chris Gutierrez,Felipe Colares,odds,R,-270.0,220.0,Red
+14697,2021-10-16,Danny Roberts,Ramazan Emeev,odds,R,250.0,-320.0,Red
+14681,2021-10-23,Francisco Trinaldo,Dwight Grant,odds,R,-125.0,105.0,Red
+14664,2021-11-06,Rose Namajunas,Weili Zhang,odds,R,100.0,-120.0,Red
+14645,2021-11-20,Adrian Yanez,Davey Grant,odds,B,-280.0,225.0,Blue
+14629,2021-12-11,Geoff Neal,Santiago Ponzinibbio,odds,R,110.0,-130.0,Red
+14616,2021-12-18,Amanda Lemos,Angela Hill,odds,R,-290.0,230.0,Red
+14567,2022-02-05,Sean Strickland,Jack Hermansson,odds,B,-250.0,200.0,Blue
+14572,2022-02-05,Julian Erosa,Steven Peterson,odds,R,-310.0,245.0,Red
+14558,2022-02-12,Andrei Arlovski,Jared Vanderaa,odds,R,-145.0,-160.0,Red
+14559,2022-02-12,Casey O'Neill,Roxanne Modafferi,odds,B,-350.0,270.0,Blue
+14545,2022-02-19,Joaquin Buckley,Abdul Razak Alhassan,odds,R,-155.0,135.0,Red
+14485,2022-03-05,Marina Rodriguez,Xiaonan Yan,odds,R,-305.0,240.0,Red
+14486,2022-03-05,Nicolae Negumereanu,Kennedy Nzechukwu,odds,R,115.0,-135.0,Red
+14490,2022-03-05,Ludovit Klein,Devonte Smith,odds,B,125.0,-145.0,Blue
+14508,2022-03-26,Bryan Barberena,Matt Brown,odds,B,-115.0,-105.0,Blue
+14510,2022-03-26,Neil Magny,Max Griffin,odds,R,-280.0,225.0,Red
+14454,2022-04-09,Aljamain Sterling,Petr Yan,odds,R,310.0,-410.0,Red
+14456,2022-04-09,Mackenzie Dern,Tecia Pennington,no row,,,,
+14407,2022-04-30,Andrei Arlovski,Jake Collier,odds,R,-110.0,-110.0,Red
+14466,2022-05-07,Carla Esparza,Rose Namajunas,odds,B,190.0,-235.0,Blue
+14468,2022-05-07,Ovince St. Preux,Mauricio Rua,odds,B,-260.0,210.0,Blue
+14469,2022-05-07,Randy Brown,Kalinn Williams,no row,,,,
+14471,2022-05-07,Macy Chiasson,Norma Dumont,odds,R,180.0,-220.0,Red
+14431,2022-05-14,Katlyn Cerminara,Amanda Ribas,no row,,,,
+14383,2022-05-21,Ketlen Vieira,Holly Holm,odds,B,180.0,-220.0,Blue
+14384,2022-05-21,Michel Pereira,Santiago Ponzinibbio,odds,B,-145.0,125.0,Blue
+14387,2022-05-21,Jun Yong Park,Eryk Anders,odds,B,-205.0,160.0,Blue
+14356,2022-06-04,Jeff Molina,Zhalgas Zhumagulov,odds,R,-180.0,155.0,Red
+14335,2022-06-12,Valentina Shevchenko,Taila Santos,odds,R,-630.0,450.0,Red
+14339,2022-06-12,Joshua Culibao,Seung Woo Choi,no row,,,,
+14284,2022-06-18,Josh Emmett,Calvin Kattar,odds,B,235.0,-280.0,Blue
+14308,2022-06-25,Vanessa Demopoulos,Jinh Yu Frey,odds,R,200.0,-240.0,Red
+14278,2022-07-09,Jamie Mullarkey,Michael Johnson,odds,B,-230.0,195.0,Blue
+14280,2022-07-09,Antonina Shevchenko,Cortney Casey,odds,R,-180.0,155.0,Red
+14319,2022-07-30,Joselyne Edwards,Ji Yeon Kim,odds,R,-120.0,100.0,Red
+14202,2022-08-13,Nina Nunes,Cynthia Calvillo,odds,B,160.0,-190.0,Blue
+14147,2022-09-17,Andre Fili,Bill Algeo,odds,R,-135.0,115.0,Red
+14149,2022-09-17,Rodrigo Nascimento,Tanner Boser,odds,B,155.0,-180.0,Blue
+14324,2022-10-22,Sean O'Malley,Petr Yan,odds,B,240.0,-285.0,Blue
+14087,2022-10-29,Max Griffin,Tim Means,odds,B,-190.0,160.0,Blue
+14090,2022-10-29,Khalil Rountree,Dustin Jacoby,odds,B,150.0,-175.0,Blue
+14069,2022-12-03,Clay Guida,Scott Holtzman,odds,R,195.0,-230.0,Red
+14048,2022-12-17,Jared Cannonier,Sean Strickland,odds,R,-115.0,-105.0,Red
+14004,2023-01-14,Raquel Pennington,Ketlen Vieira,odds,B,130.0,-150.0,Blue
+14033,2023-01-21,Nicolas Dalby,Warlley Alves,odds,B,110.0,-130.0,Blue
+13966,2023-03-04,Mateusz Gamrot,Jalin Turner,"row, no odds",R,,,Red
+13938,2023-03-11,Victor Henry,Tony Gravely,odds,R,-142.0,120.0,Red
+13916,2023-03-18,Joanne Wood,Luana Carolina,odds,R,-245.0,186.0,Red
+13919,2023-03-25,Cory Sandhagen,Marlon Vera,odds,B,-136.0,116.0,Blue
+13922,2023-03-25,Maycee Barber,Andrea Lee,odds,B,-270.0,220.0,Blue
+13898,2023-04-08,Luana Pinheiro,Michelle Waterson-Gomez,odds,B,-156.0,132.0,Blue
+13900,2023-04-08,Lupita Godinez,Cynthia Calvillo,no row,,,,
+13891,2023-04-15,Joselyne Edwards,Lucie Pudilova,odds,R,114.0,-134.0,Red
+13871,2023-04-22,Jeremiah Wells,Matthew Semelsberger,odds,R,-102.0,-116.0,Red
+13844,2023-05-06,Aljamain Sterling,Henry Cejudo,odds,R,-120.0,100.0,Red
+13829,2023-05-20,Rodrigo Nascimento,Ilir Latifi,odds,B,-198.0,166.0,Blue
+13795,2023-06-03,Amir Albazi,Kai Kara-France,odds,B,-116.0,-102.0,Blue
+13800,2023-06-03,Elizeu Zaleski dos Santos,Abubakar Nurmagomedov,odds,B,102.0,-120.0,Blue
+13751,2023-06-24,Neil Magny,Philip Rowe,odds,R,-172.0,144.0,Red
+13702,2023-07-01,Ariane Lipski da Silva,Melissa Gatto,"row, no odds",R,,-230.0,Red
+13707,2023-07-01,Karol Rosa,Yana Santos,"row, no odds",B,,,Blue
+13809,2023-07-08,Alexandre Pantoja,Brandon Moreno,"row, no odds",B,,,Blue
+13811,2023-07-08,Dan Hooker,Jalin Turner,"row, no odds",B,,,Blue
+13689,2023-07-29,Alex Pereira,Jan Blachowicz,odds,B,-120.0,100.0,Blue
+13672,2023-08-19,Andre Petroski,Gerald Meerschaert,"row, no odds",R,,,Red
+13535,2023-08-26,Anthony Smith,Ryan Spann,odds,R,110.0,-130.0,Red
+13604,2023-09-16,Jack Della Maddalena,Kevin Holland,odds,B,-105.0,-115.0,Blue
+13518,2023-11-11,Lupita Godinez,Tabatha Ricci,no row,,,,
+13482,2023-12-09,Andre Muniz,Jun Yong Park,odds,B,164.0,-198.0,Blue
+13488,2023-12-09,Talita Alencar,Rayanne dos Santos,odds,B,136.0,-162.0,Blue
+13455,2024-01-20,Dricus Du Plessis,Sean Strickland,odds,B,-112.0,-108.0,Blue
+13458,2024-01-20,Chris Curtis,Marc-Andre Barriault,odds,R,-175.0,145.0,Red
+13461,2024-01-20,Sean Woodson,Charles Jourdain,odds,B,180.0,-218.0,Blue
+13401,2024-02-10,Max Griffin,Jeremiah Wells,"row, no odds",R,,,Red
+13421,2024-02-17,Ian Garry,Geoff Neal,odds,B,-258.0,210.0,Blue
+13379,2024-02-24,Brandon Royval,Brandon Moreno,odds,B,245.0,-305.0,Blue
+13387,2024-02-24,Fares Ziam,Claudio Puelles,odds,B,-218.0,180.0,Blue
+13418,2024-03-09,Joanne Wood,Maryna Moroz,"row, no odds",R,,,Red
+13355,2024-03-16,Ovince St. Preux,Kennedy Nzechukwu,odds,R,455.0,-625.0,Red
+13312,2024-04-06,Brendan Allen,Chris Curtis,odds,R,-225.0,185.0,Red
+13313,2024-04-06,Damon Jackson,Alexander Hernandez,odds,B,154.0,-185.0,Blue
+13327,2024-04-13,Arman Tsarukyan,Charles Oliveira,odds,B,-218.0,190.0,Blue
+13334,2024-04-13,Jessica Andrade,Marina Rodriguez,"row, no odds",R,,,Red
+13246,2024-05-11,Tabatha Ricci,Tecia Pennington,odds,R,-152.0,128.0,Red
+13261,2024-05-18,Vanessa Demopoulos,Emily Ducote,"row, no odds",R,,,Red
+13227,2024-06-01,Sean Strickland,Paulo Costa,"row, no odds",R,,,Red
+13231,2024-06-01,Roman Kopylov,Cesar Almeida,"row, no odds",B,,,Blue
+13197,2024-06-08,Montana De La Rosa,Andrea Lee,"row, no odds",B,,,Blue
+13280,2024-06-22,Nasrat Haqparast,Jared Gordon,odds,R,-250.0,205.0,Red
+13282,2024-06-22,Rinat Fakhretdinov,Nicolas Dalby,odds,R,-395.0,310.0,Red
+13268,2024-06-29,Andre Fili,Cub Swanson,odds,B,-238.0,180.0,Blue
+13165,2024-07-13,Muslim Salikhov,Santiago Ponzinibbio,odds,B,145.0,-188.0,Blue
+13178,2024-08-17,Dan Hooker,Mateusz Gamrot,odds,B,310.0,-445.0,Blue
+13179,2024-08-17,Jairzinho Rozenstruik,Tai Tuivasa,odds,B,-260.0,195.0,Blue
+13182,2024-08-17,Ricardo Ramos,Joshua Culibao,odds,B,105.0,-135.0,Blue
+5767,2024-10-05,Julianna Pena,Raquel Pennington,odds,B,130.0,-155.0,Blue
+5768,2024-10-05,Mario Bautista,Jose Aldo,odds,B,-122.0,102.0,Blue
+5773,2024-10-05,Alexander Hernandez,Austin Hubbard,odds,B,-108.0,-112.0,Blue
+5645,2024-10-12,Brandon Royval,Tatsuro Taira,"row, no odds",R,,,Red
+5646,2024-10-12,Jun Yong Park,Brad Tavares,"row, no odds",B,,,Blue
+5649,2024-10-12,Daniel Rodriguez,Alex Morono,odds,R,-245.0,200.0,Red
+5659,2024-12-07,Ciryl Gane,Alexander Volkov,odds,R,-380.0,300.0,Red
+5430,2024-12-14,Daniel Marcos,Adrian Yanez,odds,B,-225.0,185.0,Blue
+4931,2025-02-15,Angela Hill,Ketlen Souza,odds,R,-112.0,-104.0,Red
+4073,2025-04-26,Chris Gutierrez,John Castaneda,odds,R,-148.0,126.0,Red
+4000,2025-05-10,Modestas Bukauskas,Ion Cutelaba,odds,R,-106.0,-110.0,Red
+3564,2025-07-12,Chris Curtis,Max Griffin,odds,B,-310.0,230.0,Blue
+3692,2025-07-26,Reinier de Ridder,Robert Whittaker,odds,B,128.0,-152.0,Blue
+3586,2025-09-13,Joaquim Silva,Claudio Puelles,odds,B,-210.0,-134.0,Blue
+2731,2025-10-11,Deiveson Figueiredo,Montel Jackson,odds,R,265.0,-330.0,Red
+3060,2025-10-18,Aiemann Zahabi,Marlon Vera,odds,B,-132.0,112.0,Blue
+2878,2025-10-25,Alexander Volkov,Jailton Almeida,odds,R,166.0,-198.0,Red
+2611,2025-11-01,Norma Dumont,Ketlen Vieira,odds,B,-174.0,146.0,Blue
+1825,2026-02-21,Michel Pereira,Zachary Reese,odds,B,-168.0,142.0,Blue
+1811,2026-03-14,Charles Johnson,Bruno Silva,odds,R,-178.0,150.0,Red
+1841,2026-03-21,Nathaniel Wood,Losene Keita,odds,R,194.0,-245.0,Red
+1653,2026-04-11,Dominick Reyes,Johnny Walker,no row,,,,
+1348,2026-04-25,Raoni Barcelos,Montel Jackson,no row,,,,
+1134,2026-05-09,Sean Strickland,Khamzat Chimaev,no row,,,,

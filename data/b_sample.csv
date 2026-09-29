@@ -1,0 +1,315 @@
+bout_id,fight_date,event_id,event_name,winner_id,winner,winner_title,winner_created,winner_verification,loser_id,loser,loser_title,loser_created,loser_verification,any_manual
+17883,2015-09-05,3795,UFC 191 - Johnson vs. Dodson 2,8456,Ross Pearson,Ross Pearson,2009-04-09,p2818,8319,Paul Felder,Paul Felder,2015-01-07,p2818,False
+17866,2015-10-03,3794,UFC 192 - Cormier vs. Gustafsson,8367,Daniel Cormier,Daniel Cormier,2008-04-06,p2818,8163,Alexander Gustafsson,Alexander Gustafsson,2009-04-22,p2818,False
+17777,2015-10-24,3695,UFC Fight Night 76 - Holohan vs. Smolka,525,Krzysztof Jotko,Krzysztof Jotko,2014-06-13,p2818,6619,Scott Askham,Scott Askham,2015-07-03,p2818,False
+17864,2015-11-07,3793,UFC Fight Night 77 - Belfort vs. Henderson 3,8306,Jimmie Rivera,Jimmie Rivera,2013-06-30,p2818,6501,Pedro Munhoz,Pedro Munhoz,2014-06-02,p2818,False
+17827,2015-11-21,3791,UFC Fight Night 78 - Magny vs. Gastelum,774,Neil Magny,Neil Magny,2012-09-27,p2818,527,Kelvin Gastelum,Kelvin Gastelum,2013-04-10,p2818,False
+17829,2015-11-21,3791,UFC Fight Night 78 - Magny vs. Gastelum,4925,Henry Cejudo,Henry Cejudo,2005-12-19,p2818,8365,Jussier Formiga,Jussier Formiga,2009-11-28,p2818,False
+17816,2015-11-28,3790,UFC Fight Night 79 - Henderson vs. Masvidal,3783,Benson Henderson,Benson Henderson,2009-02-26,p2818,8077,Jorge Masvidal,Jorge Masvidal,2007-06-21,p2818,False
+17821,2015-11-28,3790,UFC Fight Night 79 - Henderson vs. Masvidal,8681,Mike de la Torre,Mike De La Torre,2015-02-16,p2818,8879,Yui Chul Nam,Yui Chul Nam,2014-10-30,p2818,False
+17735,2015-12-10,3687,UFC Fight Night 80 - Namajunas vs. VanZant,8094,Zubaira Tukhugov,Zubaira Tukhugov,2014-11-15,p2818,8695,Phillipe Nover,Phillipe Nover,2008-10-31,p2818,False
+17806,2015-12-12,3789,UFC 194 - Aldo vs. McGregor,8369,Yoel Romero,Yoel Romero,2009-09-28,p2818,8282,Ronaldo Souza,Ronaldo Souza,2007-02-13,p2818,False
+17814,2015-12-12,3789,UFC 194 - Aldo vs. McGregor,8275,Yancy Medeiros,Yancy Medeiros,2010-11-01,p2818,8026,John Makdessi,John Makdessi,2010-12-16,p2818,False
+17797,2015-12-19,3788,UFC on Fox 17 - Dos Anjos vs. Cerrone 2,4922,Valentina Shevchenko,Valentina Shevchenko,2014-10-20,p2818,8874,Sarah Kaufman,Sarah Kaufman,2009-05-07,p2818,False
+17799,2015-12-19,3788,UFC on Fox 17 - Dos Anjos vs. Cerrone 2,8310,Nik Lentz,Nik Lentz,2009-09-09,p2818,8875,Danny Castillo,Danny Castillo,2008-06-28,p2818,False
+17737,2016-01-02,3691,UFC 195 - Lawler vs. Condit,8061,Robbie Lawler,Robbie Lawler,2005-12-02,p2818,8271,Carlos Condit,Carlos Condit,2007-09-17,p2818,False
+17739,2016-01-02,3691,UFC 195 - Lawler vs. Condit,561,Albert Tumenov,Albert Tumenov,2014-05-16,p2818,8800,Lorenz Larkin,Lorenz Larkin,2011-04-04,p2818,False
+17747,2016-01-02,3691,UFC 195 - Lawler vs. Condit,8697,Michinori Tanaka,Michinori Tanaka,2013-12-20,p2818,8573,Joe Soto,Joe Soto,2009-05-08,p2818,False
+17712,2016-01-17,3686,UFC Fight Night 81 - Dillashaw vs. Cruz,8145,Dominick Cruz,Dominick Cruz,2009-02-26,p2818,8178,T.J. Dillashaw,T.J. Dillashaw,2011-11-03,p2818,False
+17713,2016-01-17,3686,UFC Fight Night 81 - Dillashaw vs. Cruz,8530,Eddie Alvarez,Eddie Alvarez,2008-03-06,p2818,8314,Anthony Pettis,Anthony Pettis,2009-08-25,p2818,False
+17652,2016-02-27,3680,UFC Fight Night 84 - Silva vs. Bisping,8689,Brad Pickett,Brad Pickett,2006-07-27,p2818,8805,Francisco Rivera,Francisco Rivera (fighter),2012-05-20,p2818,False
+17647,2016-03-19,3679,UFC Fight Night 85 - Hunt vs. Mir,8456,Ross Pearson,Ross Pearson,2009-04-09,p2818,8482,Chad Laprise,Chad Laprise,2014-04-17,p2818,False
+17599,2016-04-10,3640,UFC Fight Night 86 - Rothwell vs. Dos Santos,8829,Lucas Martins,Lucas Martins,2013-09-03,p2818,6640,Robert Whiteford,Rob Whiteford,2014-10-30,p2818,False
+17607,2016-04-16,3641,UFC on Fox 19 - Teixeira vs. Evans,6623,Raquel Pennington,Raquel Pennington,2013-12-05,p2818,8259,Bethe Correia,Bethe Correia,2014-06-12,p2818,False
+17616,2016-05-14,3642,UFC 198 - Werdum vs. Miocic,8098,Mauricio Rua,Maurício Rua,2005-10-29,p2818,254,Corey Anderson,Corey Anderson (fighter),2014-07-15,p2818,False
+17530,2016-05-29,3633,UFC Fight Night 88 - Almeida vs. Garbrandt,8800,Lorenz Larkin,Lorenz Larkin,2011-04-04,p2818,8077,Jorge Masvidal,Jorge Masvidal,2007-06-21,p2818,False
+17536,2016-05-29,3633,UFC Fight Night 88 - Almeida vs. Garbrandt,8489,Bryan Caraway,Bryan Caraway,2009-12-31,p2818,1249,Aljamain Sterling,Aljamain Sterling,2014-07-17,p2818,False
+17560,2016-06-04,3635,UFC 199 - Rockhold vs. Bisping 2,500,Sean Strickland,Sean Strickland,2014-06-02,p2818,310,Tom Breese,Tom Breese,2015-10-30,p2818,False
+17543,2016-06-18,3634,UFC Fight Night 89 - MacDonald vs. Thompson,8618,Jason Saggo,Jason Saggo,2016-03-28,p2818,6535,Leandro Silva,Leandro Silva (fighter),2015-05-26,p2818,False
+17515,2016-07-07,3632,UFC Fight Night 90 - Dos Anjos vs. Alvarez,21,Derrick Lewis,Derrick Lewis,2014-06-12,p2818,8671,Roy Nelson,Roy Nelson,2008-06-30,p2818,False
+17457,2016-07-30,3617,UFC 201 - Lawler vs. Woodley,2316,Karolina Kowalkiewicz,Karolina Kowalkiewicz,2015-12-20,p2818,4455,Rose Namajunas,Rose Namajunas,2013-07-14,p2818,False
+17460,2016-07-30,3617,UFC 201 - Lawler vs. Woodley,8262,Ryan Benoit,Ryan Benoit,2015-03-08,p2818,8706,Fredy Serrano,Fredy Serrano,2008-09-17,p2818,False
+17411,2016-08-06,3604,UFC Fight Night 92 - Rodriguez vs. Caceres,2451,Yair Rodriguez,Yair Rodríguez,2015-02-26,p2818,7977,Alex Caceres,Alex Caceres,2010-06-16,p2818,False
+17404,2016-08-27,3602,UFC on Fox 21 - Maia vs. Condit,1051,Jim Miller,Jim Miller (fighter),2007-04-11,p2818,8393,Joe Lauzon,Joe Lauzon,2006-09-12,p2818,False
+17440,2016-09-10,3606,UFC 203 - Miocic vs. Overeem,8259,Bethe Correia,Bethe Correia,2014-06-12,p2818,8204,Jessica Eye,Jessica Eye,2012-12-08,p2818,False
+17441,2016-09-10,3606,UFC 203 - Miocic vs. Overeem,564,Brad Tavares,Brad Tavares,2010-03-25,p2818,8802,Caio Magalhaes,Caio Magalhães,2012-01-20,p2818,False
+17392,2016-09-17,3600,UFC Fight Night 94 - Poirier vs. Johnson,8696,Roan Carneiro,Roan Carneiro,2008-04-13,p2818,8790,Kenny Robertson,Kenny Robertson,2012-07-13,p2818,False
+17315,2016-10-01,3523,UFC Fight Night 96 - Lineker vs. Dodson,8448,John Lineker,John Lineker,2012-03-02,p2818,6026,John Dodson,John Dodson (fighter),2011-07-06,p2818,False
+17321,2016-10-01,3523,UFC Fight Night 96 - Lineker vs. Dodson,8100,Shamil Abdurakhimov,Shamil Abdurakhimov,2015-04-02,p2818,8276,Walt Harris,Walt Harris (fighter),2014-11-20,p2818,False
+17286,2016-10-08,3420,UFC 204 - Bisping vs. Henderson 2,8142,Leonardo Santos,Leonardo Santos (fighter),2011-11-14,p2818,8642,Adriano Martins,Adriano Martins,2013-04-04,p2818,False
+17496,2016-11-05,3628,UFC Fight Night 98 - Dos Anjos vs. Ferguson,8804,Erik Perez,Erik Pérez,2012-06-04,p2818,8516,Felipe Arantes,Felipe Arantes,2012-01-15,p2818,False
+17264,2016-11-19,3385,UFC Fight Night 99 - Mousasi vs. Hall 2,6638,Steven Ray,Stevie Ray (fighter),2015-07-17,p2818,8456,Ross Pearson,Ross Pearson,2009-04-09,p2818,False
+17265,2016-11-19,3385,UFC Fight Night 99 - Mousasi vs. Hall 2,2,Alexander Volkov,Alexander Volkov (fighter),2010-09-08,p2818,46,Tim Johnson,Timothy Johnson (fighter),2016-04-29,p2818,False
+17227,2016-12-03,3382,UFC - The Ultimate Fighter 24 Finale,8303,Joseph Benavidez,Joseph Benavidez,2008-12-04,p2818,4925,Henry Cejudo,Henry Cejudo,2005-12-19,p2818,False
+17213,2016-12-10,3314,UFC 206 - Holloway vs. Pettis,8464,Dustin Ortiz,Dustin Ortiz,2013-09-23,p2818,8709,Zach Makovsky,Zach Makovsky,2010-06-17,p2818,False
+17182,2016-12-30,3312,UFC 207 - Nunes vs. Rousey,8667,Dong Hyun Kim,Dong Hyun Kim,2008-03-19,p2818,8668,Tarec Saffiedine,Tarec Saffiedine,2010-04-24,p2818,False
+17168,2017-01-15,3297,UFC Fight Night 103 - Rodriguez vs. Penn,8393,Joe Lauzon,Joe Lauzon,2006-09-12,p2818,1124,Marcin Held,Marcin Held,2010-08-12,p2818,False
+17160,2017-01-28,3296,UFC on Fox 23 - Shevchenko vs. Pena,8082,Raphael Assuncao,Raphael Assunção,2009-02-28,p2818,1249,Aljamain Sterling,Aljamain Sterling,2014-07-17,p2818,False
+17129,2017-02-19,3293,UFC Fight Night 105 - Lewis vs. Browne,8247,Randa Markos,Randa Markos,2014-12-11,p2818,6625,Carla Esparza,Carla Esparza,2012-10-12,p2818,False
+17113,2017-03-04,3292,UFC 209 - Woodley vs. Thompson 2,8537,Daniel Kelly,Dan Kelly (fighter),2012-08-05,p2818,8545,Rashad Evans,Rashad Evans,2005-10-14,p2818,False
+17091,2017-03-18,3290,UFC Fight Night 107 - Manuwa vs. Anderson,1255,Arnold Allen,Arnold Allen,2016-02-29,p2818,1241,Makwan Amirkhani,Makwan Amirkhani,2015-01-26,p2818,False
+17094,2017-03-18,3290,UFC Fight Night 107 - Manuwa vs. Anderson,46,Tim Johnson,Timothy Johnson (fighter),2016-04-29,p2818,8647,Daniel Omielanczuk,Daniel Omielańczuk,2015-02-26,p2818,False
+17097,2017-03-18,3290,UFC Fight Night 107 - Manuwa vs. Anderson,8538,Bradley Scott,Brad Scott (fighter),2012-11-26,p2818,6619,Scott Askham,Scott Askham,2015-07-03,p2818,False
+17016,2017-04-15,3248,UFC on Fox 24 - Johnson vs. Reis,8672,Rashid Magomedov,Rashid Magomedov,2011-04-04,p2818,3781,King Green,King Green,2010-01-14,p2818,False
+17050,2017-05-13,3251,UFC 211 - Miocic vs. Dos Santos 2,8280,Demian Maia,Demian Maia,2008-02-27,p2818,8077,Jorge Masvidal,Jorge Masvidal,2007-06-21,p2818,False
+17052,2017-05-13,3251,UFC 211 - Miocic vs. Dos Santos 2,8454,David Branch,David Branch (fighter),2010-05-22,p2818,525,Krzysztof Jotko,Krzysztof Jotko,2014-06-13,p2818,False
+16977,2017-05-28,3236,UFC Fight Night 109 - Gustafsson vs. Teixeira,8272,Omari Akhmedov,Omari Akhmedov,2013-11-10,p2818,6320,Abdul Razak Alhassan,Abdul Razak Alhassan,2017-02-07,p2818,False
+16982,2017-05-28,3236,UFC Fight Night 109 - Gustafsson vs. Teixeira,1078,Joaquim Silva,Joaquim Silva (fighter),2016-08-05,p2818,8665,Reza Madadi,Reza Madadi,2010-01-31,p2818,False
+17003,2017-06-03,3247,UFC 212 - Aldo vs. Holloway,8082,Raphael Assuncao,Raphael Assunção,2009-02-28,p2818,8218,Marlon Moraes,Marlon Moraes,2013-06-09,p2818,False
+16881,2017-07-22,3212,UFC on Fox 25 - Weidman vs. Gastelum,1436,Darren Elkins,Darren Elkins,2010-03-01,p2818,8465,Dennis Bermudez,Dennis Bermudez,2011-06-15,p2818,False
+16882,2017-07-22,3212,UFC on Fox 25 - Weidman vs. Gastelum,8441,Patrick Cummins,Patrick Cummins (fighter),2014-03-22,p2818,8245,Gian Villante,Gian Villante,2010-03-16,p2818,False
+16858,2017-08-05,3206,UFC Fight Night 114 - Pettis vs. Moreno,3650,Alexa Grasso,Alexa Grasso,2015-02-19,p2818,8247,Randa Markos,Randa Markos,2014-12-11,p2818,False
+16861,2017-08-05,3206,UFC Fight Night 114 - Pettis vs. Moreno,8149,Sam Alvey,Sam Alvey,2014-11-09,p2818,8545,Rashad Evans,Rashad Evans,2005-10-14,p2818,False
+16862,2017-08-05,3206,UFC Fight Night 114 - Pettis vs. Moreno,8224,Alejandro Perez,Alejandro Pérez (fighter),2016-03-04,p2818,8413,Andre Soukhamthath,Andre Soukhamthath,2017-05-31,p2818,False
+16869,2017-09-09,3208,UFC 215 - Nunes vs. Shevchenko 2,8057,Amanda Nunes,Amanda Nunes,2011-01-09,p2818,4922,Valentina Shevchenko,Valentina Shevchenko,2014-10-20,p2818,False
+16762,2017-09-16,3109,UFC Fight Night 116 - Rockhold vs. Branch,8416,Olivier Aubin-Mercier,Olivier Aubin-Mercier,2015-03-02,p2818,8363,Anthony Rocco Martin,Anthony Rocco Martin,2014-10-24,p2818,False
+16853,2017-09-22,3205,UFC Fight Night 117 - St. Preux vs. Okami,8452,Keita Nakamura,Keita Nakamura,2007-04-20,p2818,822,Alex Morono,Alex Morono,2015-12-31,p2818,False
+16829,2017-10-07,3115,UFC 216 - Ferguson vs. Lee,6485,Cody Stamann,Cody Stamann,2017-07-04,p2818,8561,Tom Duquesnoy,Tom Duquesnoy,2017-04-16,p2818,False
+16684,2017-11-11,3086,UFC Fight Night 120 - Poirier vs. Pettis,8421,Cezar Ferreira,Cezar Ferreira,2012-04-24,p2818,8590,Nate Marquardt,Nate Marquardt,2006-05-08,p2818,False
+16687,2017-11-11,3086,UFC Fight Night 120 - Poirier vs. Pettis,8218,Marlon Moraes,Marlon Moraes,2013-06-09,p2818,6026,John Dodson,John Dodson (fighter),2011-07-06,p2818,False
+16813,2017-11-18,3114,UFC Fight Night 121 - Werdum vs. Tybura,759,Belal Muhammad,Belal Muhammad,2016-09-28,p2818,6626,Tim Means,Tim Means,2012-02-14,p2818,False
+16814,2017-11-18,3114,UFC Fight Night 121 - Werdum vs. Tybura,787,Jake Matthews,Jake Matthews (fighter),2015-02-18,p2818,873,Bojan Velickovic,Bojan Veličković,2016-12-18,p2818,False
+16820,2017-11-18,3114,UFC Fight Night 121 - Werdum vs. Tybura,8211,Frank Camacho,Frank Camacho,2014-01-10,p2818,8572,Damien Brown,Damien Brown (fighter),2017-05-06,p2818,False
+16802,2017-12-01,3113,UFC - The Ultimate Fighter 26 Finale,5578,Lauren Murphy,Lauren Murphy,2013-06-20,p2818,8539,Barb Honchak,Barb Honchak,2013-04-17,p2818,False
+16784,2017-12-02,3111,UFC 218 - Holloway vs. Aldo 2,8182,Felice Herrig,Felice Herrig,2008-03-08,p2818,8169,Cortney Casey,Cortney Casey,2017-03-28,p2818,False
+16700,2017-12-09,3089,UFC Fight Night 123 - Swanson vs. Ortega,8230,Alexis Davis,Alexis Davis (fighter),2009-04-10,p2818,3052,Liz Carmouche,Liz Carmouche,2011-02-24,p2818,False
+16665,2018-01-20,3063,UFC 220 - Miocic vs. Ngannou,8245,Gian Villante,Gian Villante,2010-03-16,p2818,90,Francimar Barroso,Francimar Barroso,2014-02-12,p2818,False
+16605,2018-01-27,3058,UFC on Fox 27 - Jacare vs. Brunson 2,1319,Andre Fili,Andre Fili,2013-10-16,p2818,8465,Dennis Bermudez,Dennis Bermudez,2011-06-15,p2818,False
+16612,2018-01-27,3058,UFC on Fox 27 - Jacare vs. Brunson 2,8068,Ji Yeon Kim,Ji Yeon Kim (fighter),2017-10-19,p2818,8289,Justine Kish,Justine Kish,2014-09-16,p2818,False
+16640,2018-02-03,3061,UFC Fight Night 125 - Machida vs. Anders,8547,Lyoto Machida,Lyoto Machida,2006-06-06,p2818,542,Eryk Anders,Eryk Anders,2017-07-14,p2818,False
+16646,2018-02-03,3061,UFC Fight Night 125 - Machida vs. Anders,8386,Sergio Moraes,Sérgio Moraes,2009-07-21,p2818,6626,Tim Means,Tim Means,2012-02-14,p2818,False
+16633,2018-02-10,3060,UFC 221 - Romero vs. Rockhold,8380,Dong Hyun Ma,Dong Hyun Ma,2017-09-03,p2818,8572,Damien Brown,Damien Brown (fighter),2017-05-06,p2818,False
+16620,2018-03-03,3059,UFC 222 - Cyborg vs. Kunitskaya,2634,Ketlen Vieira,Ketlen Vieira,2017-07-05,p2818,8478,Cat Zingano,Cat Zingano,2012-10-04,p2818,False
+16621,2018-03-03,3059,UFC 222 - Cyborg vs. Kunitskaya,2251,Mackenzie Dern,Mackenzie Dern,2015-11-04,p2818,2319,Ashley Yoder,Ashley Yoder,2017-06-30,p2818,False
+16623,2018-03-03,3059,UFC 222 - Cyborg vs. Kunitskaya,6026,John Dodson,John Dodson (fighter),2011-07-06,p2818,6501,Pedro Munhoz,Pedro Munhoz,2014-06-02,p2818,False
+16626,2018-03-03,3059,UFC 222 - Cyborg vs. Kunitskaya,6485,Cody Stamann,Cody Stamann,2017-07-04,p2818,8489,Bryan Caraway,Bryan Caraway,2009-12-31,p2818,False
+16627,2018-03-03,3059,UFC 222 - Cyborg vs. Kunitskaya,8512,Jordan Johnson,Jordan Johnson (fighter),2017-02-22,p2818,8479,Adam Milstead,Adam Milstead,2017-09-27,p2818,False
+16578,2018-03-17,3055,UFC Fight Night 127 - Werdum vs. Volkov,8511,Kajan Johnson,Kajan Johnson,2015-08-31,p2818,6638,Steven Ray,Stevie Ray (fighter),2015-07-17,p2818,False
+16552,2018-04-07,3024,UFC 223 - Khabib vs. Iaquinta,2316,Karolina Kowalkiewicz,Karolina Kowalkiewicz,2015-12-20,p2818,8182,Felice Herrig,Felice Herrig,2008-03-08,p2818,False
+16535,2018-04-14,3023,UFC on Fox 29 - Poirier vs. Gaethje,512,Israel Adesanya,Israel Adesanya,2016-09-27,p2818,528,Marvin Vettori,Marvin Vettori,2017-06-20,p2818,False
+16536,2018-04-14,3023,UFC on Fox 29 - Poirier vs. Gaethje,7982,Michelle Waterson-Gomez,Michelle Waterson-Gomez,2009-09-10,p2818,8169,Cortney Casey,Cortney Casey,2017-03-28,p2818,False
+16499,2018-05-12,3017,UFC 224 - Nunes vs. Pennington,527,Kelvin Gastelum,Kelvin Gastelum,2013-04-10,p2818,8282,Ronaldo Souza,Ronaldo Souza,2007-02-13,p2818,False
+16466,2018-05-19,3014,UFC Fight Night 129 - Maia vs. Usman,5708,Michel Prazeres,Michel Prazeres,2014-04-04,p2818,8074,Zak Cummings,Zak Cummings,2010-11-01,p2818,False
+16440,2018-05-27,2993,UFC Fight Night 130 - Thompson vs. Till,1241,Makwan Amirkhani,Makwan Amirkhani,2015-01-26,p2818,8497,Jason Knight,Jason Knight (fighter),2017-02-06,p2818,False
+16478,2018-06-01,3015,UFC Fight Night 131 - Rivera vs. Moraes,8149,Sam Alvey,Sam Alvey,2014-11-09,p2818,8245,Gian Villante,Gian Villante,2010-03-16,p2818,False
+16485,2018-06-09,3016,UFC 225 - Whittaker vs. Romero 2,257,Robert Whittaker,Robert Whittaker (fighter),2012-10-05,p2818,8369,Yoel Romero,Yoel Romero,2009-09-28,p2818,False
+16491,2018-06-09,3016,UFC 225 - Whittaker vs. Romero 2,8325,Claudia Gadelha,Cláudia Gadelha,2013-07-16,p2818,6625,Carla Esparza,Carla Esparza,2012-10-12,p2818,False
+16492,2018-06-09,3016,UFC 225 - Whittaker vs. Romero 2,8337,Mirsad Bektic,Mirsad Bektić,2015-02-26,p2818,8341,Ricardo Lamas,Ricardo Lamas,2009-03-01,p2818,False
+16495,2018-06-09,3016,UFC 225 - Whittaker vs. Romero 2,1510,Sergio Pettis,Sergio Pettis,2013-03-18,p2818,8303,Joseph Benavidez,Joseph Benavidez,2008-12-04,p2818,False
+16370,2018-06-23,2906,UFC Fight Night 132 - Cerrone vs. Edwards,3733,Matt Schnell,Matt Schnell,2017-09-04,p2818,1533,Naoki Inoue,Naoki Inoue,2017-06-18,p2818,False
+16451,2018-07-06,3013,UFC - The Ultimate Fighter 27 Finale,7977,Alex Caceres,Alex Caceres,2010-06-16,p2818,8406,Martin Bravo,Martin Bravo,2008-07-05,p2818,False
+16453,2018-07-06,3013,UFC - The Ultimate Fighter 27 Finale,8151,Alessio Di Chirico,Alessio Di Chirico,2017-06-24,p2818,6189,Julian Marquez,Julian Marquez,2017-09-27,p2818,False
+16524,2018-07-07,3021,UFC 226 - Miocic vs. Cormier,6656,Mike Perry,Mike Perry (fighter),2016-10-14,p2818,8319,Paul Felder,Paul Felder,2015-01-07,p2818,False
+16426,2018-07-14,2981,UFC Fight Night 133 - Dos Santos vs. Ivanov,7969,Ricky Glenn,Ricky Glenn,2017-08-02,p2818,8465,Dennis Bermudez,Dennis Bermudez,2011-06-15,p2818,False
+16417,2018-07-22,2914,UFC Fight Night 134 - Shogun vs. Smith,6236,Damir Hadzovic,Damir Hadžović,2017-06-28,p2818,8438,Nick Hein,Nick Hein,2014-06-01,p2818,False
+16387,2018-08-04,2912,UFC 227 - Dillashaw vs. Garbrandt 2,4925,Henry Cejudo,Henry Cejudo,2005-12-19,p2818,8528,Demetrious Johnson,Demetrious Johnson,2010-03-15,p2818,False
+16393,2018-08-04,2912,UFC 227 - Dillashaw vs. Garbrandt 2,1468,Ricardo Ramos,Ricardo Ramos (fighter),2017-11-23,p2818,7984,Kyung Ho Kang,Kang Kyung-ho,2014-01-06,p2818,False
+16374,2018-08-25,2911,UFC Fight Night 135 - Gaethje vs. Vick,1099,Michael Johnson,Michael Johnson (fighter),2010-06-25,p2818,1319,Andre Fili,Andre Fili,2013-10-16,p2818,False
+16375,2018-08-25,2911,UFC Fight Night 135 - Gaethje vs. Vick,8169,Cortney Casey,Cortney Casey,2017-03-28,p2818,2264,Angela Hill,Angela Hill,2015-09-01,p2818,False
+16346,2018-09-08,2858,UFC 228 - Woodley vs. Till,6653,Irene Aldana,Irene Aldana,2015-02-28,p2818,4003,Lucie Pudilova,Lucie Pudilová,2017-09-11,p2818,False
+16354,2018-09-15,2871,UFC Fight Night 136 - Hunt vs. Oleynik,8376,Rustam Khabilov,Rustam Khabilov,2012-01-17,p2818,8511,Kajan Johnson,Kajan Johnson,2015-08-31,p2818,False
+16300,2018-10-27,2855,UFC Fight Night 138 - Oezdemir vs. Smith,8245,Gian Villante,Gian Villante,2010-03-16,p2818,8075,Ed Herman,Ed Herman,2006-06-16,p2818,False
+16213,2018-12-08,2848,UFC 231 - Holloway vs. Ortega,1390,Hakeem Dawodu,Hakeem Dawodu,2017-12-08,p2818,8395,Kyle Bochniak,Kyle Bochniak,2017-06-30,p2818,False
+16217,2018-12-08,2848,UFC 231 - Holloway vs. Ortega,8204,Jessica Eye,Jessica Eye,2012-12-08,p2818,3562,Katlyn Cerminara,Katlyn Cerminara,2017-03-28,p2818,False
+16218,2018-12-08,2848,UFC 231 - Holloway vs. Ortega,8444,Elias Theodorou,Elias Theodorou,2014-09-27,p2818,542,Eryk Anders,Eryk Anders,2017-07-14,p2818,False
+16145,2019-02-02,2777,UFC Fight Night 144 - Assuncao vs. Moraes 2,8384,Thiago Alves,Thiago Alves (fighter),2007-01-29,p2818,803,Max Griffin,Max Griffin,2017-09-15,p2818,False
+16089,2019-03-16,2773,UFC Fight Night 147 - Till vs. Masvidal,758,Leon Edwards,Leon Edwards,2015-04-12,p2818,6184,Gunnar Nelson,Gunnar Nelson (fighter),2009-10-01,p2818,False
+16090,2019-03-16,2773,UFC Fight Night 147 - Till vs. Masvidal,261,Dominick Reyes,Dominick Reyes,2017-06-11,p2818,263,Volkan Oezdemir,Volkan Oezdemir,2017-04-20,p2818,False
+16029,2019-04-20,2749,UFC Fight Night 149 - Overeem vs. Oleynik,8228,Roxanne Modafferi,Roxanne Modafferi,2006-01-05,p2818,8168,Antonina Shevchenko,Antonina Shevchenko,2017-06-26,p2818,False
+16017,2019-04-27,2748,UFC Fight Night 150 - Jacare vs. Hermansson,1504,Cory Sandhagen,Cory Sandhagen,2019-01-21,p2818,8448,John Lineker,John Lineker,2012-03-02,p2818,False
+16020,2019-04-27,2748,UFC Fight Night 150 - Jacare vs. Hermansson,62,Augusto Sakai,Augusto Sakai,2015-06-30,p2818,7983,Andrei Arlovski,Andrei Arlovski,2005-08-10,p2818,False
+16025,2019-04-27,2748,UFC Fight Night 150 - Jacare vs. Hermansson,8277,Dhiego Lima,Dhiego Lima,2015-03-03,p2818,810,Court McGee,Court McGee,2010-03-25,p2818,False
+16003,2019-05-04,2747,UFC Fight Night 151 - Iaquinta vs. Cowboy,8166,Shane Burgos,Shane Burgos,2017-05-15,p2818,4211,Cub Swanson,Cub Swanson,2007-12-17,p2818,False
+15916,2019-07-06,2709,UFC 239 - Jones vs. Santos,6478,Jon Jones,Jon Jones,2008-08-06,p2818,60,Thiago Santos,Thiago Santos,2014-06-02,p2818,False
+15873,2019-07-20,2671,UFC on ESPN 4 - Dos Anjos vs. Edwards,6623,Raquel Pennington,Raquel Pennington,2013-12-05,p2818,6653,Irene Aldana,Irene Aldana,2015-02-28,p2818,False
+15831,2019-08-10,2668,UFC Fight Night 156 - Shevchenko vs. Carmouche 2,530,Vicente Luque,Vicente Luque,2016-05-06,p2818,6656,Mike Perry,Mike Perry (fighter),2016-10-14,p2818,False
+15914,2019-08-17,2676,UFC 241 - Cormier vs. Miocic 2,7984,Kyung Ho Kang,Kang Kyung-ho,2014-01-06,p2818,2865,Brandon Davis,Brandon Davis,2018-06-03,p2818,False
+15892,2019-09-07,2675,UFC 242 - Khabib vs. Poirier,8319,Paul Felder,Paul Felder,2015-01-07,p2818,1153,Edson Barboza,Edson Barboza,2010-08-08,p2818,False
+15896,2019-09-07,2675,UFC 242 - Khabib vs. Poirier,8002,Joanne Wood,Joanne Wood,2012-02-20,p2818,6190,Andrea Lee,Andrea Lee (fighter),2015-09-18,p2818,False
+15808,2019-09-14,2666,UFC Fight Night 158 - Cowboy vs. Gaethje,8097,Glover Teixeira,Glover Teixeira,2007-06-06,p2818,275,Nikita Krylov,Nikita Krylov,2014-01-26,p2818,False
+15811,2019-09-14,2666,UFC Fight Night 158 - Cowboy vs. Gaethje,8203,Uriah Hall,Uriah Hall,2013-02-05,p2818,269,Antonio Carlos Jr.,Antônio Carlos Jr.,2014-07-31,p2818,False
+15682,2019-10-05,2663,UFC 243 - Whittaker vs. Adesanya,8277,Dhiego Lima,Dhiego Lima,2015-03-03,p2818,8402,Luke Jumeau,Luke Jumeau,2017-06-28,p2818,False
+15669,2019-10-12,2662,UFC Fight Night 161 - Jedrzejczyk vs. Waterson,1142,Matt Frevola,Matt Frevola,2017-12-11,p2818,8290,Luis Pena,Luis Peña (fighter),2018-07-14,p2818,False
+15670,2019-10-12,2662,UFC Fight Night 161 - Jedrzejczyk vs. Waterson,542,Eryk Anders,Eryk Anders,2017-07-14,p2818,3530,Gerald Meerschaert,Gerald Meerschaert,2017-06-17,p2818,False
+15646,2019-10-26,2660,UFC Fight Night 162 - Maia vs. Askren,8247,Randa Markos,Randa Markos,2014-12-11,p2818,2319,Ashley Yoder,Ashley Yoder,2017-06-30,p2818,False
+15630,2019-11-02,2659,UFC 244 - Masvidal vs. Diaz,8120,Darren Till,Darren Till,2017-05-29,p2818,527,Kelvin Gastelum,Kelvin Gastelum,2013-04-10,p2818,False
+15632,2019-11-02,2659,UFC 244 - Masvidal vs. Diaz,21,Derrick Lewis,Derrick Lewis,2014-06-12,p2818,8044,Blagoy Ivanov,Blagoy Ivanov,2009-03-15,p2818,False
+15640,2019-11-02,2659,UFC 244 - Masvidal vs. Diaz,1390,Hakeem Dawodu,Hakeem Dawodu,2017-12-08,p2818,1317,Julio Arce,Julio Arce,2018-11-04,p2818,False
+15617,2019-11-16,2658,UFC Fight Night 164 - Blachowicz vs. Jacare,260,Jan Blachowicz,Jan Błachowicz,2010-09-01,p2818,8282,Ronaldo Souza,Ronaldo Souza,2007-02-13,p2818,False
+15595,2019-12-14,2656,UFC 245 - Usman vs. Covington,8218,Marlon Moraes,Marlon Moraes,2013-06-09,p2818,5855,Jose Aldo,José Aldo,2009-01-24,p2818,False
+15580,2019-12-21,2655,UFC Fight Night 165 - Edgar vs. Korean Zombie,263,Volkan Oezdemir,Volkan Oezdemir,2017-04-20,p2818,24,Aleksandar Rakic,Aleksandar Rakić,2017-12-10,p2818,False
+15584,2019-12-21,2655,UFC Fight Night 165 - Edgar vs. Korean Zombie,7984,Kyung Ho Kang,Kang Kyung-ho,2014-01-06,p2818,8378,Pingyuan Liu,Liu Pingyuan,2019-07-14,p2818,False
+15534,2020-02-08,2504,UFC 247 - Jones vs. Reyes,3652,Dan Ige,Dan Ige,2017-12-18,p2818,8337,Mirsad Bektic,Mirsad Bektić,2015-02-26,p2818,False
+15536,2020-02-08,2504,UFC 247 - Jones vs. Reyes,6500,Trevin Giles,Trevin Giles,2019-07-16,p2818,8327,James Krause,James Krause (fighter),2009-11-06,p2818,False
+15537,2020-02-08,2504,UFC 247 - Jones vs. Reyes,5578,Lauren Murphy,Lauren Murphy,2013-06-20,p2818,6190,Andrea Lee,Andrea Lee (fighter),2015-09-18,p2818,False
+15541,2020-02-08,2504,UFC 247 - Jones vs. Reyes,8235,Andre Ewell,Andre Ewell,2019-08-07,p2818,6480,Jonathan Martinez,Jonathan Martinez,2019-07-14,p2818,False
+15494,2020-02-23,2488,UFC Fight Night 168 - Felder vs. Hooker,1013,Dan Hooker,Dan Hooker,2015-05-09,p2818,8319,Paul Felder,Paul Felder,2015-01-07,p2818,False
+15484,2020-03-07,2478,UFC 248 - Adesanya vs. Romero,4923,Weili Zhang,Zhang Weili,2019-03-03,p2818,8179,Joanna Jedrzejczyk,Joanna Jędrzejczyk,2014-08-11,p2818,False
+15487,2020-03-07,2478,UFC 248 - Adesanya vs. Romero,8216,Alex Oliveira,Alex Oliveira,2015-06-29,p2818,803,Max Griffin,Max Griffin,2017-09-15,p2818,False
+15466,2020-05-09,2464,UFC 249 - Ferguson vs. Gaethje,8134,Alexey Oleynik,Aleksei Oleinik,2009-05-22,p2818,8349,Fabricio Werdum,Fabrício Werdum,2005-10-31,p2818,False
+15467,2020-05-09,2464,UFC 249 - Ferguson vs. Gaethje,6625,Carla Esparza,Carla Esparza,2012-10-12,p2818,7982,Michelle Waterson-Gomez,Michelle Waterson-Gomez,2009-09-10,p2818,False
+15470,2020-05-09,2464,UFC 249 - Ferguson vs. Gaethje,32,Ryan Spann,Ryan Spann,2019-10-13,p2818,8149,Sam Alvey,Sam Alvey,2014-11-09,p2818,False
+15385,2020-05-13,2426,UFC Fight Night 171 - Smith vs. Teixeira,8239,Ben Rothwell,Ben Rothwell,2007-03-09,p2818,6624,Ovince St. Preux,Ovince Saint Preux,2010-11-21,p2818,False
+15387,2020-05-13,2426,UFC Fight Night 171 - Smith vs. Teixeira,1540,Ricky Simon,Ricky Simón,2019-02-10,p2818,8357,Ray Borg,Ray Borg,2014-11-13,p2818,False
+15439,2020-05-16,2442,UFC on ESPN 8 - Overeem vs. Harris,8325,Claudia Gadelha,Cláudia Gadelha,2013-07-16,p2818,2264,Angela Hill,Angela Hill,2015-09-01,p2818,False
+15440,2020-05-16,2442,UFC on ESPN 8 - Overeem vs. Harris,3652,Dan Ige,Dan Ige,2017-12-18,p2818,1153,Edson Barboza,Edson Barboza,2010-08-08,p2818,False
+15374,2020-05-30,2425,UFC on ESPN 9 - Woodley vs. Burns,62,Augusto Sakai,Augusto Sakai,2015-06-30,p2818,8044,Blagoy Ivanov,Blagoy Ivanov,2009-03-15,p2818,False
+15408,2020-06-13,2439,UFC on ESPN 10 - Eye vs. Calvillo,8164,Charles Rosa,Charles Rosa,2015-02-24,p2818,8283,Kevin Aguilar,Kevin Aguilar (mixed martial artist),2019-07-02,p2818,False
+15361,2020-07-11,2424,UFC 251 - Usman vs. Masvidal,1248,Alexander Volkanovski,Alexander Volkanovski,2017-06-01,p2818,3846,Max Holloway,Max Holloway,2012-01-20,p2818,False
+15363,2020-07-11,2424,UFC 251 - Usman vs. Masvidal,4455,Rose Namajunas,Rose Namajunas,2013-07-14,p2818,2266,Jessica Andrade,Jéssica Andrade,2013-07-26,p2818,False
+15366,2020-07-11,2424,UFC 251 - Usman vs. Masvidal,785,Muslim Salikhov,Muslim Salikhov,2011-02-03,p2818,813,Elizeu Zaleski dos Santos,Elizeu Zaleski dos Santos,2017-07-06,p2818,False
+15334,2020-07-25,2420,UFC on ESPN 14 - Whittaker vs. Till,8098,Mauricio Rua,Maurício Rua,2005-10-29,p2818,8348,Antonio Rogerio Nogueira,Antônio Rogério Nogueira,2006-02-08,p2818,False
+15336,2020-07-25,2420,UFC on ESPN 14 - Whittaker vs. Till,6625,Carla Esparza,Carla Esparza,2012-10-12,p2818,5878,Marina Rodriguez,Marina Rodriguez,2019-09-01,p2818,False
+15294,2020-08-22,2415,UFC on ESPN 15 - Munhoz vs. Edgar,8123,Frankie Edgar,Frankie Edgar,2007-03-15,p2818,6501,Pedro Munhoz,Pedro Munhoz,2014-06-02,p2818,False
+15260,2020-09-12,2405,UFC Fight Night 177 - Waterson vs. Hill,7982,Michelle Waterson-Gomez,Michelle Waterson-Gomez,2009-09-10,p2818,2264,Angela Hill,Angela Hill,2015-09-01,p2818,False
+15251,2020-09-19,2401,UFC Fight Night 178 - Covington vs. Woodley,770,Kevin Holland,Kevin Holland,2019-04-05,p2818,8261,Darren Stewart,Darren Stewart,2017-09-12,p2818,False
+15307,2020-09-26,2416,UFC 253 - Adesanya vs. Costa,1390,Hakeem Dawodu,Hakeem Dawodu,2017-12-08,p2818,8094,Zubaira Tukhugov,Zubaira Tukhugov,2014-11-15,p2818,False
+15140,2020-11-14,2373,UFC Fight Night 182 - Felder vs. dos Anjos,3481,Rafael dos Anjos,Rafael dos Anjos,2008-07-14,p2818,8319,Paul Felder,Paul Felder,2015-01-07,p2818,False
+15125,2020-12-05,2371,UFC on ESPN 19 - Hermansson vs. Vettori,264,Roman Dolidze,Roman Dolidze,2020-07-22,p2818,6107,John Allan,John Allan (fighter),2020-09-02,p2818,False
+15106,2021-01-16,2355,UFC on ABC 1 - Holloway vs. Kattar,69,Carlos Felipe,Carlos Felipe,2020-10-25,p2818,6251,Justin Tafa,Justin Tafa,2020-02-09,p2818,False
+15107,2021-01-16,2355,UFC on ABC 1 - Holloway vs. Kattar,544,Ramazan Emeev,Ramazan Emeev,2017-09-04,p2818,4004,David Zawada,David Zawada,2019-11-11,p2818,False
+15021,2021-01-20,2318,UFC on ESPN 20 - Chiesa vs. Magny,3733,Matt Schnell,Matt Schnell,2017-09-04,p2818,8039,Tyson Nam,Tyson Nam,2012-10-05,p2818,False
+15088,2021-01-23,2352,UFC 257 - Poirier vs. McGregor 2,1251,Movsar Evloev,Movsar Evloev,2020-06-28,p2818,8310,Nik Lentz,Nik Lentz,2009-09-09,p2818,False
+15071,2021-02-06,2351,UFC Fight Night 184 - Overeem vs. Volkov,1015,Beneil Dariush,Beneil Dariush,2014-08-12,p2818,1041,Diego Ferreira,Carlos Diego Ferreira,2014-09-08,p2818,False
+15048,2021-03-06,2327,UFC 259 - Blachowicz vs. Adesanya,8145,Dominick Cruz,Dominick Cruz,2009-02-26,p2818,8265,Casey Kenney,Casey Kenney,2020-03-09,p2818,False
+14998,2021-03-13,2311,UFC Fight Night 187 - Edwards vs. Muhammad,6533,Matheus Nicolau,Matheus Nicolau,2016-09-26,p2818,1749,Manel Kape,Manel Kape,2020-04-23,p2818,False
+14978,2021-03-27,2300,UFC 260 - Miocic vs. Ngannou 2,537,Michal Oleksiejczuk,Michał Oleksiejczuk,2019-07-17,p2818,284,Modestas Bukauskas,Modestas Bukauskas,2021-01-15,p2818,False
+14990,2021-04-10,2309,UFC on ABC 2 - Vettori vs. Holland,6502,Jack Shore,Jack Shore,2019-04-28,p2818,8297,Hunter Azure,Hunter Azure,2020-08-31,p2818,False
+14964,2021-04-17,2291,UFC on ESPN 22 - Whittaker vs. Gastelum,3849,Tracy Cortez,Tracy Cortez,2019-03-06,p2818,8289,Justine Kish,Justine Kish,2014-09-16,p2818,False
+14943,2021-05-01,2282,UFC on ESPN 23 - Reyes vs. Prochazka,1157,T.J. Brown,T.J. Brown,2021-02-10,p2818,1311,Kai Kamaka III,Kai Kamaka III,2021-02-15,p2818,False
+14922,2021-05-15,2276,UFC 262 - Oliveira vs. Chandler,4111,Lando Vannata,Lando Vannata,2016-10-15,p2818,8223,Mike Grundy,Mike Grundy,2014-10-05,p2818,False
+14907,2021-05-22,2275,UFC Fight Night 188 - Font vs. Garbrandt,3583,Norma Dumont,Norma Dumont,2021-01-21,p2818,8240,Felicia Spencer,Felicia Spencer,2017-12-23,p2818,False
+14871,2021-06-05,2263,UFC Fight Night 189 - Rozenstruik vs. Sakai,8063,Ilir Latifi,Ilir Latifi,2014-07-18,p2818,87,Tanner Boser,Tanner Boser,2020-06-27,p2818,False
+14876,2021-06-05,2263,UFC Fight Night 189 - Rozenstruik vs. Sakai,1296,Sean Woodson,Sean Woodson,2020-10-15,p2818,1259,Youssef Zalal,Youssef Zalal,2020-07-26,p2818,False
+14897,2021-06-12,2267,UFC 263 - Adesanya vs. Vettori 2,5578,Lauren Murphy,Lauren Murphy,2013-06-20,p2818,8002,Joanne Wood,Joanne Wood,2012-02-20,p2818,False
+14903,2021-06-12,2267,UFC 263 - Adesanya vs. Vettori 2,69,Carlos Felipe,Carlos Felipe,2020-10-25,p2818,8023,Jake Collier,Jake Collier,2016-04-26,p2818,False
+14884,2021-06-19,2264,UFC on ESPN 25 - Korean Zombie vs. Ige,8127,Nicolae Negumereanu,Nicolae Negumereanu,2019-03-16,p2818,8030,Aleksa Camur,Aleksa Camur,2021-04-02,p2818,False
+14863,2021-06-26,2262,UFC Fight Night 190 - Gane vs. Volkov,8164,Charles Rosa,Charles Rosa,2015-02-24,p2818,8274,Justin Jaynes,Justin Jaynes,2020-06-23,p2818,False
+14850,2021-07-10,2255,UFC 264 - Poirier vs. McGregor 3,564,Brad Tavares,Brad Tavares,2010-03-25,p2818,8272,Omari Akhmedov,Omari Akhmedov,2013-11-10,p2818,False
+14819,2021-07-24,2243,UFC on ESPN 27 - Sandhagen vs. Dillashaw,8178,T.J. Dillashaw,T.J. Dillashaw,2011-11-03,p2818,1504,Cory Sandhagen,Cory Sandhagen,2019-01-21,p2818,False
+14822,2021-07-24,2243,UFC on ESPN 27 - Sandhagen vs. Dillashaw,4367,Maycee Barber,Maycee Barber,2019-03-03,p2818,5640,Miranda Maverick,Miranda Maverick,2018-03-02,p2818,False
+14810,2021-08-07,2241,UFC 265 - Lewis vs. Gane,1501,Yadong Song,Song Yadong,2018-09-23,p2818,8265,Casey Kenney,Casey Kenney,2020-03-09,p2818,False
+14748,2021-08-21,2223,UFC on ESPN 29 - Cannonier vs. Gastelum,8015,Mark O. Madsen,Mark Madsen (fighter),2012-12-05,p2818,6557,Clay Guida,Clay Guida,2007-06-17,p2818,False
+14778,2021-08-28,2226,UFC on ESPN 30 - Barboza vs. Chikadze,6694,Wellington Turman,Wellington Turman,2019-11-03,p2818,8149,Sam Alvey,Sam Alvey,2014-11-09,p2818,False
+14762,2021-10-02,2224,UFC Fight Night 193 - Santos vs. Walker,525,Krzysztof Jotko,Krzysztof Jotko,2014-06-13,p2818,8128,Misha Cirkunov,Misha Cirkunov,2016-02-10,p2818,False
+14764,2021-10-02,2224,UFC Fight Night 193 - Santos vs. Walker,1072,Jared Gordon,Jared Gordon,2017-06-26,p2818,6326,Joe Solecki,Joe Solecki,2021-03-02,p2818,False
+14719,2021-10-09,2190,UFC Fight Night 194 - Dern vs. Rodriguez,1530,Chris Gutierrez,Chris Gutierrez,2008-07-11,p2818,8201,Felipe Colares,Felipe Colares,2020-06-13,p2818,False
+14697,2021-10-16,2186,UFC Fight Night 195 - Ladd vs. Dumont,5410,Danny Roberts,Danny Roberts (fighter),2016-08-26,p2818,544,Ramazan Emeev,Ramazan Emeev,2017-09-04,p2818,False
+14681,2021-10-23,2109,UFC Fight Night 196 - Costa vs. Vettori,8133,Francisco Trinaldo,Francisco Trinaldo,2010-08-30,p2818,8167,Dwight Grant,Dwight Grant,2019-04-22,p2818,False
+14664,2021-11-06,2107,UFC 268 - Usman vs. Covington 2,4455,Rose Namajunas,Rose Namajunas,2013-07-14,p2818,4923,Weili Zhang,Zhang Weili,2019-03-03,p2818,False
+14645,2021-11-20,2103,UFC Fight Night 198 - Vieira vs. Tate,1535,Adrian Yanez,Adrian Yañez,2021-06-14,p2818,1539,Davey Grant,Davey Grant,2017-07-21,p2818,False
+14629,2021-12-11,2102,UFC 269 - Oliveira vs. Poirier,772,Geoff Neal,Geoff Neal,2019-05-01,p2818,834,Santiago Ponzinibbio,Santiago Ponzinibbio,2013-07-04,p2818,False
+14616,2021-12-18,2093,UFC Fight Night 199 - Lewis vs. Daukaus,2260,Amanda Lemos,Amanda Lemos,2020-07-13,p2818,2264,Angela Hill,Angela Hill,2015-09-01,p2818,False
+14567,2022-02-05,2067,UFC Fight Night 200 - Hermansson vs. Strickland,500,Sean Strickland,Sean Strickland,2014-06-02,p2818,857,Jack Hermansson,Jack Hermansson,2016-08-29,p2818,False
+14572,2022-02-05,2067,UFC Fight Night 200 - Hermansson vs. Strickland,1364,Julian Erosa,Julian Erosa,2020-06-28,p2818,8080,Steven Peterson,Steven Peterson,2014-04-08,p2818,False
+14558,2022-02-12,2062,UFC 271 - Adesanya vs. Whittaker 2,7983,Andrei Arlovski,Andrei Arlovski,2005-08-10,p2818,8114,Jared Vanderaa,Jared Vanderaa,2021-08-10,p2818,False
+14559,2022-02-12,2062,UFC 271 - Adesanya vs. Whittaker 2,3646,Casey O'Neill,Casey O'Neill,2021-02-19,p2818,8228,Roxanne Modafferi,Roxanne Modafferi,2006-01-05,p2818,False
+14545,2022-02-19,2052,UFC Fight Night 201 - Walker vs. Hill,760,Joaquin Buckley,Joaquin Buckley,2020-10-15,p2818,6320,Abdul Razak Alhassan,Abdul Razak Alhassan,2017-02-07,p2818,False
+14485,2022-03-05,2031,UFC 272 - Covington vs. Masvidal,5878,Marina Rodriguez,Marina Rodriguez,2019-09-01,p2818,2258,Xiaonan Yan,Yan Xiaonan,2017-12-10,p2818,False
+14486,2022-03-05,2031,UFC 272 - Covington vs. Masvidal,8127,Nicolae Negumereanu,Nicolae Negumereanu,2019-03-16,p2818,73,Kennedy Nzechukwu,Kennedy Nzechukwu,2021-01-28,p2818,False
+14490,2022-03-05,2031,UFC 272 - Covington vs. Masvidal,1053,Ludovit Klein,Ľudovít Klein,2021-08-10,p2818,8217,Devonte Smith,Devonte Smith,2019-08-18,p2818,False
+14508,2022-03-26,2036,UFC on ESPN 33 - Blaydes vs. Daukaus,7994,Bryan Barberena,Bryan Barberena,2016-01-31,p2818,8066,Matt Brown,Matt Brown (fighter),2008-05-30,p2818,False
+14510,2022-03-26,2036,UFC on ESPN 33 - Blaydes vs. Daukaus,774,Neil Magny,Neil Magny,2012-09-27,p2818,803,Max Griffin,Max Griffin,2017-09-15,p2818,False
+14454,2022-04-09,2006,UFC 273 - Volkanovski vs. Korean Zombie,1249,Aljamain Sterling,Aljamain Sterling,2014-07-17,p2818,1498,Petr Yan,Petr Yan,2018-05-24,p2818,False
+14456,2022-04-09,2006,UFC 273 - Volkanovski vs. Korean Zombie,2251,Mackenzie Dern,Mackenzie Dern,2015-11-04,p2818,2263,Tecia Pennington,Tecia Pennington,2013-12-12,p2818,False
+14407,2022-04-30,1988,UFC on ESPN 35 - Font vs. Vera,7983,Andrei Arlovski,Andrei Arlovski,2005-08-10,p2818,8023,Jake Collier,Jake Collier,2016-04-26,p2818,False
+14466,2022-05-07,2019,UFC 274 - Oliveira vs. Gaethje,6625,Carla Esparza,Carla Esparza,2012-10-12,p2818,4455,Rose Namajunas,Rose Namajunas,2013-07-14,p2818,False
+14468,2022-05-07,2019,UFC 274 - Oliveira vs. Gaethje,6624,Ovince St. Preux,Ovince Saint Preux,2010-11-21,p2818,8098,Mauricio Rua,Maurício Rua,2005-10-29,p2818,False
+14469,2022-05-07,2019,UFC 274 - Oliveira vs. Gaethje,786,Randy Brown,Randy Brown (fighter),2016-01-31,p2818,809,Kalinn Williams,Khaos Williams,2020-11-22,p2818,False
+14471,2022-05-07,2019,UFC 274 - Oliveira vs. Gaethje,4403,Macy Chiasson,Macy Chiasson,2019-05-06,p2818,3583,Norma Dumont,Norma Dumont,2021-01-21,p2818,False
+14431,2022-05-14,1992,UFC on ESPN 36 - Blachowicz vs. Rakic,3562,Katlyn Cerminara,Katlyn Cerminara,2017-03-28,p2818,2269,Amanda Ribas,Amanda Ribas,2020-03-15,p2818,False
+14383,2022-05-21,1978,UFC Fight Night 206 - Holm vs. Vieira,2634,Ketlen Vieira,Ketlen Vieira,2017-07-05,p2818,7991,Holly Holm,Holly Holm,2007-08-06,p2818,False
+14384,2022-05-21,1978,UFC Fight Night 206 - Holm vs. Vieira,569,Michel Pereira,Michel Pereira,2020-03-15,p2818,834,Santiago Ponzinibbio,Santiago Ponzinibbio,2013-07-04,p2818,False
+14387,2022-05-21,1978,UFC Fight Night 206 - Holm vs. Vieira,535,Jun Yong Park,Jun Yong Park,2020-06-28,p2818,542,Eryk Anders,Eryk Anders,2017-07-14,p2818,False
+14356,2022-06-04,1964,UFC Fight Night 207 - Volkov vs. Rozenstruik,8183,Jeff Molina,Jeff Molina,2022-02-27,p2818,1626,Zhalgas Zhumagulov,Zhalgas Zhumagulov,2020-07-15,p2818,False
+14335,2022-06-12,1961,UFC 275 - Teixeira vs. Prochazka,4922,Valentina Shevchenko,Valentina Shevchenko,2014-10-20,p2818,2637,Taila Santos,Taila Santos,2020-10-05,p2818,False
+14339,2022-06-12,1961,UFC 275 - Teixeira vs. Prochazka,7966,Joshua Culibao,Joshua Culibao,2021-04-11,p2818,6179,Seung Woo Choi,Seung Woo Choi,2019-12-27,p2818,False
+14284,2022-06-18,1934,UFC on ESPN 37 - Kattar vs. Emmett,1272,Josh Emmett,Josh Emmett,2017-05-25,p2818,1305,Calvin Kattar,Calvin Kattar,2017-11-25,p2818,False
+14308,2022-06-25,1935,UFC on ESPN 38 - Tsarukyan vs. Gamrot,2332,Vanessa Demopoulos,Vanessa Demopoulos,2022-04-13,p2818,8060,Jinh Yu Frey,Jinh Yu Frey,2015-08-24,p2818,False
+14278,2022-07-09,1926,UFC on ESPN 39 - Dos Anjos vs. Fiziev,1137,Jamie Mullarkey,Jamie Mullarkey,2021-02-17,p2818,1099,Michael Johnson,Michael Johnson (fighter),2010-06-25,p2818,False
+14280,2022-07-09,1926,UFC on ESPN 39 - Dos Anjos vs. Fiziev,8168,Antonina Shevchenko,Antonina Shevchenko,2017-06-26,p2818,8169,Cortney Casey,Cortney Casey,2017-03-28,p2818,False
+14319,2022-07-30,1936,UFC 277 - Pena vs. Nunes 2,3960,Joselyne Edwards,Joselyne Edwards,2021-06-02,p2818,8068,Ji Yeon Kim,Ji Yeon Kim (fighter),2017-10-19,p2818,False
+14202,2022-08-13,1895,UFC on ESPN 41 - Vera vs. Cruz,8146,Nina Nunes,Nina Nunes,2015-03-01,p2818,8078,Cynthia Calvillo,Cynthia Calvillo,2017-03-04,p2818,False
+14147,2022-09-17,1868,UFC Fight Night 210 - Sandhagen vs. Song,1319,Andre Fili,Andre Fili,2013-10-16,p2818,7951,Bill Algeo,Bill Algeo,2021-03-18,p2818,False
+14149,2022-09-17,1868,UFC Fight Night 210 - Sandhagen vs. Song,42,Rodrigo Nascimento,Rodrigo Nascimento,2021-03-07,p2818,87,Tanner Boser,Tanner Boser,2020-06-27,p2818,False
+14324,2022-10-22,1950,UFC 280 - Oliveira vs. Makhachev,3747,Sean O'Malley,Sean O'Malley (fighter),2017-11-25,p2818,1498,Petr Yan,Petr Yan,2018-05-24,p2818,False
+14087,2022-10-29,1853,UFC Fight Night 213 - Kattar vs. Allen,803,Max Griffin,Max Griffin,2017-09-15,p2818,6626,Tim Means,Tim Means,2012-02-14,p2818,False
+14090,2022-10-29,1853,UFC Fight Night 213 - Kattar vs. Allen,259,Khalil Rountree,Khalil Rountree Jr.,2017-07-01,p2818,286,Dustin Jacoby,Dustin Jacoby,2012-01-24,p2818,False
+14069,2022-12-03,1851,UFC on ESPN 42 - Thompson vs. Holland,6557,Clay Guida,Clay Guida,2007-06-17,p2818,8112,Scott Holtzman,Scott Holtzman,2011-02-24,p2818,False
+14048,2022-12-17,1850,UFC Fight Night 216 - Cannonier vs. Strickland,514,Jared Cannonier,Jared Cannonier,2016-12-04,p2818,500,Sean Strickland,Sean Strickland,2014-06-02,p2818,False
+14004,2023-01-14,1788,UFC Fight Night 217 - Strickland vs. Imavov,6623,Raquel Pennington,Raquel Pennington,2013-12-05,p2818,2634,Ketlen Vieira,Ketlen Vieira,2017-07-05,p2818,False
+14033,2023-01-21,1825,UFC 283 - Teixeira vs. Hill,793,Nicolas Dalby,Nicolas Dalby,2015-05-31,p2818,7979,Warlley Alves,Warlley Alves,2014-07-31,p2818,False
+13966,2023-03-04,1343,UFC 285 - Jones vs. Gane,1011,Mateusz Gamrot,Mateusz Gamrot,2020-08-25,p2818,1022,Jalin Turner,Jalin Turner,2018-12-08,p2818,False
+13938,2023-03-11,1319,UFC Fight Night 221 - Yan vs. Dvalishvili,6045,Victor Henry,Victor Henry (fighter),2020-07-15,p2818,8083,Tony Gravely,Tony Gravely,2021-02-21,p2818,False
+13916,2023-03-18,1310,UFC 286 - Edwards vs. Usman 3,8002,Joanne Wood,Joanne Wood,2012-02-20,p2818,5109,Luana Carolina,Luana Carolina,2021-04-01,p2818,False
+13919,2023-03-25,1314,UFC on ESPN 43 - Vera vs. Sandhagen,1504,Cory Sandhagen,Cory Sandhagen,2019-01-21,p2818,1511,Marlon Vera,Marlon Vera,2016-03-02,p2818,False
+13922,2023-03-25,1314,UFC on ESPN 43 - Vera vs. Sandhagen,4367,Maycee Barber,Maycee Barber,2019-03-03,p2818,6190,Andrea Lee,Andrea Lee (fighter),2015-09-18,p2818,False
+13898,2023-04-08,1294,UFC 287 - Pereira vs. Adesanya 2,5800,Luana Pinheiro,Luana Pinheiro,2022-02-08,p2818,7982,Michelle Waterson-Gomez,Michelle Waterson-Gomez,2009-09-10,p2818,False
+13900,2023-04-08,1294,UFC 287 - Pereira vs. Adesanya 2,2262,Lupita Godinez,Loopy Godinez,2021-10-13,p2818,8078,Cynthia Calvillo,Cynthia Calvillo,2017-03-04,p2818,False
+13891,2023-04-15,1278,UFC on ESPN 44 - Holloway vs. Allen,3960,Joselyne Edwards,Joselyne Edwards,2021-06-02,p2818,4003,Lucie Pudilova,Lucie Pudilová,2017-09-11,p2818,False
+13871,2023-04-22,1277,UFC Fight Night 222 - Pavlovich vs. Blaydes,773,Jeremiah Wells,Jeremiah Wells,2022-04-21,p2818,6484,Matthew Semelsberger,Matthew Semelsberger,2021-05-14,p2818,False
+13844,2023-05-06,1271,UFC 288 - Sterling vs. Cejudo,1249,Aljamain Sterling,Aljamain Sterling,2014-07-17,p2818,4925,Henry Cejudo,Henry Cejudo,2005-12-19,p2818,False
+13829,2023-05-20,1241,UFC Fight Night 223 - Dern vs. Hill,42,Rodrigo Nascimento,Rodrigo Nascimento,2021-03-07,p2818,8063,Ilir Latifi,Ilir Latifi,2014-07-18,p2818,False
+13795,2023-06-03,1225,UFC on ESPN 46 - Kara-France vs. Albazi,1772,Amir Albazi,Amir Albazi,2020-07-19,p2818,1756,Kai Kara-France,Kai Kara-France,2018-12-02,p2818,False
+13800,2023-06-03,1225,UFC on ESPN 46 - Kara-France vs. Albazi,813,Elizeu Zaleski dos Santos,Elizeu Zaleski dos Santos,2017-07-06,p2818,6693,Abubakar Nurmagomedov,Abubakar Nurmagomedov,2016-04-02,p2818,False
+13751,2023-06-24,1213,UFC on ABC 5 - Emmett vs. Topuria,774,Neil Magny,Neil Magny,2012-09-27,p2818,818,Philip Rowe,Philip Rowe,2021-10-30,p2818,False
+13702,2023-07-01,1195,UFC on ESPN 48 - Strickland vs. Magomedov,3056,Ariane Lipski da Silva,Ariane Lipski da Silva,2019-11-17,p2818,3536,Melissa Gatto,Melissa Gatto,2019-12-08,p2818,False
+13707,2023-07-01,1195,UFC on ESPN 48 - Strickland vs. Magomedov,3370,Karol Rosa,Karol Rosa,2020-08-27,p2818,3471,Yana Santos,Yana Santos,2011-05-07,p2818,False
+13809,2023-07-08,1236,UFC 290 - Volkanovski vs. Rodriguez,1748,Alexandre Pantoja,Alexandre Pantoja,2017-05-30,p2818,1753,Brandon Moreno,Brandon Moreno,2016-12-04,p2818,False
+13811,2023-07-08,1236,UFC 290 - Volkanovski vs. Rodriguez,1013,Dan Hooker,Dan Hooker,2015-05-09,p2818,1022,Jalin Turner,Jalin Turner,2018-12-08,p2818,False
+13689,2023-07-29,1194,UFC 291 - Poirier vs. Gaethje 2,3746,Alex Pereira,Alex Pereira,2014-02-24,p2818,260,Jan Blachowicz,Jan Błachowicz,2010-09-01,p2818,False
+13672,2023-08-19,1189,UFC 292 - Sterling vs. O'Malley,594,Andre Petroski,Andre Petroski,2022-02-27,p2818,3530,Gerald Meerschaert,Gerald Meerschaert,2017-06-17,p2818,False
+13535,2023-08-26,1144,UFC Fight Night 225 - Holloway vs. Korean Zombie,44,Anthony Smith,Anthony Smith (fighter),2012-12-07,p2818,32,Ryan Spann,Ryan Spann,2019-10-13,p2818,False
+13604,2023-09-16,1156,UFC Fight Night 227 - Grasso vs. Shevchenko 2,756,Jack Della Maddalena,Jack Della Maddalena,2021-06-03,p2818,770,Kevin Holland,Kevin Holland,2019-04-05,p2818,False
+13518,2023-11-11,1115,UFC 295 - Prochazka vs. Pereira,2262,Lupita Godinez,Loopy Godinez,2021-10-13,p2818,2259,Tabatha Ricci,Tabatha Ricci,2022-02-23,p2818,False
+13482,2023-12-09,1065,UFC Fight Night 233 - Song vs. Gutierrez,549,Andre Muniz,André Muniz,2020-11-20,p2818,535,Jun Yong Park,Jun Yong Park,2020-06-28,p2818,False
+13488,2023-12-09,1065,UFC Fight Night 233 - Song vs. Gutierrez,2271,Talita Alencar,Talita Alencar,2023-03-23,p2818,5875,Rayanne dos Santos,Rayanne dos Santos,2023-05-05,p2818,False
+13455,2024-01-20,1051,UFC 297 - Strickland vs. Du Plessis,502,Dricus Du Plessis,Dricus du Plessis,2019-12-16,p2818,500,Sean Strickland,Sean Strickland,2014-06-02,p2818,False
+13458,2024-01-20,1051,UFC 297 - Strickland vs. Du Plessis,782,Chris Curtis,Chris Curtis (fighter),2022-01-26,p2818,545,Marc-Andre Barriault,Marc-André Barriault,2019-12-21,p2818,False
+13461,2024-01-20,1051,UFC 297 - Strickland vs. Du Plessis,1296,Sean Woodson,Sean Woodson,2020-10-15,p2818,1512,Charles Jourdain,Charles Jourdain,2020-06-14,p2818,False
+13401,2024-02-10,1020,UFC Fight Night 236 - Hermansson vs. Pyfer,803,Max Griffin,Max Griffin,2017-09-15,p2818,773,Jeremiah Wells,Jeremiah Wells,2022-04-21,p2818,False
+13421,2024-02-17,1024,UFC 298 - Volkanovski vs. Topuria,754,Ian Garry,Ian Machado Garry,2021-08-16,p2818,772,Geoff Neal,Geoff Neal,2019-05-01,p2818,False
+13379,2024-02-24,1017,UFC Fight Night 237 - Moreno vs. Royval 2,1751,Brandon Royval,Brandon Royval,2020-07-18,p2818,1753,Brandon Moreno,Brandon Moreno,2016-12-04,p2818,False
+13387,2024-02-24,1017,UFC Fight Night 237 - Moreno vs. Royval 2,1044,Fares Ziam,Farès Ziam,2021-03-20,p2818,1111,Claudio Puelles,Claudio Puelles,2019-10-14,p2818,False
+13418,2024-03-09,1023,UFC 299 - O'Malley vs. Vera 2,8002,Joanne Wood,Joanne Wood,2012-02-20,p2818,8003,Maryna Moroz,Maryna Moroz,2015-08-25,p2818,False
+13355,2024-03-16,930,UFC Fight Night 239 - Tuivasa vs. Tybura,6624,Ovince St. Preux,Ovince Saint Preux,2010-11-21,p2818,73,Kennedy Nzechukwu,Kennedy Nzechukwu,2021-01-28,p2818,False
+13312,2024-04-06,913,UFC Fight Night 240 - Allen vs. Curtis 2,506,Brendan Allen,Brendan Allen,2020-06-28,p2818,782,Chris Curtis,Chris Curtis (fighter),2022-01-26,p2818,False
+13313,2024-04-06,913,UFC Fight Night 240 - Allen vs. Curtis 2,6481,Damon Jackson,Damon Jackson,2014-09-04,p2818,1039,Alexander Hernandez,Alexander Hernandez,2018-07-29,p2818,False
+13327,2024-04-13,922,UFC 300 - Pereira vs. Hill,1002,Arman Tsarukyan,Arman Tsarukyan,2019-05-28,p2818,4374,Charles Oliveira,Charles Oliveira,2010-04-30,p2818,False
+13334,2024-04-13,922,UFC 300 - Pereira vs. Hill,2266,Jessica Andrade,Jéssica Andrade,2013-07-26,p2818,5878,Marina Rodriguez,Marina Rodriguez,2019-09-01,p2818,False
+13246,2024-05-11,870,UFC on ESPN 56 - Lewis vs. Nascimento,2259,Tabatha Ricci,Tabatha Ricci,2022-02-23,p2818,2263,Tecia Pennington,Tecia Pennington,2013-12-12,p2818,False
+13261,2024-05-18,871,UFC Fight Night 241 - Barboza vs. Murphy,2332,Vanessa Demopoulos,Vanessa Demopoulos,2022-04-13,p2818,7981,Emily Ducote,Emily Ducote,2019-11-02,p2818,False
+13227,2024-06-01,869,UFC 302 - Makhachev vs. Poirier,500,Sean Strickland,Sean Strickland,2014-06-02,p2818,255,Paulo Costa,Paulo Costa,2017-05-17,p2818,False
+13231,2024-06-01,869,UFC 302 - Makhachev vs. Poirier,523,Roman Kopylov,Roman Kopylov,2022-04-08,p2818,593,Cesar Almeida,César Almeida (fighter),2019-12-23,p2818,False
+13197,2024-06-08,825,UFC on ESPN 57 - Cannonier vs. Imavov,2790,Montana De La Rosa,Montana De La Rosa,2017-12-10,p2818,6190,Andrea Lee,Andrea Lee (fighter),2015-09-18,p2818,False
+13280,2024-06-22,879,UFC on ABC 6 - Whittaker vs. Aliskerov,1083,Nasrat Haqparast,Nasrat Haqparast,2018-10-28,p2818,1072,Jared Gordon,Jared Gordon,2017-06-26,p2818,False
+13282,2024-06-22,879,UFC on ABC 6 - Whittaker vs. Aliskerov,768,Rinat Fakhretdinov,Rinat Fakhretdinov,2023-07-03,p2818,793,Nicolas Dalby,Nicolas Dalby,2015-05-31,p2818,False
+13268,2024-06-29,875,UFC 303 - Pereira vs. Prochazka 2,1319,Andre Fili,Andre Fili,2013-10-16,p2818,4211,Cub Swanson,Cub Swanson,2007-12-17,p2818,False
+13165,2024-07-13,820,UFC on ESPN 59 - Namajunas vs. Cortez,785,Muslim Salikhov,Muslim Salikhov,2011-02-03,p2818,834,Santiago Ponzinibbio,Santiago Ponzinibbio,2013-07-04,p2818,False
+13178,2024-08-17,821,UFC 305 - Du Plessis vs. Adesanya,1013,Dan Hooker,Dan Hooker,2015-05-09,p2818,1011,Mateusz Gamrot,Mateusz Gamrot,2020-08-25,p2818,False
+13179,2024-08-17,821,UFC 305 - Du Plessis vs. Adesanya,6235,Jairzinho Rozenstruik,Jairzinho Rozenstruik,2019-10-17,p2818,28,Tai Tuivasa,Tai Tuivasa,2017-06-18,p2818,False
+13182,2024-08-17,821,UFC 305 - Du Plessis vs. Adesanya,1468,Ricardo Ramos,Ricardo Ramos (fighter),2017-11-23,p2818,7966,Joshua Culibao,Joshua Culibao,2021-04-11,p2818,False
+5767,2024-10-05,770,UFC 307 - Pereira vs. Rountree,5816,Julianna Pena,Julianna Peña,2013-12-01,p2818,6623,Raquel Pennington,Raquel Pennington,2013-12-05,p2818,False
+5768,2024-10-05,770,UFC 307 - Pereira vs. Rountree,1503,Mario Bautista,Mario Bautista,2020-03-03,p2818,5855,Jose Aldo,José Aldo,2009-01-24,p2818,False
+5773,2024-10-05,770,UFC 307 - Pereira vs. Rountree,1039,Alexander Hernandez,Alexander Hernandez,2018-07-29,p2818,5346,Austin Hubbard,Austin Hubbard,2020-03-11,p2818,False
+5645,2024-10-12,735,UFC Fight Night 244 - Royval vs. Taira,1751,Brandon Royval,Brandon Royval,2020-07-18,p2818,1750,Tatsuro Taira,Tatsuro Taira,2023-02-10,p2818,False
+5646,2024-10-12,735,UFC Fight Night 244 - Royval vs. Taira,535,Jun Yong Park,Jun Yong Park,2020-06-28,p2818,564,Brad Tavares,Brad Tavares,2010-03-25,p2818,False
+5649,2024-10-12,735,UFC Fight Night 244 - Royval vs. Taira,771,Daniel Rodriguez,Daniel Rodriguez (fighter),2020-07-26,p2818,822,Alex Morono,Alex Morono,2015-12-31,p2818,False
+5659,2024-12-07,736,UFC 310 - Pantoja vs. Asakura,1,Ciryl Gane,Ciryl Gane,2019-10-29,p2818,2,Alexander Volkov,Alexander Volkov (fighter),2010-09-08,p2818,False
+5430,2024-12-14,711,UFC on ESPN 63 - Covington vs. Buckley,1516,Daniel Marcos,Daniel Marcos,2024-03-27,p2818,1535,Adrian Yanez,Adrian Yañez,2021-06-14,p2818,False
+4931,2025-02-15,650,UFC Fight Night 251 - Cannonier vs. Rodrigues,2264,Angela Hill,Angela Hill,2015-09-01,p2818,2268,Ketlen Souza,Ketlen Souza,2023-01-19,p2818,False
+4073,2025-04-26,527,UFC on ESPN 66 - Garry vs. Prates,1530,Chris Gutierrez,Chris Gutierrez,2008-07-11,p2818,3587,John Castaneda,John Castañeda,2020-07-18,p2818,False
+4000,2025-05-10,520,UFC 315 - Muhammad vs. Della Maddalena,284,Modestas Bukauskas,Modestas Bukauskas,2021-01-15,p2818,288,Ion Cutelaba,Ion Cutelaba,2016-10-20,p2818,False
+3564,2025-07-12,471,UFC on ESPN 70 - Lewis vs. Teixeira,782,Chris Curtis,Chris Curtis (fighter),2022-01-26,p2818,803,Max Griffin,Max Griffin,2017-09-15,p2818,False
+3692,2025-07-26,485,UFC on ABC 9 - Whittaker vs. de Ridder,258,Reinier de Ridder,Reinier de Ridder,2022-07-20,p2818,257,Robert Whittaker,Robert Whittaker (fighter),2012-10-05,p2818,False
+3586,2025-09-13,473,UFC Fight Night 259 - Noche UFC: Lopes vs. Silva,1078,Joaquim Silva,Joaquim Silva (fighter),2016-08-05,p2818,1111,Claudio Puelles,Claudio Puelles,2019-10-14,p2818,False
+2731,2025-10-11,382,UFC Fight Night 261 - Oliveira vs. Gamrot,1506,Deiveson Figueiredo,Deiveson Figueiredo,2018-02-20,p2818,1520,Montel Jackson,Montel Jackson,2019-04-18,p2818,False
+3060,2025-10-18,412,UFC Fight Night 262 - De Ridder vs. Allen,1505,Aiemann Zahabi,Aiemann Zahabi,2017-05-15,p2818,1511,Marlon Vera,Marlon Vera,2016-03-02,p2818,False
+2878,2025-10-25,394,UFC 321 - Aspinall vs. Gane,2,Alexander Volkov,Alexander Volkov (fighter),2010-09-08,p2818,10,Jailton Almeida,Jailton Almeida,2022-06-16,p2818,False
+2611,2025-11-01,366,UFC Fight Night 263 - Garcia vs. Onama,3583,Norma Dumont,Norma Dumont,2021-01-21,p2818,2634,Ketlen Vieira,Ketlen Vieira,2017-07-05,p2818,False
+1825,2026-02-21,287,UFC Fight Night 267 - Strickland vs. Hernandez,569,Michel Pereira,Michel Pereira,2020-03-15,p2818,639,Zachary Reese,Zachary Reese,2025-11-30,p2818,False
+1811,2026-03-14,286,UFC Fight Night 269 - Emmett vs. Vallejos,3187,Charles Johnson,Charles Johnson (fighter),2024-11-11,p2818,1792,Bruno Silva,Bruno Gustavo da Silva,2020-08-12,p2818,False
+1841,2026-03-21,288,UFC Fight Night 270 - Evloev vs. Murphy,1270,Nathaniel Wood,Nathaniel Wood (fighter),2019-02-02,p2818,1281,Losene Keita,Losene Keita,2024-12-30,p2818,False
+1653,2026-04-11,271,UFC 327 - Prochazka vs. Ulberg,261,Dominick Reyes,Dominick Reyes,2017-06-11,p2818,3479,Johnny Walker,Johnny Walker (fighter),2019-02-03,p2818,False
+1348,2026-04-25,231,UFC Fight Night 274 - Sterling vs. Zalal,1517,Raoni Barcelos,Raoni Barcelos,2017-12-10,p2818,1520,Montel Jackson,Montel Jackson,2019-04-18,p2818,False
+1134,2026-05-09,213,UFC 328 - Chimaev vs. Strickland,500,Sean Strickland,Sean Strickland,2014-06-02,p2818,501,Khamzat Chimaev,Khamzat Chimaev,2020-07-16,p2818,False

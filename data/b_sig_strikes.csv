@@ -1,0 +1,315 @@
+bout_id,fight_date,winner,loser,source,winner_sig_landed,loser_sig_landed,winner_share,winner_td,loser_td,winner_ctrl_sec,loser_ctrl_sec,ufcstats_fight_url,winner_label_agrees
+17883,2015-09-05,Ross Pearson,Paul Felder,jossilva3110,62,60,0.5082,1.0,0.0,185.0,117.0,http://ufcstats.com/fight-details/0449c55a8c24a59e,True
+17866,2015-10-03,Daniel Cormier,Alexander Gustafsson,jossilva3110,140,120,0.5385,1.0,1.0,212.0,60.0,http://ufcstats.com/fight-details/f5de8b2c81e91129,True
+17777,2015-10-24,Krzysztof Jotko,Scott Askham,jossilva3110,38,22,0.6333,2.0,0.0,248.0,142.0,http://ufcstats.com/fight-details/3e39829aedc9346f,True
+17864,2015-11-07,Jimmie Rivera,Pedro Munhoz,jossilva3110,96,66,0.5926,0.0,0.0,8.0,8.0,http://ufcstats.com/fight-details/d2198a7ae05b24c1,True
+17827,2015-11-21,Neil Magny,Kelvin Gastelum,jossilva3110,54,54,0.5,6.0,2.0,337.0,433.0,http://ufcstats.com/fight-details/d3ccf71e68480007,True
+17829,2015-11-21,Henry Cejudo,Jussier Formiga,jossilva3110,43,25,0.6324,2.0,0.0,76.0,0.0,http://ufcstats.com/fight-details/e8d087f822be7b02,True
+17816,2015-11-28,Benson Henderson,Jorge Masvidal,jossilva3110,86,77,0.5276,3.0,1.0,411.0,228.0,http://ufcstats.com/fight-details/982f4f96b6d0f346,True
+17821,2015-11-28,Mike de la Torre,Yui Chul Nam,jossilva3110,47,53,0.47,0.0,1.0,236.0,305.0,http://ufcstats.com/fight-details/85168b8d99f7ce42,True
+17735,2015-12-10,Zubaira Tukhugov,Phillipe Nover,jossilva3110,21,20,0.5122,1.0,0.0,38.0,21.0,http://ufcstats.com/fight-details/f2ac86cd3e863243,True
+17806,2015-12-12,Yoel Romero,Ronaldo Souza,jossilva3110,46,30,0.6053,0.0,1.0,118.0,153.0,http://ufcstats.com/fight-details/f83c6bdd553b5851,True
+17814,2015-12-12,Yancy Medeiros,John Makdessi,jossilva3110,80,114,0.4124,0.0,0.0,14.0,0.0,http://ufcstats.com/fight-details/064404b0aaf6f95d,True
+17797,2015-12-19,Valentina Shevchenko,Sarah Kaufman,jossilva3110,32,27,0.5424,4.0,1.0,375.0,292.0,http://ufcstats.com/fight-details/b26ec098a5a57401,True
+17799,2015-12-19,Nik Lentz,Danny Castillo,jossilva3110,59,57,0.5086,3.0,2.0,95.0,213.0,http://ufcstats.com/fight-details/0ad5c6752e679de5,True
+17737,2016-01-02,Robbie Lawler,Carlos Condit,jossilva3110,92,176,0.3433,0.0,0.0,41.0,10.0,http://ufcstats.com/fight-details/f079cb2db8dbbf04,True
+17739,2016-01-02,Albert Tumenov,Lorenz Larkin,jossilva3110,76,69,0.5241,0.0,0.0,17.0,14.0,http://ufcstats.com/fight-details/050eb872a69c66bd,True
+17747,2016-01-02,Michinori Tanaka,Joe Soto,jossilva3110,57,71,0.4453,3.0,1.0,306.0,14.0,http://ufcstats.com/fight-details/b46b27222e62aec1,True
+17712,2016-01-17,Dominick Cruz,T.J. Dillashaw,jossilva3110,112,109,0.5068,4.0,1.0,33.0,71.0,http://ufcstats.com/fight-details/c4938baf92d2dc31,True
+17713,2016-01-17,Eddie Alvarez,Anthony Pettis,jossilva3110,42,56,0.4286,6.0,0.0,457.0,0.0,http://ufcstats.com/fight-details/3ce6f9eb59a1e149,True
+17652,2016-02-27,Brad Pickett,Francisco Rivera,jossilva3110,39,69,0.3611,3.0,2.0,200.0,21.0,http://ufcstats.com/fight-details/7c20284c4c2dc9d3,True
+17647,2016-03-19,Ross Pearson,Chad Laprise,jossilva3110,52,78,0.4,0.0,0.0,0.0,1.0,http://ufcstats.com/fight-details/f7c9f7a6edca5299,True
+17599,2016-04-10,Lucas Martins,Robert Whiteford,jossilva3110,30,45,0.4,0.0,1.0,0.0,95.0,http://ufcstats.com/fight-details/42afd8c4fc85f485,True
+17607,2016-04-16,Raquel Pennington,Bethe Correia,jossilva3110,75,66,0.5319,0.0,0.0,63.0,125.0,http://ufcstats.com/fight-details/377c8eb085bb8e00,True
+17616,2016-05-14,Mauricio Rua,Corey Anderson,jossilva3110,48,55,0.466,0.0,4.0,12.0,341.0,http://ufcstats.com/fight-details/8ec7d82619bfb564,True
+17530,2016-05-29,Lorenz Larkin,Jorge Masvidal,jossilva3110,44,48,0.4783,1.0,1.0,127.0,167.0,http://ufcstats.com/fight-details/8d975de5d033ccde,True
+17536,2016-05-29,Bryan Caraway,Aljamain Sterling,jossilva3110,9,32,0.2195,3.0,1.0,394.0,231.0,http://ufcstats.com/fight-details/6e093a1d4286dad6,True
+17560,2016-06-04,Sean Strickland,Tom Breese,jossilva3110,73,62,0.5407,0.0,0.0,18.0,12.0,http://ufcstats.com/fight-details/3e020d62796a7ce3,True
+17543,2016-06-18,Jason Saggo,Leandro Silva,jossilva3110,48,47,0.5053,1.0,2.0,200.0,72.0,http://ufcstats.com/fight-details/2e11087e1a4f066b,True
+17515,2016-07-07,Derrick Lewis,Roy Nelson,jossilva3110,37,4,0.9024,0.0,7.0,3.0,579.0,http://ufcstats.com/fight-details/9a984ea967886979,True
+17457,2016-07-30,Karolina Kowalkiewicz,Rose Namajunas,jossilva3110,84,70,0.5455,0.0,2.0,139.0,145.0,http://ufcstats.com/fight-details/7f3763caa99a3486,True
+17460,2016-07-30,Ryan Benoit,Fredy Serrano,jossilva3110,31,22,0.5849,0.0,5.0,85.0,298.0,http://ufcstats.com/fight-details/c8f946610906bffe,True
+17411,2016-08-06,Yair Rodriguez,Alex Caceres,jossilva3110,120,62,0.6593,1.0,1.0,32.0,98.0,http://ufcstats.com/fight-details/570f3407722cc512,True
+17404,2016-08-27,Jim Miller,Joe Lauzon,jossilva3110,80,54,0.597,0.0,3.0,8.0,371.0,http://ufcstats.com/fight-details/e15b393a27c07043,True
+17440,2016-09-10,Bethe Correia,Jessica Eye,jossilva3110,49,52,0.4851,0.0,0.0,60.0,3.0,http://ufcstats.com/fight-details/e9ffcf05270a320a,True
+17441,2016-09-10,Brad Tavares,Caio Magalhaes,jossilva3110,46,26,0.6389,0.0,1.0,120.0,167.0,http://ufcstats.com/fight-details/c8ca99d1adc5448d,True
+17392,2016-09-17,Roan Carneiro,Kenny Robertson,jossilva3110,33,28,0.541,2.0,0.0,157.0,190.0,http://ufcstats.com/fight-details/054f1423ba7c121e,True
+17315,2016-10-01,John Lineker,John Dodson,jossilva3110,93,101,0.4794,0.0,0.0,0.0,23.0,http://ufcstats.com/fight-details/8793208907eca67f,True
+17321,2016-10-01,Shamil Abdurakhimov,Walt Harris,jossilva3110,47,33,0.5875,1.0,0.0,43.0,29.0,http://ufcstats.com/fight-details/412735f3e0b66ea6,True
+17286,2016-10-08,Leonardo Santos,Adriano Martins,jossilva3110,23,34,0.4035,0.0,0.0,0.0,0.0,http://ufcstats.com/fight-details/87b61c1d72232a84,True
+17496,2016-11-05,Erik Perez,Felipe Arantes,jossilva3110,36,34,0.5143,3.0,0.0,426.0,115.0,http://ufcstats.com/fight-details/51010081d59b4687,True
+17264,2016-11-19,Steven Ray,Ross Pearson,jossilva3110,49,38,0.5632,1.0,0.0,191.0,8.0,http://ufcstats.com/fight-details/6b5fe10e6e7d160a,True
+17265,2016-11-19,Alexander Volkov,Tim Johnson,jossilva3110,45,43,0.5114,1.0,1.0,226.0,273.0,http://ufcstats.com/fight-details/689116759885e4a5,True
+17227,2016-12-03,Joseph Benavidez,Henry Cejudo,jossilva3110,69,68,0.5036,0.0,1.0,1.0,13.0,http://ufcstats.com/fight-details/5e1370a92ce8abb0,True
+17213,2016-12-10,Dustin Ortiz,Zach Makovsky,jossilva3110,34,21,0.6182,4.0,4.0,490.0,127.0,http://ufcstats.com/fight-details/d573e571d8349b5d,True
+17182,2016-12-30,Dong Hyun Kim,Tarec Saffiedine,jossilva3110,36,52,0.4091,3.0,2.0,319.0,85.0,http://ufcstats.com/fight-details/3d07a533feca7458,True
+17168,2017-01-15,Joe Lauzon,Marcin Held,jossilva3110,20,23,0.4651,1.0,5.0,97.0,492.0,http://ufcstats.com/fight-details/00720c46f864fe03,True
+17160,2017-01-28,Raphael Assuncao,Aljamain Sterling,jossilva3110,39,52,0.4286,0.0,0.0,0.0,2.0,http://ufcstats.com/fight-details/637f561cd731fb44,True
+17129,2017-02-19,Randa Markos,Carla Esparza,jossilva3110,48,32,0.6,0.0,4.0,18.0,165.0,http://ufcstats.com/fight-details/e4c4c54a10e06973,True
+17113,2017-03-04,Daniel Kelly,Rashad Evans,jossilva3110,74,53,0.5827,0.0,1.0,10.0,7.0,http://ufcstats.com/fight-details/e3ca9462ad0d7685,True
+17091,2017-03-18,Arnold Allen,Makwan Amirkhani,jossilva3110,32,17,0.6531,3.0,4.0,335.0,335.0,http://ufcstats.com/fight-details/7ec86f2af631344f,True
+17094,2017-03-18,Tim Johnson,Daniel Omielanczuk,jossilva3110,52,54,0.4906,1.0,0.0,522.0,35.0,http://ufcstats.com/fight-details/f99ee57f75b20b69,True
+17097,2017-03-18,Bradley Scott,Scott Askham,jossilva3110,72,86,0.4557,0.0,1.0,75.0,26.0,http://ufcstats.com/fight-details/794b63b4c1e1e789,True
+17016,2017-04-15,Rashid Magomedov,King Green,jossilva3110,75,75,0.5,0.0,0.0,0.0,149.0,http://ufcstats.com/fight-details/f24c296256faeff2,True
+17050,2017-05-13,Demian Maia,Jorge Masvidal,jossilva3110,23,39,0.371,4.0,0.0,534.0,54.0,http://ufcstats.com/fight-details/6e3139f066149a81,True
+17052,2017-05-13,David Branch,Krzysztof Jotko,jossilva3110,39,28,0.5821,2.0,1.0,312.0,58.0,http://ufcstats.com/fight-details/362a5b3cd4a70330,True
+16977,2017-05-28,Omari Akhmedov,Abdul Razak Alhassan,jossilva3110,52,43,0.5474,6.0,0.0,340.0,1.0,http://ufcstats.com/fight-details/78e38f1ad43c3479,True
+16982,2017-05-28,Joaquim Silva,Reza Madadi,jossilva3110,40,26,0.6061,0.0,5.0,123.0,337.0,http://ufcstats.com/fight-details/2c101a0bcf334d31,True
+17003,2017-06-03,Raphael Assuncao,Marlon Moraes,jossilva3110,43,44,0.4943,0.0,0.0,0.0,0.0,http://ufcstats.com/fight-details/228879162d8be605,True
+16881,2017-07-22,Darren Elkins,Dennis Bermudez,jossilva3110,70,69,0.5036,3.0,1.0,244.0,158.0,http://ufcstats.com/fight-details/8028d5de087755dc,True
+16882,2017-07-22,Patrick Cummins,Gian Villante,jossilva3110,86,72,0.5443,1.0,0.0,184.0,0.0,http://ufcstats.com/fight-details/76d6789779d3721c,True
+16858,2017-08-05,Alexa Grasso,Randa Markos,jossilva3110,64,45,0.5872,0.0,4.0,130.0,236.0,http://ufcstats.com/fight-details/d5598322f81db6c9,True
+16861,2017-08-05,Sam Alvey,Rashad Evans,jossilva3110,40,17,0.7018,0.0,2.0,5.0,267.0,http://ufcstats.com/fight-details/c8f619a71b714ec7,True
+16862,2017-08-05,Alejandro Perez,Andre Soukhamthath,jossilva3110,44,43,0.5057,1.0,0.0,133.0,8.0,http://ufcstats.com/fight-details/48f7e64b548806cd,True
+16869,2017-09-09,Amanda Nunes,Valentina Shevchenko,jossilva3110,86,72,0.5443,2.0,0.0,152.0,0.0,http://ufcstats.com/fight-details/cb16346d93746ebc,True
+16762,2017-09-16,Olivier Aubin-Mercier,Anthony Rocco Martin,jossilva3110,20,15,0.5714,4.0,0.0,302.0,311.0,http://ufcstats.com/fight-details/52e4f12eaeffd142,True
+16853,2017-09-22,Keita Nakamura,Alex Morono,jossilva3110,27,38,0.4154,2.0,0.0,45.0,0.0,http://ufcstats.com/fight-details/296cc69bcc3c1635,True
+16829,2017-10-07,Cody Stamann,Tom Duquesnoy,jossilva3110,66,33,0.6667,4.0,1.0,170.0,17.0,http://ufcstats.com/fight-details/e08479759c296bb1,True
+16684,2017-11-11,Cezar Ferreira,Nate Marquardt,jossilva3110,47,36,0.5663,2.0,0.0,284.0,41.0,http://ufcstats.com/fight-details/7ad85c84025c0db0,True
+16687,2017-11-11,Marlon Moraes,John Dodson,jossilva3110,45,43,0.5114,1.0,2.0,65.0,27.0,http://ufcstats.com/fight-details/5519d7fe2cee8353,True
+16813,2017-11-18,Belal Muhammad,Tim Means,jossilva3110,88,91,0.4916,1.0,0.0,21.0,0.0,http://ufcstats.com/fight-details/5ebe8d3849273776,True
+16814,2017-11-18,Jake Matthews,Bojan Velickovic,jossilva3110,20,24,0.4545,4.0,1.0,425.0,276.0,http://ufcstats.com/fight-details/344bfe9c1ff511bb,True
+16820,2017-11-18,Frank Camacho,Damien Brown,jossilva3110,154,104,0.5969,1.0,2.0,137.0,131.0,http://ufcstats.com/fight-details/823797bc6d532b52,True
+16802,2017-12-01,Lauren Murphy,Barb Honchak,jossilva3110,59,71,0.4538,2.0,0.0,208.0,21.0,http://ufcstats.com/fight-details/dd0c8e9880c6fa24,True
+16784,2017-12-02,Felice Herrig,Cortney Casey,jossilva3110,76,91,0.4551,1.0,0.0,95.0,7.0,http://ufcstats.com/fight-details/1a502852b706f674,True
+16700,2017-12-09,Alexis Davis,Liz Carmouche,jossilva3110,23,49,0.3194,1.0,4.0,351.0,393.0,http://ufcstats.com/fight-details/10a1947cb3feabc1,True
+16665,2018-01-20,Gian Villante,Francimar Barroso,jossilva3110,74,74,0.5,0.0,0.0,0.0,0.0,http://ufcstats.com/fight-details/5cf56c22cbc24758,True
+16605,2018-01-27,Andre Fili,Dennis Bermudez,jossilva3110,80,103,0.4372,4.0,1.0,50.0,192.0,http://ufcstats.com/fight-details/27901ef9e82d5690,True
+16612,2018-01-27,Ji Yeon Kim,Justine Kish,jossilva3110,68,96,0.4146,0.0,0.0,0.0,0.0,http://ufcstats.com/fight-details/6e65bec924996b5a,True
+16640,2018-02-03,Lyoto Machida,Eryk Anders,jossilva3110,62,32,0.6596,0.0,3.0,138.0,226.0,http://ufcstats.com/fight-details/420dd305cd1d062f,True
+16646,2018-02-03,Sergio Moraes,Tim Means,jossilva3110,87,129,0.4028,0.0,0.0,0.0,81.0,http://ufcstats.com/fight-details/eb0f7127f22457e9,True
+16633,2018-02-10,Dong Hyun Ma,Damien Brown,jossilva3110,67,46,0.5929,0.0,0.0,0.0,0.0,http://ufcstats.com/fight-details/6cb9bc7c86ae43b9,True
+16620,2018-03-03,Ketlen Vieira,Cat Zingano,jossilva3110,41,59,0.41,2.0,0.0,607.0,14.0,http://ufcstats.com/fight-details/1f52e665587dc645,True
+16621,2018-03-03,Mackenzie Dern,Ashley Yoder,jossilva3110,70,52,0.5738,1.0,0.0,351.0,43.0,http://ufcstats.com/fight-details/ead2ca0d2afb46be,True
+16623,2018-03-03,John Dodson,Pedro Munhoz,jossilva3110,76,69,0.5241,0.0,1.0,0.0,62.0,http://ufcstats.com/fight-details/c73b81e7c1c1cccc,True
+16626,2018-03-03,Cody Stamann,Bryan Caraway,jossilva3110,95,59,0.6169,0.0,1.0,0.0,299.0,http://ufcstats.com/fight-details/12a64dfb8147566b,True
+16627,2018-03-03,Jordan Johnson,Adam Milstead,jossilva3110,59,58,0.5043,2.0,0.0,432.0,0.0,http://ufcstats.com/fight-details/84f236d6c57d7cfb,True
+16578,2018-03-17,Kajan Johnson,Steven Ray,jossilva3110,33,24,0.5789,2.0,3.0,252.0,100.0,http://ufcstats.com/fight-details/fe9ee00fa47dd7b3,True
+16552,2018-04-07,Karolina Kowalkiewicz,Felice Herrig,jossilva3110,126,86,0.5943,0.0,0.0,70.0,104.0,http://ufcstats.com/fight-details/5315bd4542b21c4b,True
+16535,2018-04-14,Israel Adesanya,Marvin Vettori,jossilva3110,57,46,0.5534,0.0,2.0,0.0,199.0,http://ufcstats.com/fight-details/b8b9a8e504d51ba5,True
+16536,2018-04-14,Michelle Waterson-Gomez,Cortney Casey,jossilva3110,61,36,0.6289,3.0,0.0,365.0,102.0,http://ufcstats.com/fight-details/57d05d28e3fbee4f,True
+16499,2018-05-12,Kelvin Gastelum,Ronaldo Souza,jossilva3110,53,64,0.453,0.0,1.0,35.0,208.0,http://ufcstats.com/fight-details/d86e31793564cd31,True
+16466,2018-05-19,Michel Prazeres,Zak Cummings,jossilva3110,30,28,0.5172,3.0,0.0,164.0,133.0,http://ufcstats.com/fight-details/df0d4130944776d9,True
+16440,2018-05-27,Makwan Amirkhani,Jason Knight,jossilva3110,27,29,0.4821,3.0,0.0,14.0,416.0,http://ufcstats.com/fight-details/52565f62fb3822db,True
+16478,2018-06-01,Sam Alvey,Gian Villante,jossilva3110,53,50,0.5146,0.0,0.0,0.0,6.0,http://ufcstats.com/fight-details/194d73490eb731c6,True
+16485,2018-06-09,Robert Whittaker,Yoel Romero,jossilva3110,128,111,0.5356,0.0,3.0,37.0,261.0,http://ufcstats.com/fight-details/5a09fd7cb3db9705,True
+16491,2018-06-09,Claudia Gadelha,Carla Esparza,jossilva3110,26,43,0.3768,4.0,2.0,300.0,216.0,http://ufcstats.com/fight-details/c3425412e4f2f486,True
+16492,2018-06-09,Mirsad Bektic,Ricardo Lamas,jossilva3110,31,34,0.4769,2.0,0.0,517.0,54.0,http://ufcstats.com/fight-details/32990cbf8976d94b,True
+16495,2018-06-09,Sergio Pettis,Joseph Benavidez,jossilva3110,74,59,0.5564,0.0,2.0,0.0,264.0,http://ufcstats.com/fight-details/5e2f2f5d9a756de9,True
+16370,2018-06-23,Matt Schnell,Naoki Inoue,jossilva3110,71,48,0.5966,0.0,0.0,0.0,37.0,http://ufcstats.com/fight-details/d5176b45df32f67e,True
+16451,2018-07-06,Alex Caceres,Martin Bravo,jossilva3110,82,78,0.5125,0.0,3.0,44.0,220.0,http://ufcstats.com/fight-details/674f3fa16e717ff1,True
+16453,2018-07-06,Alessio Di Chirico,Julian Marquez,jossilva3110,50,47,0.5155,4.0,0.0,239.0,3.0,http://ufcstats.com/fight-details/760b90b0805e0fbf,True
+16524,2018-07-07,Mike Perry,Paul Felder,jossilva3110,62,56,0.5254,2.0,0.0,180.0,45.0,http://ufcstats.com/fight-details/7a3947a0e7bc3558,True
+16426,2018-07-14,Ricky Glenn,Dennis Bermudez,jossilva3110,48,42,0.5333,0.0,6.0,34.0,259.0,http://ufcstats.com/fight-details/786296db3c4749f1,True
+16417,2018-07-22,Damir Hadzovic,Nick Hein,jossilva3110,71,43,0.6228,0.0,0.0,6.0,0.0,http://ufcstats.com/fight-details/3ce7f58911773a56,True
+16387,2018-08-04,Henry Cejudo,Demetrious Johnson,jossilva3110,51,81,0.3864,3.0,1.0,277.0,36.0,http://ufcstats.com/fight-details/f2ca358ea9bec156,True
+16393,2018-08-04,Ricardo Ramos,Kyung Ho Kang,jossilva3110,54,65,0.4538,1.0,1.0,58.0,127.0,http://ufcstats.com/fight-details/65223fa6055df489,True
+16374,2018-08-25,Michael Johnson,Andre Fili,jossilva3110,65,37,0.6373,0.0,2.0,90.0,200.0,http://ufcstats.com/fight-details/48a9d2a3967d13a4,True
+16375,2018-08-25,Cortney Casey,Angela Hill,jossilva3110,111,121,0.4784,1.0,1.0,102.0,23.0,http://ufcstats.com/fight-details/f20e742e6b0c0b3b,True
+16346,2018-09-08,Irene Aldana,Lucie Pudilova,jossilva3110,119,105,0.5312,0.0,0.0,2.0,18.0,http://ufcstats.com/fight-details/a65909d4083c2088,True
+16354,2018-09-15,Rustam Khabilov,Kajan Johnson,jossilva3110,17,44,0.2787,3.0,0.0,251.0,0.0,http://ufcstats.com/fight-details/ba33d0868b25483b,True
+16300,2018-10-27,Gian Villante,Ed Herman,jossilva3110,81,84,0.4909,0.0,0.0,4.0,6.0,http://ufcstats.com/fight-details/53d6e37063f9c404,True
+16213,2018-12-08,Hakeem Dawodu,Kyle Bochniak,jossilva3110,103,42,0.7103,0.0,2.0,2.0,112.0,http://ufcstats.com/fight-details/e0e22d7bc5a293e8,True
+16217,2018-12-08,Jessica Eye,Katlyn Cerminara,jossilva3110,81,65,0.5548,0.0,0.0,20.0,50.0,http://ufcstats.com/fight-details/00b1e95f6aea7027,True
+16218,2018-12-08,Elias Theodorou,Eryk Anders,jossilva3110,92,65,0.586,0.0,0.0,36.0,23.0,http://ufcstats.com/fight-details/7d679c16024f6f38,True
+16145,2019-02-02,Thiago Alves,Max Griffin,jossilva3110,83,112,0.4256,0.0,2.0,73.0,220.0,http://ufcstats.com/fight-details/59097097bc09cdef,True
+16089,2019-03-16,Leon Edwards,Gunnar Nelson,jossilva3110,31,9,0.775,2.0,3.0,209.0,262.0,http://ufcstats.com/fight-details/e068f14acd47ed69,True
+16090,2019-03-16,Dominick Reyes,Volkan Oezdemir,jossilva3110,44,35,0.557,0.0,1.0,0.0,95.0,http://ufcstats.com/fight-details/826fb989c0e6208e,True
+16029,2019-04-20,Roxanne Modafferi,Antonina Shevchenko,jossilva3110,33,64,0.3402,5.0,0.0,540.0,50.0,http://ufcstats.com/fight-details/a40c70d5a1a1be01,True
+16017,2019-04-27,Cory Sandhagen,John Lineker,jossilva3110,120,106,0.531,2.0,1.0,36.0,15.0,http://ufcstats.com/fight-details/bcb697c4317f0997,True
+16020,2019-04-27,Augusto Sakai,Andrei Arlovski,jossilva3110,42,75,0.359,0.0,0.0,122.0,26.0,http://ufcstats.com/fight-details/3256d907f58af95e,True
+16025,2019-04-27,Dhiego Lima,Court McGee,jossilva3110,65,65,0.5,0.0,0.0,41.0,61.0,http://ufcstats.com/fight-details/7c13de66ce543d84,True
+16003,2019-05-04,Shane Burgos,Cub Swanson,jossilva3110,134,129,0.5095,0.0,0.0,0.0,97.0,http://ufcstats.com/fight-details/feaf740e3ae53b7c,True
+15916,2019-07-06,Jon Jones,Thiago Santos,jossilva3110,59,43,0.5784,0.0,0.0,0.0,0.0,http://ufcstats.com/fight-details/8fcdfee81cc604e3,True
+15873,2019-07-20,Raquel Pennington,Irene Aldana,jossilva3110,47,52,0.4747,1.0,0.0,329.0,2.0,http://ufcstats.com/fight-details/017e0b7e864b0aa3,True
+15831,2019-08-10,Vicente Luque,Mike Perry,jossilva3110,84,87,0.4912,0.0,0.0,0.0,199.0,http://ufcstats.com/fight-details/7feadf01c5920285,True
+15914,2019-08-17,Kyung Ho Kang,Brandon Davis,jossilva3110,50,77,0.3937,3.0,1.0,380.0,24.0,http://ufcstats.com/fight-details/445d0d44091b902a,True
+15892,2019-09-07,Paul Felder,Edson Barboza,jossilva3110,56,60,0.4828,0.0,1.0,123.0,110.0,http://ufcstats.com/fight-details/357a34207d70da69,True
+15896,2019-09-07,Joanne Wood,Andrea Lee,jossilva3110,101,61,0.6235,2.0,3.0,133.0,259.0,http://ufcstats.com/fight-details/77f123712368bcbc,True
+15808,2019-09-14,Glover Teixeira,Nikita Krylov,jossilva3110,43,47,0.4778,1.0,2.0,260.0,279.0,http://ufcstats.com/fight-details/36d90f1812f0d432,True
+15811,2019-09-14,Uriah Hall,Antonio Carlos Jr.,jossilva3110,34,22,0.6071,0.0,3.0,25.0,642.0,http://ufcstats.com/fight-details/ece3a7a9e930ef9d,True
+15682,2019-10-05,Dhiego Lima,Luke Jumeau,jossilva3110,32,24,0.5714,2.0,0.0,159.0,0.0,http://ufcstats.com/fight-details/fd0fd9a2d6ef8c4f,True
+15669,2019-10-12,Matt Frevola,Luis Pena,jossilva3110,48,51,0.4848,4.0,1.0,170.0,65.0,http://ufcstats.com/fight-details/bed2710e06dabe6a,True
+15670,2019-10-12,Eryk Anders,Gerald Meerschaert,jossilva3110,64,72,0.4706,0.0,0.0,8.0,0.0,http://ufcstats.com/fight-details/834f67e96612cd6f,True
+15646,2019-10-26,Randa Markos,Ashley Yoder,jossilva3110,78,44,0.6393,0.0,2.0,185.0,336.0,http://ufcstats.com/fight-details/1f9a6f2120835615,True
+15630,2019-11-02,Darren Till,Kelvin Gastelum,jossilva3110,36,40,0.4737,1.0,1.0,39.0,163.0,http://ufcstats.com/fight-details/7c40aa2cb6883a91,True
+15632,2019-11-02,Derrick Lewis,Blagoy Ivanov,jossilva3110,31,20,0.6078,1.0,3.0,127.0,202.0,http://ufcstats.com/fight-details/f870cacadb058733,True
+15640,2019-11-02,Hakeem Dawodu,Julio Arce,jossilva3110,55,32,0.6322,0.0,1.0,219.0,56.0,http://ufcstats.com/fight-details/d7cbe2f23d75afd1,True
+15617,2019-11-16,Jan Blachowicz,Ronaldo Souza,jossilva3110,71,20,0.7802,0.0,0.0,4.0,505.0,http://ufcstats.com/fight-details/c04274c8caa505dd,True
+15595,2019-12-14,Marlon Moraes,Jose Aldo,jossilva3110,59,58,0.5043,1.0,0.0,20.0,0.0,http://ufcstats.com/fight-details/b5ec939fd1edf048,True
+15580,2019-12-21,Volkan Oezdemir,Aleksandar Rakic,jossilva3110,63,75,0.4565,0.0,1.0,32.0,158.0,http://ufcstats.com/fight-details/2b8cae68963a40a9,True
+15584,2019-12-21,Kyung Ho Kang,Pingyuan Liu,jossilva3110,20,25,0.4444,3.0,0.0,743.0,17.0,http://ufcstats.com/fight-details/f93f794247af708a,True
+15534,2020-02-08,Dan Ige,Mirsad Bektic,jossilva3110,43,17,0.7167,1.0,3.0,53.0,392.0,http://ufcstats.com/fight-details/be822403f364fff3,True
+15536,2020-02-08,Trevin Giles,James Krause,jossilva3110,71,44,0.6174,0.0,1.0,219.0,233.0,http://ufcstats.com/fight-details/11f7bac5037a184c,True
+15537,2020-02-08,Lauren Murphy,Andrea Lee,jossilva3110,80,104,0.4348,2.0,0.0,151.0,37.0,http://ufcstats.com/fight-details/cb56e868deaddac4,True
+15541,2020-02-08,Andre Ewell,Jonathan Martinez,jossilva3110,80,66,0.5479,0.0,0.0,2.0,90.0,http://ufcstats.com/fight-details/326b843cb2b7fd94,True
+15494,2020-02-23,Dan Hooker,Paul Felder,jossilva3110,122,110,0.5259,1.0,0.0,305.0,3.0,http://ufcstats.com/fight-details/5fceb95c29d929bc,True
+15484,2020-03-07,Weili Zhang,Joanna Jedrzejczyk,jossilva3110,165,186,0.4701,1.0,0.0,73.0,61.0,http://ufcstats.com/fight-details/cf0a6466b762c668,True
+15487,2020-03-07,Alex Oliveira,Max Griffin,jossilva3110,40,23,0.6349,1.0,2.0,211.0,335.0,http://ufcstats.com/fight-details/4d607b6ddc77a34c,True
+15466,2020-05-09,Alexey Oleynik,Fabricio Werdum,jossilva3110,94,53,0.6395,0.0,3.0,233.0,235.0,http://ufcstats.com/fight-details/593f3b051aa82b0f,True
+15467,2020-05-09,Carla Esparza,Michelle Waterson-Gomez,jossilva3110,45,44,0.5056,1.0,0.0,46.0,0.0,http://ufcstats.com/fight-details/f2520dd5457ab293,True
+15470,2020-05-09,Ryan Spann,Sam Alvey,jossilva3110,51,57,0.4722,2.0,0.0,181.0,29.0,http://ufcstats.com/fight-details/b70dfff154b135bf,True
+15385,2020-05-13,Ben Rothwell,Ovince St. Preux,jossilva3110,56,42,0.5714,1.0,0.0,349.0,22.0,http://ufcstats.com/fight-details/394ae51820bedd4c,True
+15387,2020-05-13,Ricky Simon,Ray Borg,jossilva3110,67,47,0.5877,7.0,0.0,323.0,30.0,http://ufcstats.com/fight-details/3094e82731ec55e7,True
+15439,2020-05-16,Claudia Gadelha,Angela Hill,jossilva3110,84,90,0.4828,1.0,0.0,167.0,37.0,http://ufcstats.com/fight-details/27bfb9205119f23b,True
+15440,2020-05-16,Dan Ige,Edson Barboza,jossilva3110,79,80,0.4969,1.0,0.0,126.0,115.0,http://ufcstats.com/fight-details/58540b24ed77d31b,True
+15374,2020-05-30,Augusto Sakai,Blagoy Ivanov,jossilva3110,78,66,0.5417,0.0,1.0,106.0,68.0,http://ufcstats.com/fight-details/a6743d41b0b95271,True
+15408,2020-06-13,Charles Rosa,Kevin Aguilar,jossilva3110,69,53,0.5656,0.0,0.0,0.0,4.0,http://ufcstats.com/fight-details/1109a8f2adc81ce0,True
+15361,2020-07-11,Alexander Volkanovski,Max Holloway,jossilva3110,137,102,0.5732,3.0,0.0,86.0,0.0,http://ufcstats.com/fight-details/94b1596c6ff9a25d,True
+15363,2020-07-11,Rose Namajunas,Jessica Andrade,jossilva3110,82,71,0.5359,0.0,1.0,0.0,29.0,http://ufcstats.com/fight-details/e16f42a666e163d8,True
+15366,2020-07-11,Muslim Salikhov,Elizeu Zaleski dos Santos,jossilva3110,40,46,0.4651,0.0,0.0,2.0,53.0,http://ufcstats.com/fight-details/ce7cd2ec773bea7f,True
+15334,2020-07-25,Mauricio Rua,Antonio Rogerio Nogueira,jossilva3110,54,46,0.54,2.0,0.0,177.0,81.0,http://ufcstats.com/fight-details/a3820f1eb82f2ba6,True
+15336,2020-07-25,Carla Esparza,Marina Rodriguez,jossilva3110,33,40,0.4521,5.0,0.0,534.0,64.0,http://ufcstats.com/fight-details/5632f2364016e879,True
+15294,2020-08-22,Frankie Edgar,Pedro Munhoz,jossilva3110,135,166,0.4485,2.0,0.0,18.0,0.0,http://ufcstats.com/fight-details/dfe14e13aa727a0c,True
+15260,2020-09-12,Michelle Waterson-Gomez,Angela Hill,jossilva3110,128,131,0.4942,1.0,0.0,243.0,130.0,http://ufcstats.com/fight-details/0ffbf3096a13b47e,True
+15251,2020-09-19,Kevin Holland,Darren Stewart,jossilva3110,74,57,0.5649,0.0,3.0,215.0,249.0,http://ufcstats.com/fight-details/78c3ca588e55bf31,True
+15307,2020-09-26,Hakeem Dawodu,Zubaira Tukhugov,jossilva3110,69,35,0.6635,0.0,1.0,0.0,123.0,http://ufcstats.com/fight-details/5a00c73efbcf323e,True
+15140,2020-11-14,Rafael dos Anjos,Paul Felder,jossilva3110,92,98,0.4842,6.0,1.0,855.0,100.0,http://ufcstats.com/fight-details/80cb3cf9134b677c,True
+15125,2020-12-05,Roman Dolidze,John Allan,jossilva3110,51,29,0.6375,3.0,1.0,436.0,15.0,http://ufcstats.com/fight-details/4478ee77a647ae9d,True
+15106,2021-01-16,Carlos Felipe,Justin Tafa,jossilva3110,77,86,0.4724,0.0,0.0,41.0,113.0,http://ufcstats.com/fight-details/0165bd3c26f0c076,True
+15107,2021-01-16,Ramazan Emeev,David Zawada,jossilva3110,53,44,0.5464,4.0,1.0,268.0,126.0,http://ufcstats.com/fight-details/3fcd53eb27945231,True
+15021,2021-01-20,Matt Schnell,Tyson Nam,jossilva3110,85,58,0.5944,0.0,0.0,0.0,0.0,http://ufcstats.com/fight-details/57e784028ef2c17d,True
+15088,2021-01-23,Movsar Evloev,Nik Lentz,jossilva3110,82,46,0.6406,2.0,1.0,276.0,86.0,http://ufcstats.com/fight-details/f3ccbfd7036f3cf3,True
+15071,2021-02-06,Beneil Dariush,Diego Ferreira,jossilva3110,62,54,0.5345,5.0,0.0,443.0,58.0,http://ufcstats.com/fight-details/bbade63ca780668f,True
+15048,2021-03-06,Dominick Cruz,Casey Kenney,jossilva3110,89,74,0.546,2.0,0.0,127.0,26.0,http://ufcstats.com/fight-details/f4363f1317b47213,True
+14998,2021-03-13,Matheus Nicolau,Manel Kape,jossilva3110,55,61,0.4741,2.0,0.0,151.0,38.0,http://ufcstats.com/fight-details/01f262b68a6a2223,True
+14978,2021-03-27,Michal Oleksiejczuk,Modestas Bukauskas,jossilva3110,56,58,0.4912,0.0,0.0,69.0,4.0,http://ufcstats.com/fight-details/6002c24f0b7f8cc7,True
+14990,2021-04-10,Jack Shore,Hunter Azure,jossilva3110,36,45,0.4444,6.0,0.0,317.0,242.0,http://ufcstats.com/fight-details/1fee9eca658d9808,True
+14964,2021-04-17,Tracy Cortez,Justine Kish,jossilva3110,66,55,0.5455,3.0,0.0,386.0,38.0,http://ufcstats.com/fight-details/0b2c3c4306620d6d,True
+14943,2021-05-01,T.J. Brown,Kai Kamaka III,jossilva3110,82,61,0.5734,2.0,1.0,36.0,338.0,http://ufcstats.com/fight-details/d72f9b3ac742a9e3,True
+14922,2021-05-15,Lando Vannata,Mike Grundy,jossilva3110,80,32,0.7143,1.0,3.0,23.0,157.0,http://ufcstats.com/fight-details/be2e28ba3bdeb400,True
+14907,2021-05-22,Norma Dumont,Felicia Spencer,jossilva3110,68,47,0.5913,1.0,0.0,81.0,178.0,http://ufcstats.com/fight-details/138f719d370e8ba0,True
+14871,2021-06-05,Ilir Latifi,Tanner Boser,jossilva3110,10,45,0.1818,2.0,0.0,398.0,42.0,http://ufcstats.com/fight-details/0716a38768a34789,True
+14876,2021-06-05,Sean Woodson,Youssef Zalal,jossilva3110,40,42,0.4878,0.0,2.0,63.0,381.0,http://ufcstats.com/fight-details/73a83b2595416f0a,True
+14897,2021-06-12,Lauren Murphy,Joanne Wood,jossilva3110,80,123,0.3941,1.0,0.0,294.0,6.0,http://ufcstats.com/fight-details/34cb6e9952cd30a4,True
+14903,2021-06-12,Carlos Felipe,Jake Collier,jossilva3110,94,130,0.4196,0.0,0.0,2.0,0.0,http://ufcstats.com/fight-details/1b4d5dbf5f663a97,True
+14884,2021-06-19,Nicolae Negumereanu,Aleksa Camur,jossilva3110,71,102,0.4104,1.0,0.0,292.0,0.0,http://ufcstats.com/fight-details/744627aec853874e,True
+14863,2021-06-26,Charles Rosa,Justin Jaynes,jossilva3110,51,44,0.5368,2.0,2.0,217.0,173.0,http://ufcstats.com/fight-details/5357dab4d331eb18,True
+14850,2021-07-10,Brad Tavares,Omari Akhmedov,jossilva3110,84,48,0.6364,0.0,2.0,9.0,102.0,http://ufcstats.com/fight-details/1aba46988c9b58f9,True
+14819,2021-07-24,T.J. Dillashaw,Cory Sandhagen,jossilva3110,110,128,0.4622,2.0,0.0,502.0,0.0,http://ufcstats.com/fight-details/214b268e4a92f950,True
+14822,2021-07-24,Maycee Barber,Miranda Maverick,jossilva3110,36,47,0.4337,1.0,1.0,146.0,81.0,http://ufcstats.com/fight-details/7c3ad06a520b8716,True
+14810,2021-08-07,Yadong Song,Casey Kenney,jossilva3110,116,78,0.5979,0.0,1.0,20.0,26.0,http://ufcstats.com/fight-details/962aab0abdd34173,True
+14748,2021-08-21,Mark O. Madsen,Clay Guida,jossilva3110,98,72,0.5765,0.0,0.0,54.0,0.0,http://ufcstats.com/fight-details/3a9e0fed344fd07d,True
+14778,2021-08-28,Wellington Turman,Sam Alvey,jossilva3110,69,68,0.5036,2.0,0.0,174.0,114.0,http://ufcstats.com/fight-details/58d5e4afc2dd35d1,True
+14762,2021-10-02,Krzysztof Jotko,Misha Cirkunov,jossilva3110,41,41,0.5,1.0,5.0,44.0,246.0,http://ufcstats.com/fight-details/dba710edbc3c29ff,True
+14764,2021-10-02,Jared Gordon,Joe Solecki,jossilva3110,51,38,0.573,1.0,4.0,247.0,363.0,http://ufcstats.com/fight-details/3b7eb8e56052a2af,True
+14719,2021-10-09,Chris Gutierrez,Felipe Colares,jossilva3110,96,41,0.7007,0.0,1.0,90.0,239.0,http://ufcstats.com/fight-details/6101249c2cdd1493,True
+14697,2021-10-16,Danny Roberts,Ramazan Emeev,jossilva3110,34,40,0.4595,1.0,2.0,158.0,177.0,http://ufcstats.com/fight-details/e3881a6895be3e9e,True
+14681,2021-10-23,Francisco Trinaldo,Dwight Grant,jossilva3110,36,31,0.5373,1.0,1.0,285.0,11.0,http://ufcstats.com/fight-details/587d373f18f6c8c0,True
+14664,2021-11-06,Rose Namajunas,Weili Zhang,jossilva3110,86,83,0.5089,2.0,5.0,420.0,217.0,http://ufcstats.com/fight-details/19722043e7eb4e39,True
+14645,2021-11-20,Adrian Yanez,Davey Grant,jossilva3110,100,98,0.5051,0.0,0.0,0.0,10.0,http://ufcstats.com/fight-details/9b9ef12603e820ec,True
+14629,2021-12-11,Geoff Neal,Santiago Ponzinibbio,jossilva3110,85,91,0.483,0.0,1.0,3.0,23.0,http://ufcstats.com/fight-details/2d0d13dfc6c37ba8,True
+14616,2021-12-18,Amanda Lemos,Angela Hill,jossilva3110,50,48,0.5102,0.0,1.0,131.0,264.0,http://ufcstats.com/fight-details/2e200563dd7c4922,True
+14567,2022-02-05,Sean Strickland,Jack Hermansson,jossilva3110,153,137,0.5276,0.0,0.0,0.0,31.0,http://ufcstats.com/fight-details/4b67a1875390e7ad,True
+14572,2022-02-05,Julian Erosa,Steven Peterson,jossilva3110,155,148,0.5116,3.0,0.0,112.0,44.0,http://ufcstats.com/fight-details/208c5dc52ccfd47a,True
+14558,2022-02-12,Andrei Arlovski,Jared Vanderaa,jossilva3110,64,70,0.4776,0.0,0.0,0.0,164.0,http://ufcstats.com/fight-details/81c22cfa22002ea4,True
+14559,2022-02-12,Casey O'Neill,Roxanne Modafferi,jossilva3110,229,120,0.6562,0.0,2.0,2.0,66.0,http://ufcstats.com/fight-details/b1e048825b5bbe1c,True
+14545,2022-02-19,Joaquin Buckley,Abdul Razak Alhassan,jossilva3110,51,46,0.5258,5.0,3.0,125.0,214.0,http://ufcstats.com/fight-details/04e2d50c24a88dbd,True
+14485,2022-03-05,Marina Rodriguez,Xiaonan Yan,jossilva3110,72,56,0.5625,0.0,2.0,41.0,93.0,http://ufcstats.com/fight-details/9321b3c90ea5ca6c,True
+14486,2022-03-05,Nicolae Negumereanu,Kennedy Nzechukwu,jossilva3110,64,95,0.4025,1.0,0.0,208.0,0.0,http://ufcstats.com/fight-details/ee278a5a25744cac,True
+14490,2022-03-05,Ludovit Klein,Devonte Smith,jossilva3110,60,53,0.531,0.0,0.0,399.0,14.0,http://ufcstats.com/fight-details/36d9337a27b71ba9,True
+14508,2022-03-26,Bryan Barberena,Matt Brown,jossilva3110,111,81,0.5781,0.0,5.0,57.0,301.0,http://ufcstats.com/fight-details/f3c37e23ca30c87d,True
+14510,2022-03-26,Neil Magny,Max Griffin,jossilva3110,54,67,0.4463,1.0,0.0,273.0,39.0,http://ufcstats.com/fight-details/3f92025b29e06bfd,True
+14454,2022-04-09,Aljamain Sterling,Petr Yan,jossilva3110,62,63,0.496,2.0,0.0,511.0,352.0,http://ufcstats.com/fight-details/9a8964b148cb5923,True
+14456,2022-04-09,Mackenzie Dern,Tecia Pennington,jossilva3110,50,76,0.3968,0.0,0.0,144.0,174.0,http://ufcstats.com/fight-details/d8945e21a63e2451,True
+14407,2022-04-30,Andrei Arlovski,Jake Collier,jossilva3110,91,93,0.4946,0.0,2.0,1.0,218.0,http://ufcstats.com/fight-details/eb277b5ea2a19124,True
+14466,2022-05-07,Carla Esparza,Rose Namajunas,jossilva3110,30,37,0.4478,2.0,1.0,22.0,10.0,http://ufcstats.com/fight-details/9d61012a6020516e,True
+14468,2022-05-07,Ovince St. Preux,Mauricio Rua,jossilva3110,62,54,0.5345,0.0,0.0,15.0,0.0,http://ufcstats.com/fight-details/c020ccbd7cdefb6e,True
+14469,2022-05-07,Randy Brown,Kalinn Williams,jossilva3110,93,75,0.5536,0.0,0.0,11.0,249.0,http://ufcstats.com/fight-details/8390441d93736719,True
+14471,2022-05-07,Macy Chiasson,Norma Dumont,jossilva3110,32,38,0.4571,6.0,0.0,454.0,26.0,http://ufcstats.com/fight-details/fc4939b3c9071e66,True
+14431,2022-05-14,Katlyn Cerminara,Amanda Ribas,jossilva3110,63,55,0.5339,0.0,3.0,6.0,289.0,http://ufcstats.com/fight-details/fad150a0288efbd7,True
+14383,2022-05-21,Ketlen Vieira,Holly Holm,jossilva3110,85,96,0.4696,1.0,0.0,84.0,603.0,http://ufcstats.com/fight-details/7a2c841693b54dd7,True
+14384,2022-05-21,Michel Pereira,Santiago Ponzinibbio,jossilva3110,110,105,0.5116,0.0,1.0,1.0,18.0,http://ufcstats.com/fight-details/5d4fb748ad246269,True
+14387,2022-05-21,Jun Yong Park,Eryk Anders,jossilva3110,105,65,0.6176,0.0,3.0,31.0,285.0,http://ufcstats.com/fight-details/4a789cdd5aaf4439,True
+14356,2022-06-04,Jeff Molina,Zhalgas Zhumagulov,jossilva3110,56,37,0.6022,0.0,2.0,14.0,332.0,http://ufcstats.com/fight-details/7e20b0536fbbd560,True
+14335,2022-06-12,Valentina Shevchenko,Taila Santos,jossilva3110,77,55,0.5833,3.0,3.0,255.0,529.0,http://ufcstats.com/fight-details/049ad6d87b42eba8,True
+14339,2022-06-12,Joshua Culibao,Seung Woo Choi,jossilva3110,51,46,0.5258,0.0,1.0,58.0,150.0,http://ufcstats.com/fight-details/c94b153951be7590,True
+14284,2022-06-18,Josh Emmett,Calvin Kattar,jossilva3110,107,130,0.4515,0.0,0.0,4.0,0.0,http://ufcstats.com/fight-details/6e559181bfbc77e1,True
+14308,2022-06-25,Vanessa Demopoulos,Jinh Yu Frey,jossilva3110,66,62,0.5156,1.0,0.0,254.0,11.0,http://ufcstats.com/fight-details/2c73bf152247f25a,True
+14278,2022-07-09,Jamie Mullarkey,Michael Johnson,jossilva3110,96,66,0.5926,0.0,0.0,17.0,37.0,http://ufcstats.com/fight-details/a103b30f6898de7e,True
+14280,2022-07-09,Antonina Shevchenko,Cortney Casey,jossilva3110,55,33,0.625,0.0,2.0,110.0,188.0,http://ufcstats.com/fight-details/81cbb709dedc914d,True
+14319,2022-07-30,Joselyne Edwards,Ji Yeon Kim,jossilva3110,101,78,0.5642,1.0,0.0,121.0,19.0,http://ufcstats.com/fight-details/0366e183296fea07,True
+14202,2022-08-13,Nina Nunes,Cynthia Calvillo,jossilva3110,39,48,0.4483,0.0,3.0,0.0,129.0,http://ufcstats.com/fight-details/8986373b4a6e90b6,True
+14147,2022-09-17,Andre Fili,Bill Algeo,jossilva3110,59,81,0.4214,1.0,0.0,258.0,7.0,http://ufcstats.com/fight-details/adb78db5ba8ccc0f,True
+14149,2022-09-17,Rodrigo Nascimento,Tanner Boser,jossilva3110,36,62,0.3673,3.0,0.0,481.0,58.0,http://ufcstats.com/fight-details/3cbd3565dd631cc4,True
+14324,2022-10-22,Sean O'Malley,Petr Yan,jossilva3110,84,58,0.5915,0.0,6.0,2.0,344.0,http://ufcstats.com/fight-details/5c3c4bcc6c746ca0,True
+14087,2022-10-29,Max Griffin,Tim Means,jossilva3110,42,47,0.4719,3.0,3.0,313.0,87.0,http://ufcstats.com/fight-details/bf59d9f8bd9536f3,True
+14090,2022-10-29,Khalil Rountree,Dustin Jacoby,jossilva3110,85,120,0.4146,0.0,0.0,0.0,5.0,http://ufcstats.com/fight-details/98b7dd0ddc52cffb,True
+14069,2022-12-03,Clay Guida,Scott Holtzman,jossilva3110,66,65,0.5038,4.0,0.0,335.0,18.0,http://ufcstats.com/fight-details/7bd6969c4ed979f9,True
+14048,2022-12-17,Jared Cannonier,Sean Strickland,jossilva3110,141,152,0.4812,0.0,1.0,0.0,48.0,http://ufcstats.com/fight-details/4ea48bf2407b405d,True
+14004,2023-01-14,Raquel Pennington,Ketlen Vieira,jossilva3110,81,64,0.5586,0.0,0.0,78.0,285.0,http://ufcstats.com/fight-details/622cc4ef46913020,True
+14033,2023-01-21,Nicolas Dalby,Warlley Alves,jossilva3110,119,66,0.6432,0.0,1.0,242.0,129.0,http://ufcstats.com/fight-details/f09c3d8a26806761,True
+13966,2023-03-04,Mateusz Gamrot,Jalin Turner,jossilva3110,29,40,0.4203,4.0,0.0,412.0,32.0,http://ufcstats.com/fight-details/d6d034e98ce85246,True
+13938,2023-03-11,Victor Henry,Tony Gravely,jossilva3110,154,75,0.6725,0.0,3.0,80.0,202.0,http://ufcstats.com/fight-details/c4e4954beb59eca6,True
+13916,2023-03-18,Joanne Wood,Luana Carolina,jossilva3110,131,100,0.5671,2.0,0.0,110.0,42.0,http://ufcstats.com/fight-details/8a3e7085e8e5a6e9,True
+13919,2023-03-25,Cory Sandhagen,Marlon Vera,jossilva3110,128,58,0.6882,3.0,0.0,428.0,9.0,http://ufcstats.com/fight-details/33fa6793a7f984ac,True
+13922,2023-03-25,Maycee Barber,Andrea Lee,jossilva3110,48,39,0.5517,2.0,5.0,45.0,320.0,http://ufcstats.com/fight-details/9433730f95d52fc8,True
+13898,2023-04-08,Luana Pinheiro,Michelle Waterson-Gomez,jossilva3110,44,61,0.419,0.0,1.0,85.0,61.0,http://ufcstats.com/fight-details/95349402616097cd,True
+13900,2023-04-08,Lupita Godinez,Cynthia Calvillo,jossilva3110,87,104,0.4555,0.0,1.0,1.0,75.0,http://ufcstats.com/fight-details/780147f2ed2637d1,True
+13891,2023-04-15,Joselyne Edwards,Lucie Pudilova,jossilva3110,56,39,0.5895,0.0,2.0,29.0,449.0,http://ufcstats.com/fight-details/8b2b2562884821a7,True
+13871,2023-04-22,Jeremiah Wells,Matthew Semelsberger,jossilva3110,36,20,0.6429,6.0,0.0,672.0,89.0,http://ufcstats.com/fight-details/06d9fb9c995f1e4f,True
+13844,2023-05-06,Aljamain Sterling,Henry Cejudo,jossilva3110,135,99,0.5769,4.0,3.0,240.0,306.0,http://ufcstats.com/fight-details/e3aad51099a23ba4,True
+13829,2023-05-20,Rodrigo Nascimento,Ilir Latifi,jossilva3110,68,49,0.5812,0.0,2.0,0.0,230.0,http://ufcstats.com/fight-details/fb70b62915fdcec6,True
+13795,2023-06-03,Amir Albazi,Kai Kara-France,jossilva3110,43,99,0.3028,1.0,2.0,370.0,58.0,http://ufcstats.com/fight-details/d7ae0993c7a378ee,True
+13800,2023-06-03,Elizeu Zaleski dos Santos,Abubakar Nurmagomedov,jossilva3110,42,29,0.5915,0.0,1.0,15.0,376.0,http://ufcstats.com/fight-details/a122968e96068800,True
+13751,2023-06-24,Neil Magny,Philip Rowe,jossilva3110,29,34,0.4603,0.0,1.0,271.0,278.0,http://ufcstats.com/fight-details/ced01368259428f5,True
+13702,2023-07-01,Ariane Lipski da Silva,Melissa Gatto,jossilva3110,66,85,0.4371,1.0,0.0,47.0,177.0,http://ufcstats.com/fight-details/ea29714dcfb07ce2,True
+13707,2023-07-01,Karol Rosa,Yana Santos,jossilva3110,66,95,0.4099,1.0,0.0,41.0,233.0,http://ufcstats.com/fight-details/fe370c518cf7873e,True
+13809,2023-07-08,Alexandre Pantoja,Brandon Moreno,jossilva3110,129,147,0.4674,6.0,2.0,506.0,241.0,http://ufcstats.com/fight-details/0f24f3bc1b39ea45,True
+13811,2023-07-08,Dan Hooker,Jalin Turner,jossilva3110,125,100,0.5556,0.0,1.0,189.0,18.0,http://ufcstats.com/fight-details/b6ea8880cc7af439,True
+13689,2023-07-29,Alex Pereira,Jan Blachowicz,jossilva3110,70,52,0.5738,0.0,3.0,6.0,452.0,http://ufcstats.com/fight-details/800a35b3a7e52308,True
+13672,2023-08-19,Andre Petroski,Gerald Meerschaert,jossilva3110,57,76,0.4286,2.0,1.0,126.0,114.0,http://ufcstats.com/fight-details/9f7c28381b6913c8,True
+13535,2023-08-26,Anthony Smith,Ryan Spann,jossilva3110,91,59,0.6067,1.0,0.0,56.0,79.0,http://ufcstats.com/fight-details/c53b0f678fe2f16a,True
+13604,2023-09-16,Jack Della Maddalena,Kevin Holland,jossilva3110,105,127,0.4526,0.0,0.0,0.0,0.0,http://ufcstats.com/fight-details/697efaf0d162e877,True
+13518,2023-11-11,Lupita Godinez,Tabatha Ricci,jossilva3110,98,84,0.5385,0.0,0.0,3.0,82.0,http://ufcstats.com/fight-details/a0362d60d2e1db0d,True
+13482,2023-12-09,Andre Muniz,Jun Yong Park,jossilva3110,14,27,0.3415,11.0,0.0,574.0,178.0,http://ufcstats.com/fight-details/1afc4f372a125c74,True
+13488,2023-12-09,Talita Alencar,Rayanne dos Santos,jossilva3110,36,57,0.3871,1.0,0.0,164.0,14.0,http://ufcstats.com/fight-details/acde7c89bd724af8,True
+13455,2024-01-20,Dricus Du Plessis,Sean Strickland,jossilva3110,137,173,0.4419,6.0,0.0,128.0,0.0,http://ufcstats.com/fight-details/14e53999507c76a7,True
+13458,2024-01-20,Chris Curtis,Marc-Andre Barriault,jossilva3110,140,122,0.5344,0.0,0.0,0.0,0.0,http://ufcstats.com/fight-details/ba5005d1116fa45f,True
+13461,2024-01-20,Sean Woodson,Charles Jourdain,jossilva3110,80,60,0.5714,1.0,0.0,39.0,118.0,http://ufcstats.com/fight-details/331ddc1141e934d1,True
+13401,2024-02-10,Max Griffin,Jeremiah Wells,jossilva3110,26,32,0.4483,1.0,1.0,100.0,100.0,http://ufcstats.com/fight-details/08f7a60bd84a6b3c,True
+13421,2024-02-17,Ian Garry,Geoff Neal,jossilva3110,67,46,0.5929,0.0,0.0,12.0,225.0,http://ufcstats.com/fight-details/8fb0092430448368,True
+13379,2024-02-24,Brandon Royval,Brandon Moreno,jossilva3110,145,112,0.5642,1.0,3.0,35.0,174.0,http://ufcstats.com/fight-details/74f5cbecac011abb,True
+13387,2024-02-24,Fares Ziam,Claudio Puelles,jossilva3110,31,4,0.8857,0.0,7.0,270.0,434.0,http://ufcstats.com/fight-details/a376f6d5806d0c90,True
+13418,2024-03-09,Joanne Wood,Maryna Moroz,jossilva3110,136,102,0.5714,1.0,1.0,12.0,371.0,http://ufcstats.com/fight-details/3677ce6c1ee06a83,True
+13355,2024-03-16,Ovince St. Preux,Kennedy Nzechukwu,jossilva3110,143,106,0.5743,0.0,0.0,6.0,8.0,http://ufcstats.com/fight-details/35f9beb94b4ef9e2,True
+13312,2024-04-06,Brendan Allen,Chris Curtis,jossilva3110,112,124,0.4746,6.0,0.0,365.0,78.0,http://ufcstats.com/fight-details/3ce96bb0c69b39be,True
+13313,2024-04-06,Damon Jackson,Alexander Hernandez,jossilva3110,42,32,0.5676,3.0,0.0,378.0,142.0,http://ufcstats.com/fight-details/9c22ddb8d8fc1838,True
+13327,2024-04-13,Arman Tsarukyan,Charles Oliveira,jossilva3110,49,19,0.7206,2.0,0.0,521.0,152.0,http://ufcstats.com/fight-details/01f7c28804746979,True
+13334,2024-04-13,Jessica Andrade,Marina Rodriguez,jossilva3110,89,82,0.5205,1.0,0.0,233.0,0.0,http://ufcstats.com/fight-details/603afedc31d95999,True
+13246,2024-05-11,Tabatha Ricci,Tecia Pennington,jossilva3110,54,80,0.403,1.0,0.0,315.0,4.0,http://ufcstats.com/fight-details/13d8d5cd83e5b57e,True
+13261,2024-05-18,Vanessa Demopoulos,Emily Ducote,jossilva3110,109,143,0.4325,0.0,0.0,0.0,46.0,http://ufcstats.com/fight-details/069df63733dcf697,True
+13227,2024-06-01,Sean Strickland,Paulo Costa,jossilva3110,182,158,0.5353,0.0,0.0,1.0,0.0,http://ufcstats.com/fight-details/9e7538a788e6d789,True
+13231,2024-06-01,Roman Kopylov,Cesar Almeida,jossilva3110,41,58,0.4141,5.0,0.0,519.0,0.0,http://ufcstats.com/fight-details/ee24be90a01f552e,True
+13197,2024-06-08,Montana De La Rosa,Andrea Lee,jossilva3110,70,75,0.4828,3.0,0.0,129.0,128.0,http://ufcstats.com/fight-details/a91fdb21a7ff52e5,True
+13280,2024-06-22,Nasrat Haqparast,Jared Gordon,jossilva3110,146,141,0.5087,0.0,0.0,3.0,169.0,http://ufcstats.com/fight-details/774fb0c0c1c2bc6a,True
+13282,2024-06-22,Rinat Fakhretdinov,Nicolas Dalby,jossilva3110,68,66,0.5075,5.0,0.0,377.0,237.0,http://ufcstats.com/fight-details/de1acb6803ab3f14,True
+13268,2024-06-29,Andre Fili,Cub Swanson,jossilva3110,67,62,0.5194,2.0,0.0,230.0,29.0,http://ufcstats.com/fight-details/08489fdfb56ee19c,True
+13165,2024-07-13,Muslim Salikhov,Santiago Ponzinibbio,jossilva3110,46,41,0.5287,0.0,2.0,0.0,149.0,http://ufcstats.com/fight-details/dff8e4ef87d69516,True
+13178,2024-08-17,Dan Hooker,Mateusz Gamrot,jossilva3110,65,64,0.5039,0.0,5.0,88.0,299.0,http://ufcstats.com/fight-details/059f5cf0e9e37627,True
+13179,2024-08-17,Jairzinho Rozenstruik,Tai Tuivasa,jossilva3110,91,37,0.7109,0.0,0.0,1.0,1.0,http://ufcstats.com/fight-details/dd3d8f7066c145b7,True
+13182,2024-08-17,Ricardo Ramos,Joshua Culibao,jossilva3110,27,70,0.2784,1.0,0.0,249.0,90.0,http://ufcstats.com/fight-details/43ebfc8914a39061,True
+5767,2024-10-05,Julianna Pena,Raquel Pennington,jossilva3110,92,92,0.5,2.0,0.0,340.0,33.0,http://ufcstats.com/fight-details/1d68bb733de24b06,True
+5768,2024-10-05,Mario Bautista,Jose Aldo,jossilva3110,49,51,0.49,0.0,0.0,435.0,0.0,http://ufcstats.com/fight-details/3d7d82fff71e395a,True
+5773,2024-10-05,Alexander Hernandez,Austin Hubbard,jossilva3110,79,63,0.5563,0.0,0.0,40.0,5.0,http://ufcstats.com/fight-details/e8aad69aace1d31f,True
+5645,2024-10-12,Brandon Royval,Tatsuro Taira,jossilva3110,124,42,0.747,3.0,6.0,143.0,733.0,http://ufcstats.com/fight-details/998bde5639c61adb,True
+5646,2024-10-12,Jun Yong Park,Brad Tavares,jossilva3110,99,65,0.6037,2.0,0.0,392.0,42.0,http://ufcstats.com/fight-details/6fa2dae90bda4742,True
+5649,2024-10-12,Daniel Rodriguez,Alex Morono,jossilva3110,123,74,0.6244,1.0,0.0,56.0,0.0,http://ufcstats.com/fight-details/f690949d90ff1dee,True
+5659,2024-12-07,Ciryl Gane,Alexander Volkov,jossilva3110,43,39,0.5244,2.0,3.0,220.0,272.0,http://ufcstats.com/fight-details/f706508c52f337a6,True
+5430,2024-12-14,Daniel Marcos,Adrian Yanez,jossilva3110,86,79,0.5212,2.0,0.0,203.0,75.0,http://ufcstats.com/fight-details/5238f6470d0557fb,True
+4931,2025-02-15,Angela Hill,Ketlen Souza,jossilva3110,86,70,0.5513,2.0,0.0,271.0,3.0,http://ufcstats.com/fight-details/f4817d5cbe9be532,True
+4073,2025-04-26,Chris Gutierrez,John Castaneda,jossilva3110,46,41,0.5287,0.0,1.0,39.0,290.0,http://ufcstats.com/fight-details/6f3cb7ce84185dd3,True
+4000,2025-05-10,Modestas Bukauskas,Ion Cutelaba,jossilva3110,44,58,0.4314,0.0,0.0,86.0,141.0,http://ufcstats.com/fight-details/c812457a810dde39,True
+3564,2025-07-12,Chris Curtis,Max Griffin,jossilva3110,64,59,0.5203,0.0,0.0,14.0,63.0,http://ufcstats.com/fight-details/236f811290163dca,True
+3692,2025-07-26,Reinier de Ridder,Robert Whittaker,jossilva3110,67,66,0.5038,2.0,0.0,546.0,36.0,http://ufcstats.com/fight-details/6b8be0ee3e569ad2,True
+3586,2025-09-13,Joaquim Silva,Claudio Puelles,jossilva3110,25,21,0.5435,0.0,4.0,63.0,445.0,http://ufcstats.com/fight-details/352839a03b428e74,True
+2731,2025-10-11,Deiveson Figueiredo,Montel Jackson,jossilva3110,23,30,0.434,2.0,1.0,138.0,2.0,http://ufcstats.com/fight-details/f295eb2a7b0ba4b7,True
+3060,2025-10-18,Aiemann Zahabi,Marlon Vera,jossilva3110,81,56,0.5912,0.0,0.0,0.0,3.0,http://ufcstats.com/fight-details/857d274e47aa8c4e,True
+2878,2025-10-25,Alexander Volkov,Jailton Almeida,jossilva3110,24,9,0.7273,0.0,7.0,177.0,647.0,http://ufcstats.com/fight-details/b42a3386a7dccb3d,True
+2611,2025-11-01,Norma Dumont,Ketlen Vieira,jossilva3110,62,25,0.7126,0.0,2.0,11.0,319.0,http://ufcstats.com/fight-details/760150e9951e65fa,True
+1825,2026-02-21,Michel Pereira,Zachary Reese,jossilva3110,63,74,0.4599,2.0,1.0,48.0,47.0,http://ufcstats.com/fight-details/372d1dee0db8dbee,True
+1811,2026-03-14,Charles Johnson,Bruno Silva,,,,,,,,,,
+1841,2026-03-21,Nathaniel Wood,Losene Keita,,,,,,,,,,
+1653,2026-04-11,Dominick Reyes,Johnny Walker,,,,,,,,,,
+1348,2026-04-25,Raoni Barcelos,Montel Jackson,,,,,,,,,,
+1134,2026-05-09,Sean Strickland,Khamzat Chimaev,,,,,,,,,,

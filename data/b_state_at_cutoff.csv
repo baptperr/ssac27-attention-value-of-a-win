@@ -1,0 +1,633 @@
+bout_id,side,fighter_id,title,cutoff,rev_at_cutoff,state
+17883,winner,8456,Ross Pearson,2015-07-07,2015-05-28T18:27:34Z,article
+17883,loser,8319,Paul Felder,2015-07-07,2015-07-03T02:03:49Z,article
+17866,winner,8367,Daniel Cormier,2015-08-04,2015-08-04T10:12:24Z,article
+17866,loser,8163,Alexander Gustafsson,2015-08-04,2015-07-31T02:26:19Z,article
+17777,winner,525,Krzysztof Jotko,2015-08-25,2015-08-12T15:55:10Z,article
+17777,loser,6619,Scott Askham,2015-08-25,2015-08-12T15:54:32Z,article
+17864,winner,8306,Jimmie Rivera,2015-09-08,2015-07-24T23:37:21Z,article
+17864,loser,6501,Pedro Munhoz,2015-09-08,2015-06-15T02:26:02Z,article
+17827,winner,774,Neil Magny,2015-09-22,2015-08-25T02:01:52Z,article
+17827,loser,527,Kelvin Gastelum,2015-09-22,2015-08-09T22:44:50Z,article
+17829,winner,4925,Henry Cejudo,2015-09-22,2015-09-06T19:10:49Z,article
+17829,loser,8365,Jussier Formiga,2015-09-22,2015-08-18T02:32:51Z,article
+17816,winner,3783,Benson Henderson,2015-09-29,2015-09-17T19:53:01Z,article
+17816,loser,8077,Jorge Masvidal,2015-09-29,2015-09-16T21:34:58Z,article
+17821,winner,8681,Mike De La Torre,2015-09-29,2015-09-08T14:10:28Z,article
+17821,loser,8879,Yui Chul Nam,2015-09-29,2015-09-08T14:09:26Z,article
+17735,winner,8094,Zubaira Tukhugov,2015-10-11,2015-10-06T18:36:06Z,article
+17735,loser,8695,Phillipe Nover,2015-10-11,2015-09-18T12:22:35Z,article
+17806,winner,8369,Yoel Romero,2015-10-13,2015-10-04T00:50:21Z,article
+17806,loser,8282,Ronaldo Souza,2015-10-13,2015-09-24T17:37:38Z,article
+17814,winner,8275,Yancy Medeiros,2015-10-13,2015-09-16T20:32:01Z,article
+17814,loser,8026,John Makdessi,2015-10-13,2015-09-25T15:14:48Z,article
+17797,winner,4922,Valentina Shevchenko,2015-10-20,2015-10-07T05:14:12Z,article
+17797,loser,8874,Sarah Kaufman,2015-10-20,2015-10-01T09:36:03Z,article
+17799,winner,8310,Nik Lentz,2015-10-20,2015-08-26T01:58:15Z,article
+17799,loser,8875,Danny Castillo,2015-10-20,2015-10-19T09:29:42Z,article
+17737,winner,8061,Robbie Lawler,2015-11-03,2015-10-29T01:13:48Z,article
+17737,loser,8271,Carlos Condit,2015-11-03,2015-10-20T21:23:46Z,article
+17739,winner,561,Albert Tumenov,2015-11-03,2015-10-22T18:01:29Z,article
+17739,loser,8800,Lorenz Larkin,2015-11-03,2015-10-22T18:00:38Z,article
+17747,winner,8697,Michinori Tanaka,2015-11-03,2015-10-14T04:26:20Z,article
+17747,loser,8573,Joe Soto,2015-11-03,2015-07-09T19:43:43Z,article
+17712,winner,8145,Dominick Cruz,2015-11-18,2015-11-18T00:32:06Z,article
+17712,loser,8178,T.J. Dillashaw,2015-11-18,2015-11-16T04:33:17Z,article
+17713,winner,8530,Eddie Alvarez,2015-11-18,2015-11-13T21:33:50Z,article
+17713,loser,8314,Anthony Pettis,2015-11-18,2015-11-12T01:25:25Z,article
+17652,winner,8689,Brad Pickett,2015-12-29,2015-12-14T17:11:28Z,article
+17652,loser,8805,Francisco Rivera (fighter),2015-12-29,2015-12-28T16:57:32Z,article
+17647,winner,8456,Ross Pearson,2016-01-19,2016-01-18T16:12:57Z,article
+17647,loser,8482,Chad Laprise,2016-01-19,2015-12-16T22:03:35Z,article
+17599,winner,8829,Lucas Martins,2016-02-10,2015-09-11T15:38:06Z,article
+17599,loser,6640,Rob Whiteford,2016-02-10,2015-12-11T07:54:58Z,article
+17607,winner,6623,Raquel Pennington,2016-02-16,2016-01-06T21:57:33Z,article
+17607,loser,8259,Bethe Correia,2016-02-16,2015-12-24T05:26:43Z,article
+17616,winner,8098,Maurício Rua,2016-03-15,2016-03-13T00:44:25Z,article
+17616,loser,254,Corey Anderson (fighter),2016-03-15,2016-03-13T16:02:35Z,article
+17530,winner,8800,Lorenz Larkin,2016-03-30,2016-03-21T14:14:10Z,article
+17530,loser,8077,Jorge Masvidal,2016-03-30,2016-03-28T02:18:28Z,article
+17536,winner,8489,Bryan Caraway,2016-03-30,2016-03-30T03:35:57Z,article
+17536,loser,1249,Aljamain Sterling,2016-03-30,2016-02-15T18:21:51Z,article
+17560,winner,500,Sean Strickland,2016-04-05,2016-03-29T14:47:31Z,article
+17560,loser,310,Tom Breese,2016-04-05,2016-04-05T02:05:22Z,article
+17543,winner,8618,Jason Saggo,2016-04-19,2016-04-05T20:37:55Z,article
+17543,loser,6535,Leandro Silva (fighter),2016-04-19,2016-03-28T12:58:04Z,article
+17515,winner,21,Derrick Lewis,2016-05-08,2016-05-01T01:54:27Z,article
+17515,loser,8671,Roy Nelson,2016-05-08,2016-04-30T16:52:20Z,article
+17457,winner,2316,Karolina Kowalkiewicz,2016-05-31,2016-05-17T23:17:32Z,article
+17457,loser,4455,Rose Namajunas,2016-05-31,2016-05-18T00:04:22Z,article
+17460,winner,8262,Ryan Benoit,2016-05-31,2015-12-17T22:44:16Z,article
+17460,loser,8706,Fredy Serrano,2016-05-31,2016-05-12T04:49:43Z,article
+17411,winner,2451,Yair Rodríguez,2016-06-07,2016-05-25T18:23:17Z,article
+17411,loser,7977,Alex Caceres,2016-06-07,2016-06-06T11:29:24Z,article
+17404,winner,1051,Jim Miller (fighter),2016-06-28,2016-06-22T22:48:03Z,article
+17404,loser,8393,Joe Lauzon,2016-06-28,2016-06-22T18:01:09Z,article
+17440,winner,8259,Bethe Correia,2016-07-12,2016-06-21T21:14:25Z,article
+17440,loser,8204,Jessica Eye,2016-07-12,2016-07-10T20:57:36Z,article
+17441,winner,564,Brad Tavares,2016-07-12,2016-06-19T17:47:48Z,article
+17441,loser,8802,Caio Magalhães,2016-07-12,2016-06-05T18:36:25Z,article
+17392,winner,8696,Roan Carneiro,2016-07-19,2016-06-22T16:25:11Z,article
+17392,loser,8790,Kenny Robertson,2016-07-19,2016-06-29T06:15:32Z,article
+17315,winner,8448,John Lineker,2016-08-02,2016-07-19T17:53:23Z,article
+17315,loser,6026,John Dodson (fighter),2016-08-02,2016-07-23T05:44:17Z,article
+17321,winner,8100,Shamil Abdurakhimov,2016-08-02,2016-08-02T11:09:13Z,article
+17321,loser,8276,Walt Harris (fighter),2016-08-02,2016-08-02T11:08:04Z,article
+17286,winner,8142,Leonardo Santos (fighter),2016-08-09,2016-08-02T17:50:30Z,article
+17286,loser,8642,Adriano Martins,2016-08-09,2016-08-02T17:50:00Z,article
+17496,winner,8804,Erik Pérez,2016-09-06,2016-08-16T13:05:50Z,article
+17496,loser,8516,Felipe Arantes,2016-09-06,2016-07-11T16:34:32Z,article
+17264,winner,6638,Stevie Ray (fighter),2016-09-20,2016-09-19T21:22:35Z,article
+17264,loser,8456,Ross Pearson,2016-09-20,2016-07-31T20:04:21Z,article
+17265,winner,2,Alexander Volkov (fighter),2016-09-20,2016-09-06T15:01:23Z,article
+17265,loser,46,Timothy Johnson (fighter),2016-09-20,2016-09-04T00:32:17Z,article
+17227,winner,8303,Joseph Benavidez,2016-10-04,2016-09-30T02:33:02Z,article
+17227,loser,4925,Henry Cejudo,2016-10-04,2016-09-30T02:01:26Z,article
+17213,winner,8464,Dustin Ortiz,2016-10-11,2016-09-27T15:57:09Z,article
+17213,loser,8709,Zach Makovsky,2016-10-11,2016-10-08T22:33:17Z,article
+17182,winner,8667,Dong Hyun Kim,2016-10-31,2016-10-24T12:31:31Z,article
+17182,loser,8668,Tarec Saffiedine,2016-10-31,2016-10-18T16:06:43Z,article
+17168,winner,8393,Joe Lauzon,2016-11-16,2016-10-17T05:54:54Z,article
+17168,loser,1124,Marcin Held,2016-11-16,2016-11-07T14:30:49Z,article
+17160,winner,8082,Raphael Assunção,2016-11-29,2016-11-29T12:38:07Z,article
+17160,loser,1249,Aljamain Sterling,2016-11-29,2016-11-29T12:39:02Z,article
+17129,winner,8247,Randa Markos,2016-12-21,2016-12-13T04:38:26Z,article
+17129,loser,6625,Carla Esparza,2016-12-21,2016-12-03T18:11:15Z,article
+17113,winner,8537,Dan Kelly (fighter),2017-01-03,2016-12-14T17:46:37Z,article
+17113,loser,8545,Rashad Evans,2017-01-03,2016-12-16T02:50:48Z,article
+17091,winner,1255,Arnold Allen,2017-01-17,2017-01-10T12:30:59Z,article
+17091,loser,1241,Makwan Amirkhani,2017-01-17,2017-01-10T12:31:10Z,article
+17094,winner,46,Timothy Johnson (fighter),2017-01-17,2016-11-23T18:18:44Z,article
+17094,loser,8647,Daniel Omielańczuk,2017-01-17,2016-10-10T12:41:52Z,article
+17097,winner,8538,Brad Scott (fighter),2017-01-17,2017-01-10T12:31:49Z,article
+17097,loser,6619,Scott Askham,2017-01-17,2017-01-10T12:31:27Z,article
+17016,winner,8672,Rashid Magomedov,2017-02-14,2017-01-26T22:56:24Z,article
+17016,loser,3781,King Green,2017-02-14,2016-12-18T00:34:22Z,article
+17050,winner,8280,Demian Maia,2017-03-14,2017-03-05T22:52:12Z,article
+17050,loser,8077,Jorge Masvidal,2017-03-14,2017-03-12T03:43:56Z,article
+17052,winner,8454,David Branch (fighter),2017-03-14,2017-03-08T03:25:43Z,article
+17052,loser,525,Krzysztof Jotko,2017-03-14,2017-03-08T03:29:35Z,article
+16977,winner,8272,Omari Akhmedov,2017-03-29,2017-02-24T08:45:16Z,article
+16977,loser,6320,Abdul Razak Alhassan,2017-03-29,2017-02-08T18:18:17Z,article
+16982,winner,1078,Joaquim Silva (fighter),2017-03-29,2017-03-08T16:56:34Z,article
+16982,loser,8665,Reza Madadi,2017-03-29,2017-03-20T17:14:25Z,article
+17003,winner,8082,Raphael Assunção,2017-04-04,2017-03-25T14:22:50Z,article
+17003,loser,8218,Marlon Moraes,2017-04-04,2017-02-24T07:18:12Z,article
+16881,winner,1436,Darren Elkins,2017-05-23,2017-05-20T00:46:14Z,article
+16881,loser,8465,Dennis Bermudez,2017-05-23,2017-05-17T17:15:08Z,article
+16882,winner,8441,Patrick Cummins (fighter),2017-05-23,2017-05-11T12:18:15Z,article
+16882,loser,8245,Gian Villante,2017-05-23,2017-04-20T14:33:46Z,article
+16858,winner,3650,Alexa Grasso,2017-06-06,2017-02-24T09:04:16Z,article
+16858,loser,8247,Randa Markos,2017-06-06,2017-03-28T14:19:38Z,article
+16861,winner,8149,Sam Alvey,2017-06-06,2017-06-02T12:18:27Z,article
+16861,loser,8545,Rashad Evans,2017-06-06,2017-06-04T17:55:11Z,article
+16862,winner,8224,Alejandro Pérez (fighter),2017-06-06,2017-02-24T09:02:47Z,article
+16862,loser,8413,Andre Soukhamthath,2017-06-06,2017-06-04T08:34:05Z,article
+16869,winner,8057,Amanda Nunes,2017-07-11,2017-07-11T16:28:01Z,article
+16869,loser,4922,Valentina Shevchenko,2017-07-11,2017-07-10T16:09:49Z,article
+16762,winner,8416,Olivier Aubin-Mercier,2017-07-18,2017-06-05T04:17:47Z,article
+16762,loser,8363,Anthony Rocco Martin,2017-07-18,2017-07-09T16:26:09Z,article
+16853,winner,8452,Keita Nakamura,2017-07-24,2017-07-06T13:30:13Z,article
+16853,loser,822,Alex Morono,2017-07-24,2017-06-30T19:39:03Z,article
+16829,winner,6485,Cody Stamann,2017-08-08,2017-07-09T17:24:19Z,article
+16829,loser,8561,Tom Duquesnoy,2017-08-08,2017-07-23T14:42:57Z,article
+16684,winner,8421,Cezar Ferreira,2017-09-12,2017-08-11T17:13:28Z,article
+16684,loser,8590,Nate Marquardt,2017-09-12,2017-08-11T17:12:16Z,article
+16687,winner,8218,Marlon Moraes,2017-09-12,2017-09-01T12:39:14Z,article
+16687,loser,6026,John Dodson (fighter),2017-09-12,2017-09-11T23:48:37Z,article
+16813,winner,759,Belal Muhammad,2017-09-19,2017-09-13T18:47:54Z,article
+16813,loser,6626,Tim Means,2017-09-19,2017-08-05T02:22:24Z,article
+16814,winner,787,Jake Matthews (fighter),2017-09-19,2017-09-08T21:12:08Z,article
+16814,loser,873,Bojan Veličković,2017-09-19,2017-09-12T18:44:48Z,article
+16820,winner,8211,Frank Camacho,2017-09-19,2014-01-11T07:23:12Z,article
+16820,loser,8572,Damien Brown (fighter),2017-09-19,2017-08-11T15:11:26Z,article
+16802,winner,5578,Lauren Murphy,2017-10-02,2017-09-28T17:21:04Z,article
+16802,loser,8539,Barb Honchak,2017-10-02,2017-09-04T16:56:35Z,article
+16784,winner,8182,Felice Herrig,2017-10-03,2017-09-29T11:52:45Z,article
+16784,loser,8169,Cortney Casey,2017-10-03,2017-09-22T08:06:46Z,article
+16700,winner,8230,Alexis Davis (fighter),2017-10-10,2017-09-29T19:47:02Z,article
+16700,loser,3052,Liz Carmouche,2017-10-10,2017-09-29T19:54:29Z,article
+16665,winner,8245,Gian Villante,2017-11-21,2017-11-15T18:19:28Z,article
+16665,loser,90,Francimar Barroso,2017-11-21,2017-11-15T18:20:14Z,article
+16605,winner,1319,Andre Fili,2017-11-28,2017-11-28T02:28:23Z,article
+16605,loser,8465,Dennis Bermudez,2017-11-28,2017-10-05T06:23:12Z,article
+16612,winner,8068,Ji Yeon Kim (fighter),2017-11-28,2017-10-20T13:23:03Z,article
+16612,loser,8289,Justine Kish,2017-11-28,2017-11-16T16:01:11Z,article
+16640,winner,8547,Lyoto Machida,2017-12-05,2017-11-17T06:53:33Z,article
+16640,loser,542,Eryk Anders,2017-12-05,2017-12-04T14:13:52Z,article
+16646,winner,8386,Sérgio Moraes,2017-12-05,2017-11-21T20:18:03Z,article
+16646,loser,6626,Tim Means,2017-12-05,2017-11-19T15:01:53Z,article
+16633,winner,8380,Dong Hyun Ma,2017-12-12,2017-11-28T03:54:16Z,article
+16633,loser,8572,Damien Brown (fighter),2017-12-12,2017-11-22T04:52:03Z,article
+16620,winner,2634,Ketlen Vieira,2018-01-02,2018-01-02T18:33:32Z,article
+16620,loser,8478,Cat Zingano,2018-01-02,2017-11-21T09:52:10Z,article
+16621,winner,2251,Mackenzie Dern,2018-01-02,2018-01-02T12:16:57Z,article
+16621,loser,2319,Ashley Yoder,2018-01-02,2018-01-02T05:41:11Z,article
+16623,winner,6026,John Dodson (fighter),2018-01-02,2017-12-25T20:20:39Z,article
+16623,loser,6501,Pedro Munhoz,2018-01-02,2017-10-29T14:57:17Z,article
+16626,winner,6485,Cody Stamann,2018-01-02,2017-11-12T16:14:07Z,article
+16626,loser,8489,Bryan Caraway,2018-01-02,2017-12-05T14:16:54Z,article
+16627,winner,8512,Jordan Johnson (fighter),2018-01-02,2017-09-09T21:04:47Z,article
+16627,loser,8479,Adam Milstead,2018-01-02,2017-11-15T09:21:22Z,article
+16578,winner,8511,Kajan Johnson,2018-01-16,2018-01-06T08:47:12Z,article
+16578,loser,6638,Stevie Ray (fighter),2018-01-16,2018-01-08T18:06:06Z,article
+16552,winner,2316,Karolina Kowalkiewicz,2018-02-06,2018-01-15T18:17:20Z,article
+16552,loser,8182,Felice Herrig,2018-02-06,2018-01-18T05:52:36Z,article
+16535,winner,512,Israel Adesanya,2018-02-13,2018-02-13T05:47:48Z,article
+16535,loser,528,Marvin Vettori,2018-02-13,2018-01-01T21:48:16Z,article
+16536,winner,7982,Michelle Waterson-Gomez,2018-02-13,2018-02-10T14:29:08Z,article
+16536,loser,8169,Cortney Casey,2018-02-13,2018-02-10T14:30:04Z,article
+16499,winner,527,Kelvin Gastelum,2018-03-13,2018-02-24T14:25:35Z,article
+16499,loser,8282,Ronaldo Souza,2018-03-13,2018-02-25T19:48:03Z,article
+16466,winner,5708,Michel Prazeres,2018-03-20,2018-02-04T20:58:50Z,article
+16466,loser,8074,Zak Cummings,2018-03-20,2018-01-19T12:48:04Z,article
+16440,winner,1241,Makwan Amirkhani,2018-03-28,2018-03-21T14:02:37Z,article
+16440,loser,8497,Jason Knight (fighter),2018-03-28,2018-03-21T14:03:50Z,article
+16478,winner,8149,Sam Alvey,2018-04-02,2018-03-29T08:42:34Z,article
+16478,loser,8245,Gian Villante,2018-04-02,2018-03-22T00:22:09Z,article
+16485,winner,257,Robert Whittaker (fighter),2018-04-10,2018-04-06T14:34:28Z,article
+16485,loser,8369,Yoel Romero,2018-04-10,2018-04-10T13:06:55Z,article
+16491,winner,8325,Cláudia Gadelha,2018-04-10,2018-04-02T14:07:42Z,article
+16491,loser,6625,Carla Esparza,2018-04-10,2018-03-30T23:02:42Z,article
+16492,winner,8337,Mirsad Bektić,2018-04-10,2018-04-07T05:37:51Z,article
+16492,loser,8341,Ricardo Lamas,2018-04-10,2018-04-07T05:37:55Z,article
+16495,winner,1510,Sergio Pettis,2018-04-10,2018-04-06T19:37:40Z,article
+16495,loser,8303,Joseph Benavidez,2018-04-10,2018-03-28T11:26:04Z,article
+16370,winner,3733,Matt Schnell,2018-04-24,2018-04-15T23:50:02Z,article
+16370,loser,1533,Naoki Inoue,2018-04-24,2018-04-15T23:50:07Z,article
+16451,winner,7977,Alex Caceres,2018-05-07,2018-04-07T22:15:42Z,article
+16451,loser,8406,Martin Bravo,2018-05-07,2018-04-13T03:21:44Z,article
+16453,winner,8151,Alessio Di Chirico,2018-05-07,2018-04-20T09:39:51Z,article
+16453,loser,6189,Julian Marquez,2018-05-07,2018-03-05T23:23:26Z,article
+16458,winner,8080,Steven Peterson,2018-05-07,2014-04-28T05:04:47Z,redirect
+16458,loser,8540,Matt Bessette,2018-05-07,2018-05-04T18:28:31Z,article
+16524,winner,6656,Mike Perry (fighter),2018-05-08,2018-05-04T06:50:20Z,article
+16524,loser,8319,Paul Felder,2018-05-08,2018-05-04T05:44:04Z,article
+16426,winner,7969,Ricky Glenn,2018-05-15,2018-04-15T19:00:34Z,article
+16426,loser,8465,Dennis Bermudez,2018-05-15,2018-02-12T15:36:51Z,article
+16417,winner,6236,Damir Hadžović,2018-05-23,2018-04-15T18:39:43Z,article
+16417,loser,8438,Nick Hein,2018-05-23,2018-05-22T04:40:43Z,article
+16387,winner,4925,Henry Cejudo,2018-06-05,2018-05-29T23:58:56Z,article
+16387,loser,8528,Demetrious Johnson,2018-06-05,2018-05-31T01:58:43Z,article
+16393,winner,1468,Ricardo Ramos (fighter),2018-06-05,2018-05-23T15:54:29Z,article
+16393,loser,7984,Kang Kyung-ho,2018-06-05,2018-05-08T12:28:25Z,article
+16374,winner,1099,Michael Johnson (fighter),2018-06-26,2018-06-13T21:32:16Z,article
+16374,loser,1319,Andre Fili,2018-06-26,2018-04-04T16:28:08Z,article
+16375,winner,8169,Cortney Casey,2018-06-26,2018-06-10T23:21:15Z,article
+16375,loser,2264,Angela Hill,2018-06-26,2018-06-16T23:18:46Z,article
+16346,winner,6653,Irene Aldana,2018-07-10,2018-05-18T01:09:11Z,article
+16346,loser,4003,Lucie Pudilová,2018-07-10,2018-07-07T21:19:01Z,article
+16354,winner,8376,Rustam Khabilov,2018-07-17,2018-06-29T22:24:17Z,article
+16354,loser,8511,Kajan Johnson,2018-07-17,2018-07-14T02:00:38Z,article
+16300,winner,8245,Gian Villante,2018-08-28,2018-08-20T13:16:55Z,article
+16300,loser,8075,Ed Herman,2018-08-28,2018-08-07T20:42:05Z,article
+16213,winner,1390,Hakeem Dawodu,2018-10-09,2018-10-05T02:48:20Z,article
+16213,loser,8395,Kyle Bochniak,2018-10-09,2018-08-30T17:23:53Z,article
+16217,winner,8204,Jessica Eye,2018-10-09,2018-10-03T09:29:01Z,article
+16217,loser,3562,Katlyn Cerminara,2018-10-09,2018-10-08T21:48:11Z,article
+16218,winner,8444,Elias Theodorou,2018-10-09,2018-10-04T03:03:55Z,article
+16218,loser,542,Eryk Anders,2018-10-09,2018-10-02T03:05:41Z,article
+16145,winner,8384,Thiago Alves (fighter),2018-12-04,2018-11-29T07:11:37Z,article
+16145,loser,803,Max Griffin,2018-12-04,2018-11-29T07:12:38Z,article
+16089,winner,758,Leon Edwards,2019-01-15,2019-01-11T09:12:26Z,article
+16089,loser,6184,Gunnar Nelson (fighter),2019-01-15,2019-01-14T10:47:56Z,article
+16090,winner,261,Dominick Reyes,2019-01-15,2019-01-09T20:32:42Z,article
+16090,loser,263,Volkan Oezdemir,2019-01-15,2019-01-14T15:23:55Z,article
+16093,winner,8322,Jack Marshman,2019-01-15,2018-12-31T05:19:34Z,article
+16093,loser,8328,John Phillips (fighter),2019-01-15,2018-02-28T21:55:32Z,redirect
+16029,winner,8228,Roxanne Modafferi,2019-02-19,2019-02-18T04:20:16Z,article
+16029,loser,8168,Antonina Shevchenko,2019-02-19,2019-02-19T07:34:20Z,article
+16017,winner,1504,Cory Sandhagen,2019-02-26,2019-02-13T17:46:18Z,article
+16017,loser,8448,John Lineker,2019-02-26,2019-02-19T07:16:01Z,article
+16020,winner,62,Augusto Sakai,2019-02-26,2019-02-24T08:50:32Z,article
+16020,loser,7983,Andrei Arlovski,2019-02-26,2019-02-24T08:50:28Z,article
+16025,winner,8277,Dhiego Lima,2019-02-26,2019-02-24T08:51:08Z,article
+16025,loser,810,Court McGee,2019-02-26,2019-02-24T08:51:12Z,article
+16003,winner,8166,Shane Burgos,2019-03-05,2019-02-20T20:05:46Z,article
+16003,loser,4211,Cub Swanson,2019-03-05,2019-03-05T16:09:11Z,article
+15916,winner,6478,Jon Jones,2019-05-07,2019-04-29T12:52:45Z,article
+15916,loser,60,Thiago Santos,2019-05-07,2019-04-30T07:42:24Z,article
+15873,winner,6623,Raquel Pennington,2019-05-21,2019-05-17T06:45:39Z,article
+15873,loser,6653,Irene Aldana,2019-05-21,2019-05-17T06:45:43Z,article
+15831,winner,530,Vicente Luque,2019-06-11,2019-06-11T02:25:59Z,article
+15831,loser,6656,Mike Perry (fighter),2019-06-11,2019-06-10T12:12:20Z,article
+15914,winner,7984,Kang Kyung-ho,2019-06-18,2019-06-12T18:21:51Z,article
+15914,loser,2865,Brandon Davis,2019-06-18,2019-06-12T18:43:03Z,article
+15892,winner,8319,Paul Felder,2019-07-09,2019-07-07T02:22:22Z,article
+15892,loser,1153,Edson Barboza,2019-07-09,2019-07-08T03:16:18Z,article
+15896,winner,8002,Joanne Wood,2019-07-09,2019-07-09T21:12:03Z,article
+15896,loser,6190,Andrea Lee (fighter),2019-07-09,2019-07-04T04:34:17Z,article
+15808,winner,8097,Glover Teixeira,2019-07-16,2019-06-26T05:04:28Z,article
+15808,loser,275,Nikita Krylov,2019-07-16,2019-06-26T10:19:17Z,article
+15811,winner,8203,Uriah Hall,2019-07-16,2019-07-03T05:24:59Z,article
+15811,loser,269,Antônio Carlos Jr.,2019-07-16,2019-06-14T05:40:34Z,article
+15682,winner,8277,Dhiego Lima,2019-08-06,2019-07-26T09:51:27Z,article
+15682,loser,8402,Luke Jumeau,2019-08-06,2019-07-26T09:51:22Z,article
+15669,winner,1142,Matt Frevola,2019-08-13,2019-06-16T16:47:13Z,article
+15669,loser,8290,Luis Peña (fighter),2019-08-13,2019-07-15T18:17:24Z,article
+15670,winner,542,Eryk Anders,2019-08-13,2019-08-10T22:22:56Z,article
+15670,loser,3530,Gerald Meerschaert,2019-08-13,2019-08-06T05:52:36Z,article
+15646,winner,8247,Randa Markos,2019-08-27,2019-08-14T15:24:39Z,article
+15646,loser,2319,Ashley Yoder,2019-08-27,2019-06-23T03:50:50Z,article
+15630,winner,8120,Darren Till,2019-09-03,2019-09-03T11:17:43Z,article
+15630,loser,527,Kelvin Gastelum,2019-09-03,2019-08-26T23:55:18Z,article
+15632,winner,21,Derrick Lewis,2019-09-03,2019-09-02T00:31:39Z,article
+15632,loser,8044,Blagoy Ivanov,2019-09-03,2019-08-03T06:00:46Z,article
+15640,winner,1390,Hakeem Dawodu,2019-09-03,2019-07-28T06:50:33Z,article
+15640,loser,1317,Julio Arce,2019-09-03,2019-08-08T00:48:31Z,article
+15617,winner,260,Jan Błachowicz,2019-09-17,2019-09-11T02:07:47Z,article
+15617,loser,8282,Ronaldo Souza,2019-09-17,2019-09-11T03:47:38Z,article
+15595,winner,8218,Marlon Moraes,2019-10-15,2019-10-13T21:23:10Z,article
+15595,loser,5855,José Aldo,2019-10-15,2019-09-26T18:19:13Z,article
+15580,winner,263,Volkan Oezdemir,2019-10-22,2019-10-12T03:41:55Z,article
+15580,loser,24,Aleksandar Rakić,2019-10-22,2019-10-21T12:43:16Z,article
+15584,winner,7984,Kang Kyung-ho,2019-10-22,2019-08-18T13:38:36Z,article
+15584,loser,8378,Liu Pingyuan,2019-10-22,2019-08-31T18:46:24Z,article
+15534,winner,3652,Dan Ige,2019-12-10,2019-11-29T03:13:05Z,article
+15534,loser,8337,Mirsad Bektić,2019-12-10,2019-11-29T03:13:11Z,article
+15536,winner,6500,Trevin Giles,2019-12-10,2019-10-11T11:41:28Z,article
+15536,loser,8327,James Krause (fighter),2019-12-10,2019-12-04T08:55:36Z,article
+15537,winner,5578,Lauren Murphy,2019-12-10,2019-12-06T03:03:41Z,article
+15537,loser,6190,Andrea Lee (fighter),2019-12-10,2019-11-22T02:34:23Z,article
+15541,winner,8235,Andre Ewell,2019-12-10,2019-10-27T14:07:24Z,article
+15541,loser,6480,Jonathan Martinez,2019-12-10,2019-08-31T19:04:24Z,article
+15494,winner,1013,Dan Hooker,2019-12-25,2019-12-21T10:40:20Z,article
+15494,loser,8319,Paul Felder,2019-12-25,2019-12-18T19:20:06Z,article
+15484,winner,4923,Zhang Weili,2020-01-07,2020-01-04T04:11:43Z,article
+15484,loser,8179,Joanna Jędrzejczyk,2020-01-07,2020-01-07T17:59:49Z,article
+15487,winner,8216,Alex Oliveira,2020-01-07,2020-01-07T16:43:18Z,article
+15487,loser,803,Max Griffin,2020-01-07,2020-01-07T16:45:02Z,article
+15466,winner,8134,Aleksei Oleinik,2020-03-10,2020-02-18T02:15:10Z,article
+15466,loser,8349,Fabrício Werdum,2020-03-10,2020-03-07T03:27:13Z,article
+15467,winner,6625,Carla Esparza,2020-03-10,2020-03-08T04:59:06Z,article
+15467,loser,7982,Michelle Waterson-Gomez,2020-03-10,2020-03-01T04:16:53Z,article
+15470,winner,32,Ryan Spann,2020-03-10,2020-02-04T21:11:12Z,article
+15470,loser,8149,Sam Alvey,2020-03-10,2019-12-28T08:35:50Z,article
+15385,winner,8239,Ben Rothwell,2020-03-14,2020-01-14T20:56:34Z,article
+15385,loser,6624,Ovince Saint Preux,2020-03-14,2020-03-03T10:44:10Z,article
+15387,winner,1540,Ricky Simón,2020-03-14,2019-12-08T22:56:56Z,article
+15387,loser,8357,Ray Borg,2020-03-14,2020-03-09T19:32:49Z,article
+15439,winner,8325,Cláudia Gadelha,2020-03-17,2020-02-18T23:59:32Z,article
+15439,loser,2264,Angela Hill,2020-03-17,2020-03-14T08:49:53Z,article
+15440,winner,3652,Dan Ige,2020-03-17,2020-03-17T17:25:22Z,article
+15440,loser,1153,Edson Barboza,2020-03-17,2020-03-17T17:15:00Z,article
+15374,winner,62,Augusto Sakai,2020-03-31,2020-03-08T21:39:21Z,article
+15374,loser,8044,Blagoy Ivanov,2020-03-31,2020-02-21T09:53:22Z,article
+15408,winner,8164,Charles Rosa,2020-04-14,2020-04-10T05:42:52Z,article
+15408,loser,8283,Kevin Aguilar (mixed martial artist),2020-04-14,2020-02-23T14:13:49Z,article
+15361,winner,1248,Alexander Volkanovski,2020-05-12,2020-05-12T15:36:37Z,article
+15361,loser,3846,Max Holloway,2020-05-12,2020-05-12T18:42:30Z,article
+15363,winner,4455,Rose Namajunas,2020-05-12,2020-05-08T17:37:16Z,article
+15363,loser,2266,Jéssica Andrade,2020-05-12,2020-05-11T18:16:15Z,article
+15366,winner,785,Muslim Salikhov,2020-05-12,2020-04-24T17:27:13Z,article
+15366,loser,813,Elizeu Zaleski dos Santos,2020-05-12,2020-04-17T09:06:37Z,article
+15334,winner,8098,Maurício Rua,2020-05-26,2020-05-26T15:33:45Z,article
+15334,loser,8348,Antônio Rogério Nogueira,2020-05-26,2020-05-18T02:53:15Z,article
+15336,winner,6625,Carla Esparza,2020-05-26,2020-05-16T02:04:00Z,article
+15336,loser,5878,Marina Rodriguez,2020-05-26,2020-02-12T21:14:22Z,article
+15294,winner,8123,Frankie Edgar,2020-06-23,2020-06-17T01:09:18Z,article
+15294,loser,6501,Pedro Munhoz,2020-06-23,2020-06-16T17:39:14Z,article
+15260,winner,7982,Michelle Waterson-Gomez,2020-07-14,2020-07-09T10:50:31Z,article
+15260,loser,2264,Angela Hill,2020-07-14,2020-07-14T11:30:38Z,article
+15251,winner,770,Kevin Holland,2020-07-21,2020-07-11T01:27:04Z,article
+15251,loser,8261,Darren Stewart,2020-07-21,2020-06-17T12:19:17Z,article
+15307,winner,1390,Hakeem Dawodu,2020-07-28,2020-07-22T14:53:48Z,article
+15307,loser,8094,Zubaira Tukhugov,2020-07-28,2020-07-16T08:18:37Z,article
+15140,winner,3481,Rafael dos Anjos,2020-09-15,2020-09-05T05:48:01Z,article
+15140,loser,8319,Paul Felder,2020-09-15,2020-09-13T02:29:41Z,article
+15125,winner,264,Roman Dolidze,2020-10-06,2020-08-09T20:35:33Z,article
+15125,loser,6107,John Allan (fighter),2020-10-06,2020-09-13T03:16:31Z,article
+15106,winner,69,Carlos Felipe,2020-11-17,2020-10-26T00:52:42Z,article
+15106,loser,6251,Justin Tafa,2020-11-17,2020-10-04T04:02:29Z,article
+15107,winner,544,Ramazan Emeev,2020-11-17,2020-11-05T21:40:17Z,article
+15107,loser,4004,David Zawada,2020-11-17,2020-10-31T02:51:44Z,article
+15021,winner,3733,Matt Schnell,2020-11-21,2020-11-17T15:36:02Z,article
+15021,loser,8039,Tyson Nam,2020-11-21,2020-11-17T15:36:18Z,article
+15088,winner,1251,Movsar Evloev,2020-11-24,2020-11-17T15:30:20Z,article
+15088,loser,8310,Nik Lentz,2020-11-24,2020-11-24T07:17:53Z,article
+15071,winner,1015,Beneil Dariush,2020-12-08,2020-12-03T08:42:25Z,article
+15071,loser,1041,Carlos Diego Ferreira,2020-12-08,2020-12-03T08:42:28Z,article
+15048,winner,8145,Dominick Cruz,2021-01-05,2021-01-05T22:10:28Z,article
+15048,loser,8265,Casey Kenney,2021-01-05,2021-01-03T03:02:11Z,article
+14998,winner,6533,Matheus Nicolau,2021-01-12,2021-01-08T23:29:37Z,article
+14998,loser,1749,Manel Kape,2021-01-12,2020-12-12T13:09:47Z,article
+14978,winner,537,Michał Oleksiejczuk,2021-01-26,2021-01-17T02:10:55Z,article
+14978,loser,284,Modestas Bukauskas,2021-01-26,2021-01-19T07:08:42Z,article
+14990,winner,6502,Jack Shore,2021-02-09,2020-10-26T17:56:52Z,article
+14990,loser,8297,Hunter Azure,2021-02-09,2020-12-26T22:25:46Z,article
+14964,winner,3849,Tracy Cortez,2021-02-16,2021-02-16T12:50:37Z,article
+14964,loser,8289,Justine Kish,2021-02-16,2021-02-03T01:19:39Z,article
+14943,winner,1157,T.J. Brown,2021-03-02,2021-02-23T03:04:21Z,article
+14943,loser,1311,Kai Kamaka III,2021-03-02,2021-03-02T21:26:14Z,article
+14922,winner,4111,Lando Vannata,2021-03-16,2021-02-16T17:18:03Z,article
+14922,loser,8223,Mike Grundy,2021-03-16,2021-02-20T22:29:01Z,article
+14907,winner,3583,Norma Dumont,2021-03-23,2021-03-11T20:31:33Z,article
+14907,loser,8240,Felicia Spencer,2021-03-23,2021-03-19T13:16:09Z,article
+14871,winner,8063,Ilir Latifi,2021-04-06,2021-04-01T23:07:33Z,article
+14871,loser,87,Tanner Boser,2021-04-06,2021-03-25T15:48:13Z,article
+14876,winner,1296,Sean Woodson,2021-04-06,2020-12-14T01:54:20Z,article
+14876,loser,1259,Youssef Zalal,2021-04-06,2021-03-25T15:47:35Z,article
+14897,winner,5578,Lauren Murphy,2021-04-13,2021-03-28T07:12:15Z,article
+14897,loser,8002,Joanne Wood,2021-04-13,2021-03-30T11:02:46Z,article
+14903,winner,69,Carlos Felipe,2021-04-13,2021-04-11T14:38:22Z,article
+14903,loser,8023,Jake Collier,2021-04-13,2021-04-02T08:13:10Z,article
+14884,winner,8127,Nicolae Negumereanu,2021-04-20,2019-10-21T05:30:48Z,article
+14884,loser,8030,Aleksa Camur,2021-04-20,2021-04-02T18:32:04Z,article
+14863,winner,8164,Charles Rosa,2021-04-27,2021-04-25T20:49:18Z,article
+14863,loser,8274,Justin Jaynes,2021-04-27,2021-04-09T07:28:26Z,article
+14850,winner,564,Brad Tavares,2021-05-11,2021-05-05T00:53:38Z,article
+14850,loser,8272,Omari Akhmedov,2021-05-11,2021-05-05T00:53:34Z,article
+14819,winner,8178,T.J. Dillashaw,2021-05-25,2021-05-23T08:56:32Z,article
+14819,loser,1504,Cory Sandhagen,2021-05-25,2021-05-21T12:38:40Z,article
+14822,winner,4367,Maycee Barber,2021-05-25,2021-05-18T16:14:05Z,article
+14822,loser,5640,Miranda Maverick,2021-05-25,2021-05-20T10:09:02Z,article
+14810,winner,1501,Song Yadong,2021-06-08,2021-06-07T17:14:25Z,article
+14810,loser,8265,Casey Kenney,2021-06-08,2021-06-07T17:13:41Z,article
+14748,winner,8015,Mark Madsen (fighter),2021-06-22,2021-06-09T18:44:15Z,article
+14748,loser,6557,Clay Guida,2021-06-22,2021-06-21T16:06:12Z,article
+14778,winner,6694,Wellington Turman,2021-06-29,2021-06-27T21:38:38Z,article
+14778,loser,8149,Sam Alvey,2021-06-29,2021-06-29T04:36:17Z,article
+14762,winner,525,Krzysztof Jotko,2021-08-03,2021-07-10T13:18:42Z,article
+14762,loser,8128,Misha Cirkunov,2021-08-03,2021-06-15T09:42:28Z,article
+14764,winner,1072,Jared Gordon,2021-08-03,2021-07-31T17:10:10Z,article
+14764,loser,6326,Joe Solecki,2021-08-03,2021-07-28T12:17:51Z,article
+14719,winner,1530,Chris Gutierrez,2021-08-10,2021-04-21T04:06:00Z,article
+14719,loser,8201,Felipe Colares,2021-08-10,2021-07-28T12:22:23Z,article
+14697,winner,5410,Danny Roberts (fighter),2021-08-17,2021-07-19T18:52:45Z,article
+14697,loser,544,Ramazan Emeev,2021-08-17,2021-06-28T09:22:17Z,article
+14681,winner,8133,Francisco Trinaldo,2021-08-24,2021-06-24T11:07:03Z,article
+14681,loser,8167,Dwight Grant,2021-08-24,2021-07-05T10:33:56Z,article
+14664,winner,4455,Rose Namajunas,2021-09-07,2021-08-31T17:49:41Z,article
+14664,loser,4923,Zhang Weili,2021-09-07,2021-09-03T20:26:39Z,article
+14645,winner,1535,Adrian Yañez,2021-09-21,2021-09-18T01:08:07Z,article
+14645,loser,1539,Davey Grant,2021-09-21,2021-09-18T01:08:04Z,article
+14629,winner,772,Geoff Neal,2021-10-12,2021-10-12T11:05:47Z,article
+14629,loser,834,Santiago Ponzinibbio,2021-10-12,2021-10-12T11:05:18Z,article
+14616,winner,2260,Amanda Lemos,2021-10-19,2021-10-13T14:34:00Z,article
+14616,loser,2264,Angela Hill,2021-10-19,2021-10-16T15:57:51Z,article
+14567,winner,500,Sean Strickland,2021-12-07,2021-12-04T03:07:16Z,article
+14567,loser,857,Jack Hermansson,2021-12-07,2021-12-04T03:07:19Z,article
+14572,winner,1364,Julian Erosa,2021-12-07,2021-10-29T06:47:27Z,article
+14572,loser,8080,Steven Peterson,2021-12-07,2021-11-30T14:52:10Z,article
+14558,winner,7983,Andrei Arlovski,2021-12-14,2021-11-24T04:41:01Z,article
+14558,loser,8114,Jared Vanderaa,2021-12-14,2021-12-03T23:46:32Z,article
+14559,winner,3646,Casey O'Neill,2021-12-14,2021-12-04T18:32:50Z,article
+14559,loser,8228,Roxanne Modafferi,2021-12-14,2021-11-29T18:15:36Z,article
+14545,winner,760,Joaquin Buckley,2021-12-21,2021-12-20T10:06:12Z,article
+14545,loser,6320,Abdul Razak Alhassan,2021-12-21,2021-12-20T10:06:24Z,article
+14485,winner,5878,Marina Rodriguez,2022-01-04,2021-12-31T00:25:04Z,article
+14485,loser,2258,Yan Xiaonan,2022-01-04,2022-01-04T22:44:26Z,article
+14486,winner,8127,Nicolae Negumereanu,2022-01-04,2021-12-14T02:15:12Z,article
+14486,loser,73,Kennedy Nzechukwu,2022-01-04,2021-11-14T00:13:32Z,article
+14490,winner,1053,Ľudovít Klein,2022-01-04,2021-12-28T17:34:03Z,article
+14490,loser,8217,Devonte Smith,2022-01-04,2021-12-31T00:29:18Z,article
+14508,winner,7994,Bryan Barberena,2022-01-25,2022-01-20T18:09:28Z,article
+14508,loser,8066,Matt Brown (fighter),2022-01-25,2022-01-21T09:50:32Z,article
+14510,winner,774,Neil Magny,2022-01-25,2022-01-22T19:05:11Z,article
+14510,loser,803,Max Griffin,2022-01-25,2022-01-22T01:09:16Z,article
+14454,winner,1249,Aljamain Sterling,2022-02-08,2022-01-23T02:22:58Z,article
+14454,loser,1498,Petr Yan,2022-02-08,2022-01-26T07:10:09Z,article
+14456,winner,2251,Mackenzie Dern,2022-02-08,2022-02-08T10:56:30Z,article
+14456,loser,2263,Tecia Pennington,2022-02-08,2022-01-12T17:02:33Z,article
+14407,winner,7983,Andrei Arlovski,2022-03-01,2022-02-24T11:09:09Z,article
+14407,loser,8023,Jake Collier,2022-03-01,2022-01-18T14:11:44Z,article
+14466,winner,6625,Carla Esparza,2022-03-08,2022-02-08T16:28:49Z,article
+14466,loser,4455,Rose Namajunas,2022-03-08,2022-03-07T04:46:48Z,article
+14468,winner,6624,Ovince Saint Preux,2022-03-08,2022-02-26T01:51:52Z,article
+14468,loser,8098,Maurício Rua,2022-03-08,2022-02-27T22:09:29Z,article
+14469,winner,786,Randy Brown (fighter),2022-03-08,2022-03-06T05:03:16Z,article
+14469,loser,809,Khaos Williams,2022-03-08,2022-03-06T05:03:19Z,article
+14471,winner,4403,Macy Chiasson,2022-03-08,2022-02-27T22:18:19Z,article
+14471,loser,3583,Norma Dumont,2022-03-08,2022-02-23T17:34:12Z,article
+14431,winner,3562,Katlyn Cerminara,2022-03-15,2022-03-15T03:49:02Z,article
+14431,loser,2269,Amanda Ribas,2022-03-15,2022-03-02T03:29:32Z,article
+14383,winner,2634,Ketlen Vieira,2022-03-22,2022-02-26T02:34:41Z,article
+14383,loser,7991,Holly Holm,2022-03-22,2022-03-07T00:18:29Z,article
+14384,winner,569,Michel Pereira,2022-03-22,2022-03-15T22:26:05Z,article
+14384,loser,834,Santiago Ponzinibbio,2022-03-22,2022-03-09T13:13:58Z,article
+14387,winner,535,Jun Yong Park,2022-03-22,2022-02-26T23:09:40Z,article
+14387,loser,542,Eryk Anders,2022-03-22,2022-02-20T04:32:30Z,article
+14356,winner,8183,Jeff Molina,2022-04-05,2022-02-27T03:09:25Z,article
+14356,loser,1626,Zhalgas Zhumagulov,2022-04-05,2022-03-06T04:20:50Z,article
+14335,winner,4922,Valentina Shevchenko,2022-04-13,2022-03-14T19:27:48Z,article
+14335,loser,2637,Taila Santos,2022-04-13,2022-03-29T08:55:44Z,article
+14339,winner,7966,Joshua Culibao,2022-04-13,2022-01-29T05:55:26Z,article
+14339,loser,6179,Seung Woo Choi,2022-04-13,2022-03-17T20:11:24Z,article
+14284,winner,1272,Josh Emmett,2022-04-19,2022-03-22T08:55:20Z,article
+14284,loser,1305,Calvin Kattar,2022-04-19,2022-04-16T11:11:09Z,article
+14308,winner,2332,Vanessa Demopoulos,2022-04-26,2022-04-13T15:53:45Z,article
+14308,loser,8060,Jinh Yu Frey,2022-04-26,2022-04-12T04:17:26Z,article
+14278,winner,1137,Jamie Mullarkey,2022-05-10,2022-03-06T18:37:19Z,article
+14278,loser,1099,Michael Johnson (fighter),2022-05-10,2022-05-10T04:55:33Z,article
+14280,winner,8168,Antonina Shevchenko,2022-05-10,2022-05-07T01:35:28Z,article
+14280,loser,8169,Cortney Casey,2022-05-10,2022-05-03T01:57:22Z,article
+14319,winner,3960,Joselyne Edwards,2022-05-31,2022-05-01T03:09:33Z,article
+14319,loser,8068,Ji Yeon Kim (fighter),2022-05-31,2022-05-15T18:27:29Z,article
+14202,winner,8146,Nina Nunes,2022-06-14,2022-06-13T23:12:18Z,article
+14202,loser,8078,Cynthia Calvillo,2022-06-14,2022-06-14T20:02:31Z,article
+14147,winner,1319,Andre Fili,2022-07-19,2022-06-30T03:18:10Z,article
+14147,loser,7951,Bill Algeo,2022-07-19,2022-07-19T19:01:27Z,article
+14149,winner,42,Rodrigo Nascimento,2022-07-19,2022-07-14T06:29:47Z,article
+14149,loser,87,Tanner Boser,2022-07-19,2022-07-14T06:28:37Z,article
+14324,winner,3747,Sean O'Malley (fighter),2022-08-23,2022-07-24T04:29:59Z,article
+14324,loser,1498,Petr Yan,2022-08-23,2022-08-23T23:00:12Z,article
+14087,winner,803,Max Griffin,2022-08-30,2022-08-15T00:45:30Z,article
+14087,loser,6626,Tim Means,2022-08-30,2022-08-15T00:45:25Z,article
+14090,winner,259,Khalil Rountree Jr.,2022-08-30,2022-08-04T02:21:56Z,article
+14090,loser,286,Dustin Jacoby,2022-08-30,2022-08-09T03:41:56Z,article
+14069,winner,6557,Clay Guida,2022-10-04,2022-09-07T13:20:18Z,article
+14069,loser,8112,Scott Holtzman,2022-10-04,2022-08-26T00:25:13Z,article
+14048,winner,514,Jared Cannonier,2022-10-18,2022-10-18T08:17:47Z,article
+14048,loser,500,Sean Strickland,2022-10-18,2022-10-05T22:25:41Z,article
+14004,winner,6623,Raquel Pennington,2022-11-15,2022-11-01T23:23:51Z,article
+14004,loser,2634,Ketlen Vieira,2022-11-15,2022-11-08T14:13:04Z,article
+14033,winner,793,Nicolas Dalby,2022-11-22,2022-11-08T03:59:29Z,article
+14033,loser,7979,Warlley Alves,2022-11-22,2022-11-08T03:58:48Z,article
+13966,winner,1011,Mateusz Gamrot,2023-01-03,2022-12-17T01:37:01Z,article
+13966,loser,1022,Jalin Turner,2023-01-03,2022-12-12T11:44:07Z,article
+13938,winner,6045,Victor Henry (fighter),2023-01-10,2021-05-29T02:17:29Z,article
+13938,loser,8083,Tony Gravely,2023-01-10,2022-10-21T18:54:05Z,article
+13916,winner,8002,Joanne Wood,2023-01-17,2023-01-13T09:28:15Z,article
+13916,loser,5109,Luana Carolina,2023-01-17,2023-01-13T08:59:12Z,article
+13919,winner,1504,Cory Sandhagen,2023-01-24,2023-01-18T16:21:24Z,article
+13919,loser,1511,Marlon Vera,2023-01-24,2023-01-22T06:25:36Z,article
+13922,winner,4367,Maycee Barber,2023-01-24,2023-01-13T09:10:18Z,article
+13922,loser,6190,Andrea Lee (fighter),2023-01-24,2023-01-13T09:14:13Z,article
+13898,winner,5800,Luana Pinheiro,2023-02-07,2022-04-12T07:59:55Z,article
+13898,loser,7982,Michelle Waterson-Gomez,2023-02-07,2023-01-17T04:07:26Z,article
+13900,winner,2262,Loopy Godinez,2023-02-07,2023-01-13T09:39:22Z,article
+13900,loser,8078,Cynthia Calvillo,2023-02-07,2023-01-22T20:11:36Z,article
+13891,winner,3960,Joselyne Edwards,2023-02-14,2023-01-26T08:57:58Z,article
+13891,loser,4003,Lucie Pudilová,2023-02-14,2023-01-26T08:57:56Z,article
+13871,winner,773,Jeremiah Wells,2023-02-21,2023-02-05T23:14:36Z,article
+13871,loser,6484,Matthew Semelsberger,2023-02-21,2022-12-22T18:21:04Z,article
+13844,winner,1249,Aljamain Sterling,2023-03-07,2023-03-07T23:26:43Z,article
+13844,loser,4925,Henry Cejudo,2023-03-07,2023-02-25T23:45:33Z,article
+13829,winner,42,Rodrigo Nascimento,2023-03-21,2023-03-03T04:22:49Z,article
+13829,loser,8063,Ilir Latifi,2023-03-21,2023-03-16T00:30:35Z,article
+13795,winner,1772,Amir Albazi,2023-04-04,2023-03-13T22:33:32Z,article
+13795,loser,1756,Kai Kara-France,2023-04-04,2023-03-27T10:25:00Z,article
+13800,winner,813,Elizeu Zaleski dos Santos,2023-04-04,2023-03-22T00:05:04Z,article
+13800,loser,6693,Abubakar Nurmagomedov,2023-04-04,2023-03-09T02:50:39Z,article
+13751,winner,774,Neil Magny,2023-04-25,2023-04-11T16:25:01Z,article
+13751,loser,818,Philip Rowe,2023-04-25,2022-12-05T15:23:29Z,article
+13702,winner,3056,Ariane Lipski da Silva,2023-05-02,2023-03-12T14:01:39Z,article
+13702,loser,3536,Melissa Gatto,2023-05-02,2023-03-21T23:42:31Z,article
+13707,winner,3370,Karol Rosa,2023-05-02,2023-04-23T00:57:27Z,article
+13707,loser,3471,Yana Santos,2023-05-02,2023-04-24T13:36:39Z,article
+13809,winner,1748,Alexandre Pantoja,2023-05-09,2023-04-17T22:00:24Z,article
+13809,loser,1753,Brandon Moreno,2023-05-09,2023-05-08T15:49:25Z,article
+13811,winner,1013,Dan Hooker,2023-05-09,2023-05-01T15:02:25Z,article
+13811,loser,1022,Jalin Turner,2023-05-09,2023-04-25T07:59:07Z,article
+13689,winner,3746,Alex Pereira,2023-05-30,2023-05-28T22:16:06Z,article
+13689,loser,260,Jan Błachowicz,2023-05-30,2023-05-27T13:43:01Z,article
+13672,winner,594,Andre Petroski,2023-06-20,2023-06-20T16:05:11Z,article
+13672,loser,3530,Gerald Meerschaert,2023-06-20,2023-05-28T07:01:35Z,article
+13535,winner,44,Anthony Smith (fighter),2023-06-27,2023-06-22T06:55:56Z,article
+13535,loser,32,Ryan Spann,2023-06-27,2023-05-14T09:50:38Z,article
+13604,winner,756,Jack Della Maddalena,2023-07-18,2023-07-18T06:02:09Z,article
+13604,loser,770,Kevin Holland,2023-07-18,2023-07-17T15:21:57Z,article
+13518,winner,2262,Loopy Godinez,2023-09-12,2023-08-29T08:33:11Z,article
+13518,loser,2259,Tabatha Ricci,2023-09-12,2023-06-27T18:01:22Z,article
+13482,winner,549,André Muniz,2023-10-10,2023-10-01T19:51:48Z,article
+13482,loser,535,Jun Yong Park,2023-10-10,2023-10-01T19:51:37Z,article
+13488,winner,2271,Talita Alencar,2023-10-10,2023-09-20T14:30:57Z,article
+13488,loser,5875,Rayanne dos Santos,2023-10-10,2023-09-07T03:46:25Z,article
+13455,winner,502,Dricus du Plessis,2023-11-21,2023-11-17T22:33:04Z,article
+13455,loser,500,Sean Strickland,2023-11-21,2023-11-18T05:57:14Z,article
+13458,winner,782,Chris Curtis (fighter),2023-11-21,2023-11-20T04:04:40Z,article
+13458,loser,545,Marc-André Barriault,2023-11-21,2023-10-13T02:47:20Z,article
+13461,winner,1296,Sean Woodson,2023-11-21,2023-11-09T23:46:42Z,article
+13461,loser,1512,Charles Jourdain,2023-11-21,2023-11-09T23:46:37Z,article
+13401,winner,803,Max Griffin,2023-12-12,2023-12-01T23:35:33Z,article
+13401,loser,773,Jeremiah Wells,2023-12-12,2023-12-01T23:35:30Z,article
+13421,winner,754,Ian Machado Garry,2023-12-19,2023-12-18T07:49:19Z,article
+13421,loser,772,Geoff Neal,2023-12-19,2023-12-18T07:49:11Z,article
+13379,winner,1751,Brandon Royval,2023-12-26,2023-12-21T14:39:56Z,article
+13379,loser,1753,Brandon Moreno,2023-12-26,2023-12-21T08:44:50Z,article
+13387,winner,1044,Farès Ziam,2023-12-26,2023-08-27T13:15:48Z,article
+13387,loser,1111,Claudio Puelles,2023-12-26,2023-12-12T14:18:03Z,article
+13418,winner,8002,Joanne Wood,2024-01-09,2023-12-19T09:40:09Z,article
+13418,loser,8003,Maryna Moroz,2024-01-09,2023-09-09T14:02:14Z,article
+13355,winner,6624,Ovince Saint Preux,2024-01-16,2023-12-27T19:05:05Z,article
+13355,loser,73,Kennedy Nzechukwu,2024-01-16,2023-08-06T15:28:28Z,article
+13312,winner,506,Brendan Allen,2024-02-06,2024-02-01T20:34:40Z,article
+13312,loser,782,Chris Curtis (fighter),2024-02-06,2024-01-23T09:01:18Z,article
+13313,winner,6481,Damon Jackson,2024-02-06,2024-01-12T15:37:41Z,article
+13313,loser,1039,Alexander Hernandez,2024-02-06,2024-01-20T16:34:01Z,article
+13327,winner,1002,Arman Tsarukyan,2024-02-13,2024-02-07T21:05:21Z,article
+13327,loser,4374,Charles Oliveira,2024-02-13,2024-02-11T16:36:54Z,article
+13334,winner,2266,Jéssica Andrade,2024-02-13,2024-02-12T04:37:34Z,article
+13334,loser,5878,Marina Rodriguez,2024-02-13,2024-02-08T15:01:48Z,article
+13246,winner,2259,Tabatha Ricci,2024-03-12,2024-03-09T03:40:45Z,article
+13246,loser,2263,Tecia Pennington,2024-03-12,2024-03-09T03:40:43Z,article
+13261,winner,2332,Vanessa Demopoulos,2024-03-19,2024-03-09T03:44:45Z,article
+13261,loser,7981,Emily Ducote,2024-03-19,2024-03-09T03:44:36Z,article
+13227,winner,500,Sean Strickland,2024-04-02,2024-03-31T15:58:57Z,article
+13227,loser,255,Paulo Costa,2024-04-02,2024-03-30T00:35:38Z,article
+13231,winner,523,Roman Kopylov,2024-04-02,2024-02-18T07:07:05Z,article
+13231,loser,593,César Almeida (fighter),2024-04-02,2024-04-01T01:41:51Z,article
+13197,winner,2790,Montana De La Rosa,2024-04-09,2024-03-23T20:33:17Z,article
+13197,loser,6190,Andrea Lee (fighter),2024-04-09,2024-03-10T08:41:27Z,article
+13280,winner,1083,Nasrat Haqparast,2024-04-23,2024-03-25T04:56:40Z,article
+13280,loser,1072,Jared Gordon,2024-04-23,2024-04-19T15:18:13Z,article
+13282,winner,768,Rinat Fakhretdinov,2024-04-23,2024-04-23T11:48:10Z,article
+13282,loser,793,Nicolas Dalby,2024-04-23,2024-04-07T17:11:20Z,article
+13268,winner,1319,Andre Fili,2024-04-30,2024-04-06T06:40:13Z,article
+13268,loser,4211,Cub Swanson,2024-04-30,2024-04-06T05:27:58Z,article
+13165,winner,785,Muslim Salikhov,2024-05-14,2024-04-24T06:29:58Z,article
+13165,loser,834,Santiago Ponzinibbio,2024-05-14,2024-03-11T16:26:34Z,article
+13178,winner,1013,Dan Hooker,2024-06-18,2024-05-16T00:16:15Z,article
+13178,loser,1011,Mateusz Gamrot,2024-06-18,2024-04-20T18:17:02Z,article
+13179,winner,6235,Jairzinho Rozenstruik,2024-06-18,2024-05-14T09:23:35Z,article
+13179,loser,28,Tai Tuivasa,2024-06-18,2024-06-11T14:58:01Z,article
+13182,winner,1468,Ricardo Ramos (fighter),2024-06-18,2024-06-17T18:22:25Z,article
+13182,loser,7966,Joshua Culibao,2024-06-18,2024-06-17T08:56:14Z,article
+5767,winner,5816,Julianna Peña,2024-08-06,2024-07-15T20:09:09Z,article
+5767,loser,6623,Raquel Pennington,2024-08-06,2024-08-06T13:32:54Z,article
+5768,winner,1503,Mario Bautista,2024-08-06,2024-08-06T11:11:09Z,article
+5768,loser,5855,José Aldo,2024-08-06,2024-08-06T11:09:34Z,article
+5773,winner,1039,Alexander Hernandez,2024-08-06,2024-04-14T19:28:40Z,article
+5773,loser,5346,Austin Hubbard,2024-08-06,2024-04-27T22:49:47Z,article
+5645,winner,1751,Brandon Royval,2024-08-13,2024-08-10T09:30:43Z,article
+5645,loser,1750,Tatsuro Taira,2024-08-13,2024-08-01T18:10:06Z,article
+5646,winner,535,Jun Yong Park,2024-08-13,2024-08-02T01:46:43Z,article
+5646,loser,564,Brad Tavares,2024-08-13,2024-08-02T13:28:20Z,article
+5649,winner,771,Daniel Rodriguez (fighter),2024-08-13,2024-08-10T22:18:59Z,article
+5649,loser,822,Alex Morono,2024-08-13,2024-07-19T07:56:11Z,article
+5659,winner,1,Ciryl Gane,2024-10-08,2024-10-04T00:31:10Z,article
+5659,loser,2,Alexander Volkov (fighter),2024-10-08,2024-09-24T15:44:53Z,article
+5430,winner,1516,Daniel Marcos,2024-10-15,2024-09-22T07:13:13Z,article
+5430,loser,1535,Adrian Yañez,2024-10-15,2024-10-12T01:51:13Z,article
+4931,winner,2264,Angela Hill,2024-12-17,2024-11-29T05:19:32Z,article
+4931,loser,2268,Ketlen Souza,2024-12-17,2024-11-16T17:07:48Z,article
+4073,winner,1530,Chris Gutierrez,2025-02-25,2025-02-24T14:22:31Z,article
+4073,loser,3587,John Castañeda,2025-02-25,2025-02-23T05:35:10Z,article
+4000,winner,284,Modestas Bukauskas,2025-03-11,2025-02-28T15:57:55Z,article
+4000,loser,288,Ion Cutelaba,2025-03-11,2025-02-28T15:58:30Z,article
+3564,winner,782,Chris Curtis (fighter),2025-05-13,2025-05-08T00:56:42Z,article
+3564,loser,803,Max Griffin,2025-05-13,2025-03-18T05:41:26Z,article
+3692,winner,258,Reinier de Ridder,2025-05-27,2025-05-17T12:07:24Z,article
+3692,loser,257,Robert Whittaker (fighter),2025-05-27,2025-05-18T19:57:20Z,article
+3586,winner,1078,Joaquim Silva (fighter),2025-07-15,2025-07-11T21:12:06Z,article
+3586,loser,1111,Claudio Puelles,2025-07-15,2025-07-11T21:10:02Z,article
+2731,winner,1506,Deiveson Figueiredo,2025-08-12,2025-07-16T00:10:10Z,article
+2731,loser,1520,Montel Jackson,2025-08-12,2025-07-22T23:43:43Z,article
+3060,winner,1505,Aiemann Zahabi,2025-08-19,2025-08-07T23:23:59Z,article
+3060,loser,1511,Marlon Vera,2025-08-19,2025-08-07T23:24:21Z,article
+2878,winner,2,Alexander Volkov (fighter),2025-08-26,2025-08-15T18:12:39Z,article
+2878,loser,10,Jailton Almeida,2025-08-26,2025-08-18T08:00:06Z,article
+2611,winner,3583,Norma Dumont,2025-09-02,2025-08-18T12:57:38Z,article
+2611,loser,2634,Ketlen Vieira,2025-09-02,2025-08-18T13:00:18Z,article
+1825,winner,569,Michel Pereira,2025-12-23,2025-12-11T15:20:38Z,article
+1825,loser,639,Zachary Reese,2025-12-23,2025-12-14T22:52:41Z,article
+1811,winner,3187,Charles Johnson (fighter),2026-01-13,2025-12-08T18:57:25Z,article
+1811,loser,1792,Bruno Gustavo da Silva,2026-01-13,2026-01-05T02:13:29Z,article
+1841,winner,1270,Nathaniel Wood (fighter),2026-01-20,2026-01-20T05:18:08Z,article
+1841,loser,1281,Losene Keita,2026-01-20,2026-01-19T18:18:01Z,article
+1653,winner,261,Dominick Reyes,2026-02-10,2026-01-27T14:28:50Z,article
+1653,loser,3479,Johnny Walker (fighter),2026-02-10,2026-01-06T06:06:00Z,article
+1348,winner,1517,Raoni Barcelos,2026-02-24,2026-01-18T11:49:37Z,article
+1348,loser,1520,Montel Jackson,2026-02-24,2026-02-18T11:45:34Z,article
+1134,winner,500,Sean Strickland,2026-03-10,2026-02-26T17:03:41Z,article
+1134,loser,501,Khamzat Chimaev,2026-03-10,2026-03-04T13:30:00Z,article

@@ -71,68 +71,135 @@ alpha, beta = np.linalg.lstsq(X, D, rcond=None)[0]
 print(f"n = {len(p)}   alpha = {alpha:+.3f}   beta = {beta:+.3f}")"""),
     md("""## Figure 1 — the attention gap at equal output
 
-Each point is one split decision. **x is the winner's share of the fight's significant
-strikes, centred at 0.5** — so x = +0.1 is a 60/40 split, a 20-point gap between the two
-fighters, not 10. y is the difference in their attention change. The fitted line's height
-**at x = 0**, where both landed equally, is the label effect."""),
-    code("""fig, ax = plt.subplots(figsize=(5.4, 3.5))
+**The winner gets the spotlight even when output was even.** Each dot is one split
+decision. The horizontal axis shows how the strikes split between the fighters: 50/50 in
+the centre, 60/40 in the winner's favour to the right, and the loser landing more to the
+left. The vertical axis shows how much more attention the winner gained than the loser.
+If attention simply followed performance, the line would pass through zero at 50/50.
+Instead it sits 0.28 log points above zero, a 33% gap, when both fighters landed equally.
+The line barely rises as the winner's edge grows. The gap holds whether or not main events
+are included, with betting odds added as a control, with each year dropped in turn, and
+over days 31–90.
 
-ax.axhline(0, color="#d8d7d2", lw=0.8, zorder=1)
-ax.axvline(0, color="#d8d7d2", lw=0.8, zorder=1)
-ax.scatter(p, D, s=13, color=INK2, alpha=0.30, linewidths=0, zorder=2)
+*(The percent scale is linear in log points, so equal distances are equal ratios; 11 of
+309 bouts fall outside the axis and are drawn at its edge.)*"""),
+    code("""fig, ax = plt.subplots(figsize=(5.8, 3.6))
+
+CLIP = 2.0                      # log points; dots beyond this are drawn at the edge
+below, above = D < -CLIP, D > CLIP
+inside = ~(below | above)
+
+# the half where the LOSER out-landed the winner
+ax.axvspan(-0.35, 0, color="#f0efe9", zorder=0)
+ax.text(-0.335, -CLIP * 0.93, "loser out-landed the winner", fontsize=7.5,
+        color=INK2, ha="left", va="bottom")
+
+ax.axhline(0, color="#c9c8c2", lw=0.8, zorder=1)
+ax.axvline(0, color="#c9c8c2", lw=0.8, zorder=1)
+ax.scatter(p[inside], D[inside], s=13, color=INK2, alpha=0.30, linewidths=0, zorder=2)
+# outliers pinned to the edge, so they are visible without squashing the cloud
+ax.scatter(p[above], np.full(above.sum(), CLIP), s=16, marker="^", color=INK2,
+           alpha=0.55, linewidths=0, zorder=3, clip_on=False)
+ax.scatter(p[below], np.full(below.sum(), -CLIP), s=16, marker="v", color=INK2,
+           alpha=0.55, linewidths=0, zorder=3, clip_on=False)
 
 xs = np.linspace(p.min(), p.max(), 100)
 ax.plot(xs, alpha + beta * xs, color=BLUE, lw=2, zorder=4)
-
-# the headline: the intercept
 ax.plot([0], [alpha], marker="o", ms=9, color=BLUE, mec=SURFACE, mew=2, zorder=5)
-ax.annotate(f"+{alpha:.2f} log points\\n(+{100*(math.exp(alpha)-1):.0f}% attention)\\nat equal striking",
-            xy=(0, alpha), xytext=(-0.33, 4.3),
-            color=INK, fontsize=8.5, ha="left", va="top",
-            arrowprops=dict(arrowstyle="-", color=BLUE, lw=1.2, alpha=0.9,
-                            connectionstyle="angle3,angleA=0,angleB=70",
-                            shrinkA=2, shrinkB=7))
+ax.annotate(f"+{100*(math.exp(alpha)-1):.0f}% at 50/50", xy=(0, alpha),
+            xytext=(0.055, 1.35), color=INK, fontsize=9, ha="left", va="center",
+            arrowprops=dict(arrowstyle="-", color=INK2, lw=0.9, alpha=0.8,
+                            connectionstyle="angle3,angleA=0,angleB=75",
+                            shrinkA=2, shrinkB=8))
 
-ax.set_xlabel("winner's share of significant strikes, minus 0.5")
-ax.set_ylabel("winner's attention change\\nminus loser's (log points)")
-ax.set_title("Winners gain more attention even when output was even", loc="left",
-             color=INK, pad=10)
-for s in ("top", "right"):
-    ax.spines[s].set_visible(False)
+# y in percent: round percentages, placed at their true log positions, so the
+# geometry stays honest (equal distances are equal ratios).
+ypct = [-50, 0, 100, 300]
+ax.set_yticks([math.log1p(v / 100) for v in ypct])
+ax.set_yticklabels([("0" if v == 0 else f"{v:+d}%".replace("-", "\u2212"))
+                    for v in ypct])
+ax.set_ylim(-CLIP, CLIP)
+
+xticks = [-0.10, 0.0, 0.10, 0.20]
+ax.set_xticks(xticks)
+ax.set_xticklabels(["40/60", "50/50", "60/40", "70/30"])
+ax.set_xlim(-0.35, 0.42)
+
+ax.set_xlabel("how the significant strikes split (winner / loser)")
+ax.set_ylabel("winner's attention gain,\\nrelative to the loser's")
+ax.set_title("The winner gets the spotlight even when output was even",
+             loc="left", color=INK, pad=10)
+for sp in ("top", "right"):
+    ax.spines[sp].set_visible(False)
+fig.text(0.01, -0.06, f"Triangles: {int(above.sum() + below.sum())} of {len(D)} bouts fall "
+         f"outside the axis and are drawn at its edge.", fontsize=7.5, color=INK2)
 fig.tight_layout()
 fig.savefig(FIGS / "fig1_label_effect.png", bbox_inches="tight")
 plt.show()"""),
     md("""## Figure 2 — what moves attention, and what does not
 
-Point estimates with 95% bootstrap intervals (10,000 resamples of bouts).
-Blue: the pre-registered confirmatory estimates. Orange: the placebo, which should
-sit at zero, and the descriptive comparison."""),
-    code("""rows = [
-    ("Winning, at equal output  (H1)",            alpha,   0.1687,  0.3960, BLUE,   "o"),
-    ("Fight of the Night  (H3)",                  0.2322,  0.1462,  0.3218, BLUE,   "o"),
-    # H2 rescaled so it is in the same units (log points) as the level effects: the
-    # effect of the winner's share sitting 0.1 above even, i.e. a 60/40 split. The
-    # slope itself is +0.79 per unit of (share - 0.5).
-    ("Winning the striking 60/40  (H2)",          0.0789, -0.0224, 0.1811, BLUE,   "o"),
-    ("Placebo: same test, both windows pre-fight", 0.0581, -0.0082, 0.1254, ORANGE, "D"),
-    ("Losing a FOTN vs winning a plain fight",    -0.1572, -0.2486, -0.0642, ORANGE, "D"),
-]
-fig, ax = plt.subplots(figsize=(6.4, 3.0))
-ys = np.arange(len(rows))[::-1]
-ax.axvline(0, color="#d8d7d2", lw=0.8, zorder=1)
-for y, (label, est, lo, hi, colour, marker) in zip(ys, rows):
-    ax.plot([lo, hi], [y, y], color=colour, lw=2, solid_capstyle="round", zorder=3)
-    ax.plot([est], [y], marker=marker, ms=8, color=colour, mec=SURFACE, mew=1.6, zorder=4)
-    ax.text(hi + 0.012, y, f"{est:+.2f}", va="center", ha="left", color=INK, fontsize=8.5)
+**Labels move attention; the measurable performance edge does not.** Blue are the
+pre-registered tests. Winning at equal output adds +33% (95% CI 18–49%). Fight of the
+Night adds +26% (16–38%). A 60/40 strike edge adds +8%, with an interval spanning zero,
+which is inconclusive: the study can only detect large performance effects. Orange are
+the placebo and a descriptive comparison. The placebo runs the same test on two windows
+before the fight, where the effect should be zero. It returns +6% (not significant); net
+of it, the win is worth 25%. Losing the night's best fight still yields 15% less attention
+than winning an ordinary one. Intervals come from 10,000 bootstrap resamples of bouts,
+with a Holm correction across the three tests."""),
+    code("""def pct(x):
+    return 100 * (math.exp(x) - 1)
 
-ax.set_yticks(ys)
-ax.set_yticklabels([r[0] for r in rows], color=INK)
-ax.set_xlabel("change in log daily Wikipedia pageviews (95% bootstrap interval)")
-ax.set_title("The label moves attention; a measurable performance edge does not",
-             loc="right", color=INK, pad=10, fontsize=9.5)
-ax.set_xlim(-0.30, 0.50)
-for s in ("top", "right", "left"):
-    ax.spines[s].set_visible(False)
+groups = [
+    ("Official labels", [
+        ("Winning, when both landed equally", 0.2830, 0.1687, 0.3960, BLUE, "o"),
+        ("Being in the Fight of the Night",   0.2322, 0.1462, 0.3218, BLUE, "o"),
+    ]),
+    ("Measured performance", [
+        ("Out-landing the loser 60/40",       0.0789, -0.0224, 0.1811, BLUE, "o"),
+    ]),
+    ("Checks", [
+        ("Placebo: both windows before the fight", 0.0581, -0.0082, 0.1254, ORANGE, "D"),
+        ("Losing the best fight vs winning a plain one", -0.1572, -0.2486, -0.0642,
+         ORANGE, "D"),
+    ]),
+]
+
+rows, labels, heads = [], [], []
+y = 0.0
+for gname, items in groups:
+    heads.append((y, gname))
+    y -= 0.55
+    for it in items:
+        rows.append((y, *it)); labels.append((y, it[0]))
+        y -= 1.0
+    y -= 0.35
+
+fig, ax = plt.subplots(figsize=(6.9, 3.9))
+ax.axvline(0, color="#c9c8c2", lw=0.8, zorder=1)
+for yy, label, est, lo, hi, colour, marker in rows:
+    ax.plot([pct(lo), pct(hi)], [yy, yy], color=colour, lw=2.4,
+            solid_capstyle="round", zorder=3)
+    ax.plot([pct(est)], [yy], marker=marker, ms=8.5, color=colour,
+            mec=SURFACE, mew=1.6, zorder=4)
+    ax.text(pct(hi) + 1.6, yy, f"{pct(est):+.0f}%".replace("-", "\u2212"),
+            va="center", ha="left", color=INK, fontsize=9)
+
+ax.set_yticks([yy for yy, _ in labels])
+ax.set_yticklabels([lab for _, lab in labels], color=INK)
+for yy, gname in heads:
+    ax.text(-0.02, yy, gname.upper(), transform=ax.get_yaxis_transform(),
+            ha="right", va="center", fontsize=8, color=INK2, fontweight="bold")
+
+ax.set_xlabel("change in Wikipedia attention (95% bootstrap interval)")
+ax.set_title("Labels move attention; the measurable performance edge does not",
+             loc="left", color=INK, pad=10, fontsize=10)
+ax.set_xlim(-30, 62)
+ax.set_xticks([-25, 0, 25, 50])
+ax.set_xticklabels(["−25%", "0", "+25%", "+50%"])
+ax.set_ylim(min(yy for yy, *_ in rows) - 0.6, 0.5)
+for sp in ("top", "right", "left"):
+    ax.spines[sp].set_visible(False)
 ax.tick_params(axis="y", length=0)
 fig.tight_layout()
 fig.savefig(FIGS / "fig2_estimates.png", bbox_inches="tight")
